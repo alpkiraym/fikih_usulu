@@ -2,40 +2,32 @@
 > Delillerin tearuzu; Hanefîlere, cumhura ve muhaddislere göre tercih metodu; cem ve telif örneği.
 
 ## Delillerin tearuzu
-: Tearuz = Aynı meselede iki delilden birinin, diğerinin gerektirdiğiyle çelişen bir hükmü gerektirmesidir.
-@ إِنَّمَا الرِّبَا فِي النَّسِيئَةِ | 1. hadis: Ribâ sadece vadededir, fazlalıkta değildir.
-@ لَا تَبِيعُوا الْبُرَّ بِالْبُرِّ إِلَّا سَوَاءً بِسَوَاءٍ | 2. hadis: Fazlalık da ribâdır.
+: Delillerin tearuzu = Aynı meselede iki delilden birinin, diğerinin gerektirdiğiyle çelişen bir hükmü gerektirmesidir.
+@ إِنَّمَا الرِّبَا فِي النَّسِيئَةِ | Örnek → Sadece vade, fazlalık değil.
+@ لَا تَبِيعُوا الْبُرَّ بِالْبُرِّ إِلَّا سَوَاءً بِسَوَاءٍ | → Fazlalık.
 - Bu iki hadis ribe'l-fazl konusunda tearuz etmiştir.
-!! İki ayet arasında, iki sahih hadis arasında veya ayet ile sahih hadis arasında hakiki tearuz yoktur.
+!! İki ayet arasında veya iki sahih hadis arasında veya ayet ve sahih hadis arasında hakiki tearuz yoktur.
 * Tearuz: aynı meselede iki delilin çelişen hüküm gerektirmesi (ribe'l-fazl hadisleri). İki ayet, iki sahih hadis ya da ayet ile sahih hadis arasında hakiki tearuz yoktur.
 
 ## Tercih metodu
-| Görüş | Sırasıyla
-| **Hanefîlere göre** | 1. Nesh · 2. Tercih · 3. Cem ve telif / tevfik · 4. Terk
-| **Cumhura göre** | 1. Cem ve telif / tevfik · 2. Tercih · 3. Nesh · 4. Tevakkuf
-| **Muhaddislere göre** | 1. Cem ve telif / tevfik · 2. Nesh · 3. Tercih · 4. Tevakkuf
-! Bu derste cumhurun sıralaması esas alınır.
-### Hanefîler
->> Nesh
->> Tercih
->> Cem ve telif / tevfik
->> Terk
-### Cumhur
->> Cem ve telif / tevfik
->> Tercih
->> Nesh
->> Tevakkuf
-### Muhaddisler
->> Cem ve telif / tevfik
->> Nesh
->> Tercih
->> Tevakkuf
+- **Hanefîlere göre:** Sırasıyla → Nesh, Tercih, Cem ve telif / tevfik, Terk.
+- **Cumhura göre:** Sırasıyla → Cem ve telif / tevfik, Tercih, Nesh, Tevakkuf.
+- **Muhaddislere göre:** Sırasıyla → Cem ve telif / tevfik, Nesh, Tercih, Tevakkuf.
+! Kitabımız, cumhura göre almıştır.
+| Sıra | Hanefîler | Cumhur | Muhaddisler
+| **1** | Nesh | Cem ve telif / tevfik | Cem ve telif / tevfik
+| **2** | Tercih | Tercih | Nesh
+| **3** | Cem ve telif / tevfik | Nesh | Tercih
+| **4** | Terk | Tevakkuf | Tevakkuf
 * Hanefî: nesh → tercih → cem ve telif → terk. Cumhur: cem ve telif → tercih → nesh → tevakkuf. Muhaddisler: cem ve telif → nesh → tercih → tevakkuf.
 
-## Cem ve telif örneği: Hamile kadının iddeti
-@ وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا | 1. ayet: Kocası vefat eden kadının iddeti 4 ay 10 gündür.
-@ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ | 2. ayet: Hamile kadınların iddeti doğum yapmalarıyla biter.
-| Görüş | Yol | Sonuç
-| **Hanefîler** | Nesh: 2. ayet 1. ayeti neshetmiştir. | Hamile kadının iddeti her hâlükârda doğumdur.
-| **Cumhur** | Nesih değil, cem ve telif yoluna gidilir. | Hamile kadın 4 ay 10 günden önce doğurursa bu süreyi tamamlar; sonra doğurursa zaten süreyi tamamlamış olur. Yani hamile kadının iddeti her hâlükârda 4 ay 10 gündür.
-* Hamile dulun iddeti: Hanefîlere göre 2. ayet 1.'yi nesheder → iddet doğumla biter. Cumhura göre cem ve telif → doğum 4 ay 10 günden önceyse süre tamamlanır.
+## Cem ve telif örneği
+! Kitabımızda sadece cem ve telifin örneği vardır.
+@ وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا | 1. ayet
+@ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ | 2. ayet
+- **Hanefîlere göre:** 2. ayet 1. ayeti neshetmiştir ve hamile kadının iddeti her hâlükârda doğumdur.
+- **Cumhura göre:** Nesih değil de cem ve telif yoluna gidilir ve hamile kadın eğer 4 ay 10 günden önce doğurursa bu süreyi tamamlar; sonra doğurursa zaten süreyi tamamlamış olur. Yani hamile kadının iddeti her hâlükârda 4 ay 10 gündür.
+| | Yol | Hamile dulun iddeti
+| **Hanefîler** | Nesh (2. ayet 1.'yi nesheder) | Her hâlükârda doğum
+| **Cumhur** | Cem ve telif | Doğum 4 ay 10 günden önceyse süre tamamlanır
+* Hamile dulun iddeti: Hanefîlere göre nesh → doğumla biter. Cumhura göre cem ve telif → 4 ay 10 gün dolmadan doğurursa süre tamamlanır.

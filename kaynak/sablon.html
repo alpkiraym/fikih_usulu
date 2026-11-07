@@ -249,6 +249,9 @@ details.ht li:before{content:"✓";position:absolute;left:2px;top:7px;color:var(
 .lg-k{background:var(--red-soft);border-color:var(--red)!important}.lg-o{background:#fff;border:1px dashed var(--green-2);border-left:3px solid var(--green-2)!important}
 .lg-s{background:#eef1f6;border-color:#4a6283!important}
 .def{border-left:4px solid var(--green)}
+.ek{background:#efe9fb;border-bottom:2px dashed #7a5bb5;border-radius:3px;padding:0 2px}
+.box.bek{background:#f5f1fc;border-color:#7a5bb5;border-style:dashed}.box.bek b.lb{color:#6a4ca5}
+.lg-e{background:#f5f1fc;border:1px dashed #7a5bb5;border-left:3px solid #7a5bb5!important}
 @media (max-width:560px){
   .brand{font-size:1.02rem}.lg{display:none}
   h1{font-size:1.4rem}.q{font-size:1.12rem}.card{padding:16px}
@@ -257,6 +260,15 @@ details.ht li:before{content:"✓";position:absolute;left:2px;top:7px;color:var(
   .def{grid-template-columns:1fr}
   .tbl{font-size:.84rem}.tbl th,.tbl td{padding:7px 8px}.tbl tbody th{min-width:90px}
   .tbl thead th{white-space:normal}
+  .tws{overflow:visible;background:transparent;border:0}
+  .tbl.st,.tbl.st tbody,.tbl.st tr,.tbl.st th,.tbl.st td{display:block;width:auto}
+  .tbl.st thead{display:none}
+  .tbl.st tr{background:#fff;border:1px solid var(--line);border-radius:10px;padding:9px 12px;margin:0 0 8px}
+  .tbl.st tbody th{background:none;padding:0 0 4px;min-width:0;border:0;font-size:.95rem}
+  .tbl.st tbody th:empty{display:none}
+  .tbl.st td{border:0;padding:3px 0;background:none!important}
+  .tbl.st td.bos{display:none}
+  .tbl.st td[data-l]::before{content:attr(data-l);display:block;font-size:.72rem;font-weight:600;letter-spacing:.03em;text-transform:uppercase;color:var(--gold)}
   .arb{padding:6px 10px}
   .lesson section.ls{padding:14px}
   .toc{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
@@ -291,12 +303,13 @@ const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { c
 const norm = s => String(s).toLocaleLowerCase('tr').normalize('NFD').replace(/[̀-ͯ]/g, '')
   .replace(/[’'ʿʾ‘`"]/g, '').replace(/ı/g, 'i').replace(/[^a-z0-9؀-ۿ ]/g, ' ').replace(/\s+/g, ' ').trim();
 const strip = h => String(h).replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim();
-const plain = s => String(s).replace(/\*\*/g, '').replace(/[«»]/g, '');
+const plain = s => String(s).replace(/\*\*/g, '').replace(/[«»]/g, '').replace(/\[\[|\]\]/g, '');
 // Metin biçimi: **kalın**, «Arapça»
 function fmt(s) {
   return esc(s)
     .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
-    .replace(/«([^»]+)»/g, (m, a) => /[؀-ۿ]/.test(a) ? `<span class="ar" dir="rtl" lang="ar">${a}</span>` : `«${a}»`);
+    .replace(/«([^»]+)»/g, (m, a) => /[؀-ۿ]/.test(a) ? `<span class="ar" dir="rtl" lang="ar">${a}</span>` : `«${a}»`)
+    .replace(/\[\[(.+?)\]\]/g, '<span class="ek" title="Ek · onay bekliyor">$1</span>');
 }
 
 /* ---------- kalıcı durum (tarayıcıda, ön ek: fu_) ---------- */
@@ -463,7 +476,7 @@ function home() {
       <li><b>Sınava hazırlan.</b> <i>Hızlı tekrar</i> bütün ünitelerin özünü tek sayfada verir. <i>Konu tekrarı</i> bir bölüm başlığı gösterir; önce kendin anlat, sonra içeriği aç. <i>Geçmiş sınav soruları</i>'nda önce kendin cevapla, sonra <b>Cevabı göster</b>'e dokun.</li>
       <li><b>Takip et.</b> <i>İlerlemem</i> ünite bazında başarını ve en çok karıştırdıklarını gösterir. Üstteki <b>🔍</b> bütün konu anlatımlarında arar.</li>
     </ol>
-    <div class="legend"><span class="lgt">Kutuların anlamı:</span><span class="lg-d">Tanım</span><span class="lg-n">Not</span><span class="lg-k">Dikkat</span><span class="lg-o">Örnek</span><span class="lg-s">Soru–cevap</span></div>
+    <div class="legend"><span class="lgt">Kutuların anlamı:</span><span class="lg-d">Tanım</span><span class="lg-n">Not</span><span class="lg-k">Dikkat</span><span class="lg-o">Örnek</span><span class="lg-s">Soru–cevap</span><span class="lg-e">Ek · onay bekliyor</span></div>
     <p class="hownote">İlerlemen yalnızca bu cihazda, bu tarayıcıda saklanır. Bir hata görürsen yanındaki <b>⚑ Bildir</b>'e dokun.</p>
   </details>
   <button class="study-cta" onclick="go('study')"><div class="ico">❖</div><div><h3>Çalış · ünite ünite öğren</h3><p>${uDone()} / ${UNITELER.length} ünite tamamlandı. Önce oku, sonra mini testle pekiştir.</p></div></button>
@@ -495,16 +508,18 @@ function study() {
 }
 function tblHTML(r) {
   const bos = r[0][0] === '';
-  return `<div class="tw"><table class="tbl${bos ? ' cmp' : ''}"><thead><tr>${r[0].map(c => `<th>${fmt(c)}</th>`).join('')}</tr></thead><tbody>${r.slice(1).map(row => `<tr>${row.map((c, i) => i === 0 ? `<th scope="row">${fmt(c)}</th>` : `<td>${fmt(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+  const st = r[0].length >= 3, lb = i => esc(plain(r[0][i] || ''));
+  return `<div class="tw${st ? ' tws' : ''}"><table class="tbl${bos ? ' cmp' : ''}${st ? ' st' : ''}"><thead><tr>${r[0].map(c => `<th>${fmt(c)}</th>`).join('')}</tr></thead><tbody>${r.slice(1).map(row => `<tr>${row.map((c, i) => i === 0 ? `<th scope="row">${fmt(c)}</th>` : `<td${st && r[0][i] ? ` data-l="${lb(i)}"` : ''}${c === '' || c === '—' ? ' class="bos"' : ''}>${fmt(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
 }
 function blockHTML(b) {
   if (b.k === 'h') return `<h4>${fmt(b.x)}</h4>`;
   if (b.k === 'h5') return `<h5>${fmt(b.x)}</h5>`;
   if (b.k === 'not') return `<div class="box bn"><b class="lb">Not</b>${fmt(b.x)}</div>`;
   if (b.k === 'dikkat') return `<div class="box bk"><b class="lb">Dikkat</b>${fmt(b.x)}</div>`;
+  if (b.k === 'ek') return `<div class="box bek"><b class="lb">Ek · onay bekliyor</b>${fmt(b.x)}</div>`;
   if (b.k === 'ornek') return `<div class="box bo"><b class="lb">Örnek</b>${fmt(b.x)}</div>`;
   if (b.k === 'sc') return `<div class="box bs"><b class="lb">Soru</b><p class="sq">${fmt(b.q)}</p><p class="sa"><b>Cevap:</b> ${fmt(b.x)}</p></div>`;
-  if (b.k === 'ar') return `<div class="arb"><span class="ayet" lang="ar" dir="rtl">${esc(b.a)}</span>${b.x ? `<span class="meal">${fmt(b.x)}</span>` : ''}</div>`;
+  if (b.k === 'ar') return `<div class="arb"><span class="ayet" lang="ar" dir="rtl">${esc(b.a).replace(/\[\[(.+?)\]\]/g, '<span class="ek">$1</span>')}</span>${b.x ? `<span class="meal">${fmt(b.x)}</span>` : ''}</div>`;
   if (b.k === 'tbl') return tblHTML(b.r);
   if (b.k === 'steps') return `<ol class="stp">${b.x.map(x => `<li>${fmt(x)}</li>`).join('')}</ol>`;
   if (b.k === 'd') return `<dl class="def"><dt>${fmt(b.t)}</dt><dd>${fmt(b.x)}</dd></dl>`;

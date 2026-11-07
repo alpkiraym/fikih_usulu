@@ -7,13 +7,13 @@
 
 [2022 · 1. dönem]
 ? Fıkıh Usulü, İstishab, Sedd-i Zerâi, Tenkîhu'l-Menât, Nüfâtu'l-Kıyas, Sebr-Taksim, Mazinne, İllet, Delil, Vechu'l-İstihsan kavramlarını açıklayınız.
-> 1:Usûl-i fıkhın tanımı
+> 1:Usûl-i fıkıh
 > 2:B5. İstishab
 > 2:B3. Sedd-i zerâi
 > 2:Mesâliku'l-illet (illeti bulma yolları)
 > 2:A4. Kıyas
 > 2:İllet
-> 2:Şer'î delillerin tanımı ve kısımları
+> 2:Şer'î deliller
 > 2:B1. İstihsan
 = **Usûl-i fıkıh:** Şer'î amelî hükümleri tafsîlî delillerinden çıkarmaya (istinbat) vasıta olan kaideleri bilmektir.
 = **İstishab:** «إِبْقَاءُ مَا كَانَ عَلَى مَا كَانَ»; değiştiğine dair bir delil bulunmadıkça mevcut hâlin devamına hükmedilmesidir. Müçtehidin başvurduğu son delildir.
@@ -115,7 +115,7 @@
 = 3) **Sahâbe:** Sahâbe Hz. Ebû Bekir'in halifeliğini namaz imamlığına kıyaslayarak biat etti. Hz. Peygamber hayattayken içtihad eden sahabesini azarlamadı; sahâbe de içtihad ve kıyas ettikleri için birbirini kınamadı.
 = 4) **Akıl:** a) Allah maslahatsız bir esas koymamıştır; şarabın haram, aynı sarhoş edicilik özelliğini taşıyan başka bir içkinin mübah olması akılla bağdaşmaz. b) Kur'an ve Sünnet sınırlı, olaylar sınırsızdır; kıyas yeni olayların hükmünü açıklar. c) Kıyas, insanın selim tabiatının ve doğru mantığın teyit ettiği bir delildir.
 ? Kıyasın rükünleri nelerdir? Açıklayınız.
-> 2:Kıyasın rükünleri ve aslın hükmünün şartları
+> 2:Kıyasın rükünleri
 = 1) **Asıl:** Hükmü hakkında nass olan rükündür. Makîs aleyh, mahmûl aleyh ve müşebbeh bih diye de isimlendirilir.
 = 2) **Fer':** Hükmü hakkında ne nass ne de icmâ olan rükündür. Makîs, mahmûl ve müşebbeh isimleri de verilir.
 = 3) **Aslın hükmü:** Hakkında nass bulunan şer'î hükümdür; fer'î hükmün kendisine kıyas edildiği aslî hükümdür. Aslî hükmün fer'e geçmesi için şartlar: a) nass ile sabit şer'î amelî bir hüküm olması, b) illetini aklın bilebilmesi, c) sadece asla has olmaması.

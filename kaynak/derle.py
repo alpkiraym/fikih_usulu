@@ -17,7 +17,8 @@ Yazar:     index.html (depo kökü)
   >> adım                    (art arda gelenler numaralı adım şeridi olur)
   | a | b | c                (tablo satırı; art arda gelenler tek tablo, ilk satır başlık)
   * hızlı tekrar maddesi     (ünite sonundaki "Hızlı tekrar" kutusunda toplanır)
-  **kalın**  «Arapça»
+  % ek kutusu (kaynakta olmayan, onay bekleyen tamamlama)
+  **kalın**  «Arapça»  [[satır içi ek]] (onay bekleyen tamamlama)
 Başlığında "Müellif" ve "Eser" bulunan tablolar eser–müellif eşleştirmesine ve testlere girer.
 """
 import json, re, sys
@@ -80,6 +81,8 @@ def unite_oku(yol):
             b.append({'k': 'dikkat', 'x': s[3:].strip()})
         elif s.startswith('! '):
             b.append({'k': 'not', 'x': s[2:].strip()})
+        elif s.startswith('% '):
+            b.append({'k': 'ek', 'x': s[2:].strip()})
         elif s.startswith('~ '):
             b.append({'k': 'ornek', 'x': s[2:].strip()})
         elif s.startswith('?? '):
