@@ -2,10 +2,10 @@
 > Hâkim, hüküm, mahkûm fîh ve mahkûm aleyh; teklifî ve vaz'î hükümler ve kısımları; fiilin yükümlü kılınabilmesinin şartları; ehliyet ve ehliyet arızaları.
 
 ## Mebâhisu'l-ahkâm
-: Hâkim = «مَنْ صَدَرَ عَنْهُ الْحُكْمُ» [[(Hükmün kendisinden sâdır olduğu.)]]
-: Hüküm = «خِطَابُ اللَّهِ الْمُتَعَلِّقُ بِأَفْعَالِ الْمُكَلَّفِينَ» [[(Allah'ın mükelleflerin fiillerine taalluk eden hitabı.)]]
-: Mahkûm fîh = «فِعْلُ الْمُكَلَّفِ» [[(Mükellefin fiili.)]]
-: Mahkûm aleyh = «الْمُكَلَّفُ» [[(Mükellef.)]]
+: Hâkim = «مَنْ صَدَرَ عَنْهُ الْحُكْمُ» (Hükmün kendisinden sâdır olduğu.)
+: Hüküm = «خِطَابُ اللَّهِ الْمُتَعَلِّقُ بِأَفْعَالِ الْمُكَلَّفِينَ» (Allah'ın mükelleflerin fiillerine taalluk eden hitabı.)
+: Mahkûm fîh = «فِعْلُ الْمُكَلَّفِ» (Mükellefin fiili.)
+: Mahkûm aleyh = «الْمُكَلَّفُ» (Mükellef.)
 ### Hüsün-kubuh akılla bilinir mi?
 - **Mâtürîdî:** Hüsün-kubuh akılla bilinebilir.
 - **Mu'tezile:** Hüsün-kubuh akılla bilinebilir.
@@ -42,7 +42,7 @@
 - 1B. **Muvakkat:** Belli bir vakit tayin edilen. Bu da 3'e ayrılır:
 - 1BA. **Muvassa':** Vakit içinde kendi cinsinden başka bir ibadet yapılabilen. Öğlen namazı gibi.
 - 1BB. **Mudayyak:** Vakit içinde kendi cinsinden başka bir ibadet yapılamayan. Ramazan orucu gibi.
-- 1BC. **Zü'ş-şebeheyn…** [[Vakti bir yönüyle muvassa', bir yönüyle mudayyak olan vâcib; hac gibi.]]
+- 1BC. **Zü'ş-şebeheyn…** Vakti bir yönüyle muvassa', bir yönüyle mudayyak olan vâcib; hac gibi.
 2. **Yapılması istenmesi bakımından 2'ye ayrılır:**
 - 2A. **Kifâî:** Topluca. Cenaze namazı gibi.
 - 2B. **Aynî:** Teker teker, her biri. 5 vakit namaz gibi.
@@ -92,7 +92,7 @@
 * Mekruh: kesin olmayan nehiy; «كره» sîgası, kerahet bildiren nehiy, karineli ictinab emri («وذروا البيع»).
 
 ## 5. Mübah
-: Mübah = «مَا خَيَّرَ الشَّارِعُ الْمُكَلَّفَ بَيْنَ فِعْلِهِ وَتَرْكِهِ» [[(Şâriin mükellefi yapmakla terk etmek arasında muhayyer bıraktığı şey.)]]
+: Mübah = «مَا خَيَّرَ الشَّارِعُ الْمُكَلَّفَ بَيْنَ فِعْلِهِ وَتَرْكِهِ» (Şâriin mükellefi yapmakla terk etmek arasında muhayyer bıraktığı şey.)
 - Bu muhayyerlik: Bazen şer'î bir nass ile («لَا جُنَاحَ عَلَيْكُمْ» gibi), bazen karineyle ibahaya delalet eden bir emir ile («وَإِذَا حَلَلْتُمْ فَاصْطَادُوا» gibi), bazen de ibâha-i asliyye ile bilinir.
 ### Not
 ! Bu taksim cumhura göredir. Hanefiye göre ise 7 kısımdır: 1) Farz, 2) Vâcib, 3) Haram, 4) Mendub, 5) Tenzîhen mekruh, 6) Tahrîmen mekruh, 7) Mübah.
@@ -106,7 +106,7 @@
 
 ## Vaz'î hükmün kısımları
 ### 1. Sebep
-@ مَا جَعَلَهُ الشَّارِعُ عَلَامَةً عَلَى مُسَبَّبِهِ (أَيِ الْحُكْمِ) وَرَبَطَ وُجُودَ الْمُسَبَّبِ بِوُجُودِهِ وَعَدَمَهُ بِعَدَمِهِ | [[Türkçesi: Şâriin müsebbebine (hükme) alamet kıldığı, müsebbebin varlığını onun varlığına, yokluğunu onun yokluğuna bağladığı şey.]]
+@ مَا جَعَلَهُ الشَّارِعُ عَلَامَةً عَلَى مُسَبَّبِهِ (أَيِ الْحُكْمِ) وَرَبَطَ وُجُودَ الْمُسَبَّبِ بِوُجُودِهِ وَعَدَمَهُ بِعَدَمِهِ | Türkçesi: Şâriin müsebbebine (hükme) alamet kıldığı, müsebbebin varlığını onun varlığına, yokluğunu onun yokluğuna bağladığı şey.
 - **A. Teklifî bir hükme sebep olması.** «أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ» gibi.
 - **B. Mülkiyetin, helalliğin ispatı veya izalesine sebep olması.**
 - 1. çeşit örnek: «كَالْبَيْعِ لِإِثْبَاتِ الْمِلْكِ وَإِزَالَتِهِ»
@@ -116,20 +116,20 @@
 | **Teklifî** | Zekât gibi | 5 vakit namaz gibi
 | **İspat–izale** | Katl gibi | Miras gibi
 ### 2. Şart
-@ مَا يَتَوَقَّفُ وُجُودُ الْحُكْمِ عَلَى وُجُودِهِ وَيَلْزَمُ مِنْ عَدَمِهِ عَدَمُ الْحُكْمِ | [[Türkçesi: Hükmün varlığının kendi varlığına bağlı olduğu, yokluğu hükmün yokluğunu gerektiren şey.]]
+@ مَا يَتَوَقَّفُ وُجُودُ الْحُكْمِ عَلَى وُجُودِهِ وَيَلْزَمُ مِنْ عَدَمِهِ عَدَمُ الْحُكْمِ | Türkçesi: Hükmün varlığının kendi varlığına bağlı olduğu, yokluğu hükmün yokluğunu gerektiren şey.
 !! Şartın yerine gelmesi, meşrutun olmasını gerektirmez. → Namaz – abdest.
 - **A. Şer'î şart:** Şâriin koyduğu şart.
 - **B. Ca'lî şart:** Mükellefin koştuğu şart. Akidlerde olduğu gibi.
 ### 3. Mâni
-@ مَا يَلْزَمُ مِنْ وُجُودِهِ عَدَمُ الْحُكْمِ أَوْ بُطْلَانُ السَّبَبِ | [[Türkçesi: Varlığı hükmün yokluğunu veya sebebin bâtıl olmasını gerektiren şey.]]
+@ مَا يَلْزَمُ مِنْ وُجُودِهِ عَدَمُ الْحُكْمِ أَوْ بُطْلَانُ السَّبَبِ | Türkçesi: Varlığı hükmün yokluğunu veya sebebin bâtıl olmasını gerektiren şey.
 - **A. Hükme mâni:** Namaz vakti girdi, ama kadın hayızlı. Bu, sebep olan vakte değil hüküm olan namazın vücubuna engeldir.
 - **B. Sebebi geçersiz kılan mâni:** Kişi nisab miktarı mala sahip ama borcu var. Bu, sebebe – yani zekâtın sebebi olan nisab miktarına sahip olmaya – engeldir.
 * Sebep: teklifî hükme (vakit-namaz) veya mülkiyet/helalliğe (bey', nikâh, talak); gücü dahilinde olan (zekât, katl) ve olmayan (vakit, miras).
 * Şart: şer'î / ca'lî; şartın varlığı meşrutu gerektirmez (abdest-namaz). Mâni: hükme (hayız) / sebebe (borç-nisab).
 
 ## 4. Ruhsat ve azîmet
-@ مَا شَرَعَهُ اللَّهُ مِنَ الْأَحْكَامِ تَخْفِيفًا عَلَى الْمُكَلَّفِ فِي حَالَاتٍ خَاصَّةٍ تَقْتَضِي هَذَا التَّخْفِيفَ | Ruhsat. [[Türkçesi: Allah'ın, bu hafifletmeyi gerektiren özel durumlarda mükellefe kolaylık olsun diye meşru kıldığı hükümler.]]
-@ مَا شَرَعَهُ اللَّهُ أَصَالَةً مِنَ الْأَحْكَامِ الْعَامَّةِ الَّتِي لَا تَخْتَصُّ بِحَالٍ دُونَ حَالٍ وَلَا بِمُكَلَّفٍ دُونَ مُكَلَّفٍ | Azîmet. [[Türkçesi: Allah'ın asıl olarak meşru kıldığı, bir duruma ya da bir mükellefe özgü olmayan genel hükümler.]]
+@ مَا شَرَعَهُ اللَّهُ مِنَ الْأَحْكَامِ تَخْفِيفًا عَلَى الْمُكَلَّفِ فِي حَالَاتٍ خَاصَّةٍ تَقْتَضِي هَذَا التَّخْفِيفَ | Ruhsat. Türkçesi: Allah'ın, bu hafifletmeyi gerektiren özel durumlarda mükellefe kolaylık olsun diye meşru kıldığı hükümler.
+@ مَا شَرَعَهُ اللَّهُ أَصَالَةً مِنَ الْأَحْكَامِ الْعَامَّةِ الَّتِي لَا تَخْتَصُّ بِحَالٍ دُونَ حَالٍ وَلَا بِمُكَلَّفٍ دُونَ مُكَلَّفٍ | Azîmet. Türkçesi: Allah'ın asıl olarak meşru kıldığı, bir duruma ya da bir mükellefe özgü olmayan genel hükümler.
 ### Ruhsatın çeşitleri
 1. Zaruret veya ihtiyaç anında haramların mübah olması. Ölmeyecek kadar içki içmek gibi.
 2. Mazeret olduğunda vâcibin terkinin mübah olması. Seferde oruç tutulmaması gibi.
@@ -159,7 +159,7 @@
 * Sıhhat-butlan: cumhura göre şer'î sonuç doğurup doğurmama / emre uyup uymama. Hanefîler muamelatta gayr-ı sahihi ikiye ayırır: fâsid (şartta eksik), bâtıl (rükünde eksik).
 
 ## Mahkûm fîh
-@ فِعْلُ الْمُكَلَّفِ الَّذِي تَعَلَّقَ بِهِ حُكْمُ الشَّارِعِ | [[Türkçesi: Mükellefin, şâriin hükmünün taalluk ettiği fiili.]]
+@ فِعْلُ الْمُكَلَّفِ الَّذِي تَعَلَّقَ بِهِ حُكْمُ الشَّارِعِ | Türkçesi: Mükellefin, şâriin hükmünün taalluk ettiği fiili.
 @ يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ | Örnek. Hâkim → Allah c.c. · Hüküm → Vücub · Mahkûm fîh → Sözleşmeleri yerine getirme.
 @ لَا تَكْلِيفَ إِلَّا بِالْفِعْلِ
 - Emir, nedb ve ibaha birer fiildir.
@@ -188,7 +188,7 @@
 * Meşakkat: katlanılabilen (rızık için çalışmak) ile sorumlu tutulur; büyük eziyet veren (savm-ı visal) ile tutulmaz.
 
 ## Mahkûm aleyh
-@ الْمُكَلَّفُ الَّذِي تَعَلَّقَ حُكْمُ الشَّارِعِ بِفِعْلِهِ | [[Türkçesi: Şâriin hükmünün fiiline taalluk ettiği mükellef.]]
+@ الْمُكَلَّفُ الَّذِي تَعَلَّقَ حُكْمُ الشَّارِعِ بِفِعْلِهِ | Türkçesi: Şâriin hükmünün fiiline taalluk ettiği mükellef.
 ### Mükellefin yükümlü olabilmesinin şartları
 1. **Teklifin delillerini anlamaya muktedir olmalı (akıl, bâliğ).**
 - Yani ne ile mükellef olduğunu bilmeli ve anlamalı. Bu da ancak akılla olur.

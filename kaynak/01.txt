@@ -2,7 +2,7 @@
 > Fıkıh ve usûl-i fıkhın tanımı, konusu ve gayesi; küllî delil ve küllî hüküm; usûl telif yolları ve eserleri.
 
 ## Fıkıh
-: Fıkıh = «هُوَ الْعِلْمُ بِالْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ الْمُكْتَسَبَةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ» [[(Şer'î amelî hükümlerin tafsîlî delillerinden elde edilerek bilinmesi.)]]
+: Fıkıh = «هُوَ الْعِلْمُ بِالْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ الْمُكْتَسَبَةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ» (Şer'î amelî hükümlerin tafsîlî delillerinden elde edilerek bilinmesi.)
 - «الشَّرْعِيَّة» kaydıyla aklî (bir, ikinin yarısıdır) ve hissî (ateş yakıcıdır) hükümler çıkar.
 - «الْعَمَلِيَّة» kaydıyla itikadi ve ahlaki hükümler çıkar.
 | Tarifteki kayıt | Dışarıda bıraktığı | Örnek
@@ -10,19 +10,19 @@
 | «الشَّرْعِيَّة» | Hissî hükümler | Ateş yakıcıdır.
 | «الْعَمَلِيَّة» | İtikadi ve ahlaki hükümler | —
 ### İ. Ebû Hanîfe'ye göre
-@ هُوَ مَعْرِفَةُ النَّفْسِ مَا لَهَا وَمَا عَلَيْهَا | [[Türkçesi: Kişinin lehine ve aleyhine olanı bilmesidir.]]
+@ هُوَ مَعْرِفَةُ النَّفْسِ مَا لَهَا وَمَا عَلَيْهَا | Türkçesi: Kişinin lehine ve aleyhine olanı bilmesidir.
 * Fıkıh: «العلم بالأحكام الشرعية العملية المكتسبة من أدلتها التفصيلية». "Şer'î" kaydıyla aklî ve hissî, "amelî" kaydıyla itikadi ve ahlaki hükümler çıkar.
 * Ebû Hanîfe'ye göre fıkıh: «معرفة النفس ما لها وما عليها».
 
 ## Usûl-i fıkıh
-: Usûl-i fıkıh = «الْعِلْمُ بِالْقَوَاعِدِ الَّتِي يُتَوَصَّلُ بِهَا إِلَى اسْتِنْبَاطِ الْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ» [[(Şer'î amelî hükümleri tafsîlî delillerinden istinbat etmeye vasıta olan kaideleri bilmek.)]]
+: Usûl-i fıkıh = «الْعِلْمُ بِالْقَوَاعِدِ الَّتِي يُتَوَصَّلُ بِهَا إِلَى اسْتِنْبَاطِ الْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ» (Şer'î amelî hükümleri tafsîlî delillerinden istinbat etmeye vasıta olan kaideleri bilmek.)
 * Usûl-i fıkıh: «العلم بالقواعد التي يتوصل بها إلى استنباط الأحكام الشرعية العملية من أدلتها التفصيلية».
 
 ## Fıkıh ilminin ve usûl-i fıkhın konusu
 ### Fıkıh ilminin konusu
-@ فِعْلُ الْمُكَلَّفِ مِنْ حَيْثُ مَا يَثْبُتُ لَهُ مِنَ الْأَحْكَامِ الشَّرْعِيَّةِ | [[Türkçesi: Kendisi için sabit olan şer'î hükümler bakımından mükellefin fiili.]]
+@ فِعْلُ الْمُكَلَّفِ مِنْ حَيْثُ مَا يَثْبُتُ لَهُ مِنَ الْأَحْكَامِ الشَّرْعِيَّةِ | Türkçesi: Kendisi için sabit olan şer'î hükümler bakımından mükellefin fiili.
 ### Usûl-i fıkhın konusu
-@ الدَّلِيلُ الشَّرْعِيُّ الْكُلِّيُّ مِنْ حَيْثُ مَا يَثْبُتُ بِهِ مِنَ الْأَحْكَامِ الْكُلِّيَّةِ | [[Türkçesi: Kendisiyle sabit olan küllî hükümler bakımından küllî şer'î delil.]]
+@ الدَّلِيلُ الشَّرْعِيُّ الْكُلِّيُّ مِنْ حَيْثُ مَا يَثْبُتُ بِهِ مِنَ الْأَحْكَامِ الْكُلِّيَّةِ | Türkçesi: Kendisiyle sabit olan küllî hükümler bakımından küllî şer'î delil.
 | | Fıkıh ilmi | Usûl-i fıkıh
 | **Konusu** | Mükellefin fiili | Küllî şer'î delil
 * Fıkhın konusu mükellefin fiili; usûl-i fıkhın konusu küllî şer'î delildir.
@@ -38,9 +38,9 @@
 
 ## Fıkıh ilminin ve usûl-i fıkhın gayesi
 ### Fıkıh ilminin gayesi
-@ تَطْبِيقُ الْأَحْكَامِ الشَّرْعِيَّةِ عَلَى أَفْعَالِ النَّاسِ وَأَقْوَالِهِمْ | [[Türkçesi: Şer'î hükümleri insanların fiil ve sözlerine uygulamak.]]
+@ تَطْبِيقُ الْأَحْكَامِ الشَّرْعِيَّةِ عَلَى أَفْعَالِ النَّاسِ وَأَقْوَالِهِمْ | Türkçesi: Şer'î hükümleri insanların fiil ve sözlerine uygulamak.
 ### Usûl-i fıkhın gayesi
-@ تَطْبِيقُ قَوَاعِدِهِ عَلَى الْأَدِلَّةِ التَّفْصِيلِيَّةِ لِلتَّوَصُّلِ إِلَى الْأَحْكَامِ الشَّرْعِيَّةِ الَّتِي تَدُلُّ عَلَيْهَا | [[Türkçesi: Kaidelerini tafsîlî delillere uygulayarak bu delillerin gösterdiği şer'î hükümlere ulaşmak.]]
+@ تَطْبِيقُ قَوَاعِدِهِ عَلَى الْأَدِلَّةِ التَّفْصِيلِيَّةِ لِلتَّوَصُّلِ إِلَى الْأَحْكَامِ الشَّرْعِيَّةِ الَّتِي تَدُلُّ عَلَيْهَا | Türkçesi: Kaidelerini tafsîlî delillere uygulayarak bu delillerin gösterdiği şer'î hükümlere ulaşmak.
 * Fıkhın gayesi hükümleri insanların fiil ve sözlerine uygulamak; usûlün gayesi kaidelerini tafsîlî delillere uygulayıp hükme ulaşmaktır.
 
 ## Usûl telif yolları

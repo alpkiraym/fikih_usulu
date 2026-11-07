@@ -3,7 +3,7 @@
 
 ## Şer'î deliller
 : Delil (sözlükte) = Hissî olsun manevî olsun, hayır olsun şer olsun herhangi bir şeye götüren.
-@ مَا يُسْتَفَادُ مِنْهُ حُكْمٌ شَرْعِيٌّ عَمَلِيٌّ عَلَى سَبِيلِ الْقَطْعِ أَوِ الظَّنِّ | Istılahta delil. [[Türkçesi: Kendisinden kat'î veya zannî yolla şer'î amelî bir hüküm elde edilen şey.]]
+@ مَا يُسْتَفَادُ مِنْهُ حُكْمٌ شَرْعِيٌّ عَمَلِيٌّ عَلَى سَبِيلِ الْقَطْعِ أَوِ الظَّنِّ | Istılahta delil. Türkçesi: Kendisinden kat'î veya zannî yolla şer'î amelî bir hüküm elde edilen şey.
 ### A. Müttefekun aleyh (4)
 @ الْكِتَابُ وَالسُّنَّةُ وَالْإِجْمَاعُ وَالْقِيَاسُ | Kitap, Sünnet, İcmâ, Kıyas
 ### B. Muhtelefun fîh (7)
@@ -11,7 +11,7 @@
 * Müttefekun aleyh (4): Kitap, Sünnet, İcmâ, Kıyas. Muhtelefun fîh (7): Maslahat-ı mürsele, İstihsan, Örf, Sedd-i zerâi, Şer'u men kablenâ, Sahâbe kavli, İstishab.
 
 ## A1. Kitap
-@ هُوَ كَلَامُ اللَّهِ الْمُنَزَّلُ عَلَى نَبِيِّهِ الْمَكْتُوبُ فِي الْمَصَاحِفِ الْمَنْقُولُ بِالتَّوَاتُرِ الْمُتَعَبَّدُ بِتِلَاوَتِهِ الْمُعْجِزُ وَلَوْ بِسُورَةٍ | [[Türkçesi: Allah'ın Peygamberine indirilen, mushaflarda yazılı, tevatürle nakledilen, tilavetiyle ibadet edilen ve bir suresiyle bile mucize olan kelamıdır.]]
+@ هُوَ كَلَامُ اللَّهِ الْمُنَزَّلُ عَلَى نَبِيِّهِ الْمَكْتُوبُ فِي الْمَصَاحِفِ الْمَنْقُولُ بِالتَّوَاتُرِ الْمُتَعَبَّدُ بِتِلَاوَتِهِ الْمُعْجِزُ وَلَوْ بِسُورَةٍ | Türkçesi: Allah'ın Peygamberine indirilen, mushaflarda yazılı, tevatürle nakledilen, tilavetiyle ibadet edilen ve bir suresiyle bile mucize olan kelamıdır.
 ### Özellikleri
 1. Lafzı ve manası Allah'a ait.
 2. Lafızlarının müteradifleri ne kadar uysa da Kur'an değildir.
@@ -54,7 +54,7 @@
 - Getirdiği hükümler yönünden Kur'an'a nispetine gelince:
 1. **Te'kid:** "Namaz kılın" gibi. İkisinde de var.
 2. **Mücmeli tebyin, mutlakı takyid, âmmı tahsis eder:** Namazın nasıl kılınacağı gibi.
-3. **Kur'an'da bulunmayan bir hükmü müsbit:** Altın ve gümüşün haram oluşu gibi. [[(Erkekler için.)]]
+3. **Kur'an'da bulunmayan bir hükmü müsbit:** Altın ve gümüşün haram oluşu gibi. (Erkekler için.)
 4. **Hanefîlere göre → Nâsih olması.**
 * Sünnetin Kur'an'a nispeti: te'kid · tebyin, takyid, tahsis · Kur'an'da olmayan hükmü isbat · Hanefîlere göre nesih.
 
@@ -141,12 +141,12 @@
 ## A4. Kıyas
 : Kıyas = Hükmüne dair bir nass bulunmayan bir vakıayı, illetindeki eşitlik nedeniyle hükmüne dair bir nass bulunan bir vakıaya ilhak etmektir.
 !! Kıyas, müsbit değil, muzhirdir.
-~ Şarabın haramlığı [[rakıya (kelime defterde zor okunuyor)]] kıyas edilmiştir. İlletleri birdir, eşittir → Sarhoşluk.
+~ Şarabın haramlığı rakıya kıyas edilmiştir. İlletleri birdir, eşittir → Sarhoşluk.
 ### Hücciyeti
 1. **Kitap** → «فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ»
 2. **Sünnet** → Muâz b. Cebel hadisi.
 3. **Sahâbe fiilleri** → Hz. Ebû Bekir'in hilafetini namaz imamlığına kıyas etmeleri.
-@ رَضِيَهُ رَسُولُ اللَّهِ لِدِينِنَا أَفَلَا نَرْضَاهُ لِدُنْيَانَا | [[Türkçesi: Resulullah onu dinimiz için uygun gördü; dünyamız için onu uygun görmeyelim mi?]]
+@ رَضِيَهُ رَسُولُ اللَّهِ لِدِينِنَا أَفَلَا نَرْضَاهُ لِدُنْيَانَا | Türkçesi: Resulullah onu dinimiz için uygun gördü; dünyamız için onu uygun görmeyelim mi?
 4. **Aklî deliller** → Maslahat esastır.
 - Kur'an ve sünnet sınırlı, hadiseler sınırsız.
 - Kıyas, selim bir fıtratın gereğidir.
@@ -304,9 +304,9 @@
 ### Hücciyeti
 - Müçtehidin başvurduğu son delildir.
 ### İstishaba dayalı şer'î ilkeler
-@ الْأَصْلُ فِي الْأَشْيَاءِ الْإِبَاحَةُ | [[Türkçesi: Eşyada asıl olan mübahlıktır.]]
-@ مَا ثَبَتَ بِالْيَقِينِ لَا يَزُولُ بِالشَّكِّ | [[Türkçesi: Kesin olarak sabit olan şüpheyle ortadan kalkmaz.]]
-@ الْأَصْلُ فِي الْإِنْسَانِ الْبَرَاءَةُ | [[Türkçesi: İnsanda asıl olan beraattir.]]
+@ الْأَصْلُ فِي الْأَشْيَاءِ الْإِبَاحَةُ | Türkçesi: Eşyada asıl olan mübahlıktır.
+@ مَا ثَبَتَ بِالْيَقِينِ لَا يَزُولُ بِالشَّكِّ | Türkçesi: Kesin olarak sabit olan şüpheyle ortadan kalkmaz.
+@ الْأَصْلُ فِي الْإِنْسَانِ الْبَرَاءَةُ | Türkçesi: İnsanda asıl olan beraattir.
 * İstishab: «إبقاء ما كان على ما كان»; müçtehidin son delili. İlkeleri: eşyada asıl ibaha · yakîn şekle zail olmaz · insanda asıl beraat.
 
 ## B6. Şer'u men kablenâ
@@ -315,7 +315,7 @@
 1. **Neshedilen:** Şeriat değildir. Günah karşılığı tövbesi için kendisini öldürmesi gibi.
 2. **Emredilen:** Şeriattır. Oruç gibi.
 3. **Mutlak olarak zikredilen:** Hanefî, Mâlikî ve Şâfiî: Şeriattır. Diğerleri: Şeriat değil.
-@ وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ [[وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ]] | Örnek. [[Ayetin devamı tamamlandı (Mâide 5/45).]]
+@ وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ | Örnek (Mâide 5/45).
 * Şer'u men kablenâ: Kur'an'da geçmeyen ve neshedilen şeriat değil; emredilen şeriat (oruç); mutlak zikredilen Hanefî-Mâlikî-Şâfiîye göre şeriat (kısas ayeti).
 
 ## B7. Sahâbe kavli

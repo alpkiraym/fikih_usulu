@@ -20,7 +20,7 @@
 ### 3. Tahsîniyyât
 : Tahsîniyyât = Kâmil insan, üstün ahlak ve güzel davranış niteliklerinin gerektirdiği durumlardır. Yokluğu hayat düzenini bozmaz veya insanları zorluğa ve sıkıntıya sokmaz; ancak selim akıl sahiplerinin nazarında bu özelliklerden mahrum olan kimse nahoş ve çirkin görünür.
 - İbadâtta: Beden ve elbise temizliği, setr-i avret gibi hükümler.
-- Muamelâtta: [[…]], telakki'l-celeb, neceş gibi fiillerin haram kılınması gibi.
+- Muamelâtta: Telakki'l-celeb, neceş gibi fiillerin haram kılınması gibi.
 - Ukubâtta: Savaş âdâbı (kadın ve çocukların öldürülmesi hususunda) gibi.
 !! Bu zaruri değerlerin tertibi → Z > H > T.
 ! Bu taksimin bu 3'lüde hasrının delili his ve müşahededir.
@@ -40,19 +40,19 @@
 * Mükemmilât: namaza ezan ve cemaat; kasra cem'; sadakada iyisini vermek.
 
 ## Zarûriyyât ile ilgili kaideler (Def'-i zarar)
-@ الضَّرَرُ يُزَالُ شَرْعًا | 1. → Şuf'a gibi. [[Türkçesi: Zarar şer'an giderilir.]]
-@ الضَّرَرُ لَا يُزَالُ بِالضَّرَرِ | 2. → Kişi kendi malını korumak için başkasının malına zarar veremez. [[Türkçesi: Zarar zararla giderilmez.]]
-@ يُتَحَمَّلُ الضَّرَرُ الْخَاصُّ لِدَفْعِ الضَّرَرِ الْعَامِّ | 3. → Toplumun can güvenliği için katile kısas uygulamak gibi. [[Türkçesi: Genel zararı defetmek için özel zarara katlanılır.]]
-@ يُرْتَكَبُ أَخَفُّ الضَّرَرَيْنِ لِاتِّقَاءِ أَشَدِّهِمَا | 4. → Avret yerini örtecek elbise bulamayanın namazı terk etmek yerine öyle kılması gibi. [[Türkçesi: İki zarardan ağırından korunmak için hafifi irtikâp edilir.]]
-@ دَفْعُ الْمَضَارِّ مُقَدَّمٌ عَلَى جَلْبِ الْمَنَافِعِ | 5. → Oruçlunun mazmaza ve istinşakta mübalağa yapmasının mekruh olması gibi. [[Türkçesi: Zararları defetmek, menfaat celbinden önce gelir.]]
-@ الضَّرُورَاتُ تُبِيحُ الْمَحْظُورَاتِ | 6. → Izdırar hâlinde domuz eti yemek gibi. [[Türkçesi: Zaruretler yasakları mübah kılar.]]
-@ الضَّرُورَاتُ تُقَدَّرُ بِقَدَرِهَا | 7. → Ve domuz etini ölmeyecek kadar yemek. [[Türkçesi: Zaruretler kendi miktarlarınca takdir olunur.]]
+@ الضَّرَرُ يُزَالُ شَرْعًا | 1. → Şuf'a gibi. Türkçesi: Zarar şer'an giderilir.
+@ الضَّرَرُ لَا يُزَالُ بِالضَّرَرِ | 2. → Kişi kendi malını korumak için başkasının malına zarar veremez. Türkçesi: Zarar zararla giderilmez.
+@ يُتَحَمَّلُ الضَّرَرُ الْخَاصُّ لِدَفْعِ الضَّرَرِ الْعَامِّ | 3. → Toplumun can güvenliği için katile kısas uygulamak gibi. Türkçesi: Genel zararı defetmek için özel zarara katlanılır.
+@ يُرْتَكَبُ أَخَفُّ الضَّرَرَيْنِ لِاتِّقَاءِ أَشَدِّهِمَا | 4. → Avret yerini örtecek elbise bulamayanın namazı terk etmek yerine öyle kılması gibi. Türkçesi: İki zarardan ağırından korunmak için hafifi irtikâp edilir.
+@ دَفْعُ الْمَضَارِّ مُقَدَّمٌ عَلَى جَلْبِ الْمَنَافِعِ | 5. → Oruçlunun mazmaza ve istinşakta mübalağa yapmasının mekruh olması gibi. Türkçesi: Zararları defetmek, menfaat celbinden önce gelir.
+@ الضَّرُورَاتُ تُبِيحُ الْمَحْظُورَاتِ | 6. → Izdırar hâlinde domuz eti yemek gibi. Türkçesi: Zaruretler yasakları mübah kılar.
+@ الضَّرُورَاتُ تُقَدَّرُ بِقَدَرِهَا | 7. → Ve domuz etini ölmeyecek kadar yemek. Türkçesi: Zaruretler kendi miktarlarınca takdir olunur.
 * Def'-i zarar kaideleri: zarar giderilir (şuf'a) · zararla giderilmez · genel zarar için özel zarara katlanılır (kısas) · ehven-i şerreyn (örtüsüz namaz) · def'-i mefâsid celb-i menâfiden önce (oruçluya mübalağa mekruh) · zaruret yasağı mübah kılar (domuz eti) · zaruret kendi miktarınca (ölmeyecek kadar).
 
 ## Hâciyyât ile ilgili kaideler (Def'-i haraç)
-@ الْمَشَقَّةُ تَجْلِبُ التَّيْسِيرَ | 1. → Sefer, hastalık, ikrah, unutmak, cehalet, umûm-i belvâ ve nâkıs olmak. Sebebi 7'dir. [[Türkçesi: Meşakkat kolaylık getirir.]]
-@ الْحَرَجُ شَرْعًا مَرْفُوعٌ | 2. → İstikbâl-i kıble konusunda zann-ı gâlip ile hareket edilebilmesi gibi. [[Türkçesi: Haraç (darlık) şer'an kaldırılmıştır.]]
-@ الْحَاجَاتُ تُنَزَّلُ مَنْزِلَةَ الضَّرُورَاتِ فِي إِبَاحَةِ الْمَحْظُورَاتِ | 3. → Selem akdine cevaz verilmesi gibi. [[Türkçesi: Yasakları mübah kılmada ihtiyaçlar zaruretler yerine konur.]]
+@ الْمَشَقَّةُ تَجْلِبُ التَّيْسِيرَ | 1. → Sefer, hastalık, ikrah, unutmak, cehalet, umûm-i belvâ ve nâkıs olmak. Sebebi 7'dir. Türkçesi: Meşakkat kolaylık getirir.
+@ الْحَرَجُ شَرْعًا مَرْفُوعٌ | 2. → İstikbâl-i kıble konusunda zann-ı gâlip ile hareket edilebilmesi gibi. Türkçesi: Haraç (darlık) şer'an kaldırılmıştır.
+@ الْحَاجَاتُ تُنَزَّلُ مَنْزِلَةَ الضَّرُورَاتِ فِي إِبَاحَةِ الْمَحْظُورَاتِ | 3. → Selem akdine cevaz verilmesi gibi. Türkçesi: Yasakları mübah kılmada ihtiyaçlar zaruretler yerine konur.
 * Def'-i haraç: meşakkat kolaylık getirir (7 sebep: sefer, hastalık, ikrah, unutmak, cehalet, umûm-i belvâ, nâkıslık) · haraç kaldırılmıştır (kıblede zann-ı gâlip) · ihtiyaç zaruret yerine geçer (selem).
 
 ## 2. Allah hakları ve kul hakları
@@ -96,7 +96,7 @@
 
 ## 4. Hükmün neshi
 !! Resulün vefatından sonra nesih yoktur.
-@ رَفْعُ الْحُكْمِ الشَّرْعِيِّ بِدَلِيلٍ شَرْعِيٍّ | Nesh. [[Türkçesi: Şer'î bir hükmün şer'î bir delille kaldırılması.]]
+@ رَفْعُ الْحُكْمِ الشَّرْعِيِّ بِدَلِيلٍ شَرْعِيٍّ | Nesh. Türkçesi: Şer'î bir hükmün şer'î bir delille kaldırılması.
 ### Hikmeti
 1. Maslahatların değişiklik göstermesi.
 2. Tedricilik.

@@ -121,7 +121,7 @@
 - **Hükmü:** Zâhirin hükmü gibi.
 ### Tevil
 - Sözlükte: Döndürmek.
-@ صَرْفُ اللَّفْظِ عَنْ ظَاهِرِهِ بِدَلِيلٍ | Istılahta. [[Türkçesi: Lafzı bir delille zâhirinden çevirmek.]]
+@ صَرْفُ اللَّفْظِ عَنْ ظَاهِرِهِ بِدَلِيلٍ | Istılahta. Türkçesi: Lafzı bir delille zâhirinden çevirmek.
 ### 3. Müfesser
 : Müfesser = Murad edilen manaya açık bir şekilde delalet eden ve tevil (tahsis, takyid, mecaz) ihtimali olmayandır.
 @ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً | Örnek. Fazlası veya eksiği olmaz.
