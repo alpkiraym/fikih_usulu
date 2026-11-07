@@ -1,0 +1,227 @@
+# Mebâhisu'l-Ahkâm
+> Hâkim, hüküm, mahkûm fîh ve mahkûm aleyh; teklifî ve vaz'î hükümler ve kısımları; fiilin yükümlü kılınabilmesinin şartları; ehliyet ve ehliyet arızaları.
+
+## Temel kavramlar
+| Kavram | Tanımı | Arapça
+| **Hâkim** | Hükmün kendisinden sâdır olduğu (Allah) | «مَنْ صَدَرَ عَنْهُ الْحُكْمُ»
+| **Hüküm** | Allah'ın mükelleflerin fiillerine taalluk eden hitabı | «خِطَابُ اللَّهِ الْمُتَعَلِّقُ بِأَفْعَالِ الْمُكَلَّفِينَ»
+| **Mahkûm fîh** | Mükellefin fiili | «فِعْلُ الْمُكَلَّفِ»
+| **Mahkûm aleyh** | Mükellef | «الْمُكَلَّفُ»
+: Hüküm = Allah'ın mükelleflerin fiillerine taalluk eden hitabıdır.
+### Hüsün ve kubuh aklen bilinir mi?
+| Mezhep | Görüşü
+| **Mâtürîdî** | Hüsün ve kubuh akılla bilinebilir.
+| **Mu'tezile** | Hüsün ve kubuh akılla bilinebilir.
+| **Eş'arî** | Hüsün ve kubuh akılla bilinemez; şer'îdir.
+* Hâkim: hükmün kaynağı (Allah) · Hüküm: Allah'ın mükelleflerin fiillerine taalluk eden hitabı · Mahkûm fîh: mükellefin fiili · Mahkûm aleyh: mükellef.
+* Hüsün-kubuh: Mâtürîdî ve Mu'tezileye göre akılla bilinir; Eş'arîye göre bilinmez, şer'îdir.
+
+## Hüküm: teklifî ve vaz'î
+### 1. Teklifî hüküm
+: Teklifî hüküm = Şâriin mükelleften yapmasını, terk etmesini ya da yapmakla terk etmek arasında muhayyer bırakılmasını istediği hükümdür.
+| Kısım | | Örnek
+| **A. Talebî** | A1. Talebü'l-fiil | «أَقِيمُوا الصَّلَاةَ»
+| | A2. Talebü't-terk | «وَلَا تَقْرَبُوا الزِّنَا»
+| **B. Tahyîrî** | İbaha ifade eder | «وَإِذَا حَلَلْتُمْ فَاصْطَادُوا»
+### 2. Vaz'î hüküm
+: Vaz'î hüküm = Bir şeyin bir şeye sebep, şart veya engel (mâni) konulmasını gerektiren hükümdür.
+| Kısım | Örnek
+| **A. Sebep** | «وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا»
+| **B. Şart** | «لَا نِكَاحَ إِلَّا بِشَاهِدَيْنِ»
+| **C. Mâni** | «لَا يَرِثُ الْقَاتِلُ»
+### Teklifî ile vaz'î hüküm arasındaki farklar
+| | Teklifî hüküm | Vaz'î hüküm
+| **Talep** | Talep (emir, nehiy ve tahyîr) vardır | Talep yoktur
+| **Kudret** | Mükellefin kudreti dahilindedir | Bazen kudreti dahilindedir, bazen değildir («الْقَرَابَةُ سَبَبٌ لِلْإِرْثِ» gibi)
+* Teklifî hüküm: talebî (talebü'l-fiil, talebü't-terk) ve tahyîrî. Vaz'î hüküm: sebep, şart, mâni.
+* Fark: teklifîde talep var ve hep kudret dahilinde; vaz'îde talep yok ve bazen kudret dışında (akrabalık mirasa sebep).
+
+## Teklifî hükümlerin kısımları: 1. Vâcib
+: Vâcib = Şâriin kesin olarak yapılmasını istediği şeydir.
+- Bu kesinlik bazen talep sîgasından, bazen yapılmaması hâlinde ceza bildirilmesinden, bazen de başka bir şer'î karineden bilinir.
+### Taksimi
+| Bakımından | Kısım | Tanımı | Örnek
+| **1. Zaman** | 1A. Mutlak | Belli bir vakit tayin edilmeyen | Keffaretler
+| | 1B. Muvakkat | Belli bir vakit tayin edilen; 3'e ayrılır | —
+| | 1BA. Muvassa' | Vakit içinde kendi cinsinden başka bir ibadet yapılabilen | Öğle namazı
+| | 1BB. Mudayyak | Vakit içinde kendi cinsinden başka bir ibadet yapılamayan | Ramazan orucu
+| | 1BC. Zü'ş-şebeheyn | — | —
+| **2. Yapılması istenmesi** | 2A. Kifâî | Topluca | Cenaze namazı
+| | 2B. Aynî | Teker teker, herkes | Beş vakit namaz
+| **3. Miktar** | 3A. Muhadded | Miktarı belirlenmiş | Zekât
+| | 3B. Gayr-ı muhadded | Miktarı belirlenmemiş | İnfak
+| **4. Seçenek** | 4A. Muayyen | «مَا طَلَبَهُ الشَّارِعُ بِعَيْنِهِ» | Kurban; kurban yerine infak olmaz
+| | 4B. Muhayyer | «مَا طَلَبَهُ الشَّارِعُ وَاحِدًا مِنْ أُمُورٍ مُعَيَّنَةٍ» | Yemin keffareti
+* Vâcib: kesin talep. Zaman: mutlak (keffaret) / muvakkat: muvassa' (öğle), mudayyak (Ramazan), zü'ş-şebeheyn.
+* Vâcib: kifâî (cenaze namazı) / aynî (5 vakit) · muhadded (zekât) / gayr-ı muhadded (infak) · muayyen (kurban) / muhayyer (yemin keffareti).
+
+## 2. Mendub
+: Mendub = Şâriin kesin olmayarak yapılmasını istediği şeydir.
+- Bu kesin olmayan talep bazen sîgayla («فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا» gibi), bazen de karineyle (müdâyene ayeti gibi) bilinir.
+### Taksimi
+| Kısım | Diğer adları | Hükmü | Örnek
+| **1. Kuvvetli bir şekilde yapılması istenen** | Sünnet-i müekkede, hüdâ | Faili sevap alır; terki ikab değil, itab gerektirir | Cemaatle namaz
+| **2. Yapılması meşru olan** | Sünnet-i gayr-ı müekkede, sünnet-i zâide, nâfile | Faili sevap alır; terki ikab ve itab gerektirmez | Perşembe orucu
+| **3. Zâid** | Mükellefin kemâliyyâtından sayılır | Hz. Peygamber'in insan olarak yaptığı işleri ona uyma maksadıyla yapmaktır; sevap alınır. Uyma maksadı yoksa yapılıp yapılmamasının olumlu ya da olumsuz bir karşılığı yoktur | Yemek, içmek, uyumak
+* Mendub: kesin olmayan talep. Müekkede/hüdâ (terki itab: cemaatle namaz) · gayr-ı müekkede/zâide/nâfile (Perşembe orucu) · zâid (Peygamber'e uyma niyetiyle yeme-içme).
+
+## 3. Muharram
+: Muharram = Şâriin kesin olarak yapılmamasını istediği şeydir.
+- Bu kesinlik bazen nehiy sîgasıyla, bazen kesinliğe delalet eden nehiy sîgasıyla («وَلَا تَقْرَبُوا الزِّنَا» gibi), bazen ictinab sîgasıyla, bazen de yapılması hâlinde ceza bildirilmesinden bilinir.
+### Taksimi
+| Kısım | Tanımı | Örnek
+| **1. Li-zâtihî** | Baştan beri hükmü haram olan | Zina
+| **2. Li-gayrihî** | Sonradan meydana gelen bir sebepten dolayı haram olan. İşlenmesi haram olsa da akid sahih, ibadet makbuldür | Gasbedilmiş elbiseyle namaz; aldatma ile alım satım
+* Muharram: kesin nehiy. Li-zâtihî (zina) / li-gayrihî (gasp elbiseyle namaz: haram ama ibadet makbul, akid sahih).
+
+## 4. Mekruh
+: Mekruh = Şâriin kesin olmayarak yapılmamasını istediği şeydir.
+- Bu kesin olmayan nehiy bazen «كُرِهَ» sîgasıyla, bazen kerahete delalet eden nehiy sîgasıyla, bazen de kerahete delalet eden bir karineyle ictinab emredilmesiyle bilinir.
+@ لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ | Kerahete delalet eden nehiy sîgası
+@ وَذَرُوا الْبَيْعَ | Kerahete delalet eden karineyle ictinab emri
+* Mekruh: kesin olmayan nehiy; «كره» sîgası, kerahet bildiren nehiy, karineli ictinab emri.
+
+## 5. Mübah
+@ مَا خَيَّرَ الشَّارِعُ الْمُكَلَّفَ بَيْنَ فِعْلِهِ وَتَرْكِهِ
+: Mübah = Şâriin mükellefi yapmakla terk etmek arasında muhayyer bıraktığı şeydir.
+- Bu muhayyerlik bazen şer'î bir nassla («لَا جُنَاحَ عَلَيْكُمْ» gibi), bazen karineyle ibahaya delalet eden bir emirle («وَإِذَا حَلَلْتُمْ فَاصْطَادُوا» gibi), bazen de ibâha-i asliyye ile bilinir.
+### Hanefîlere göre teklifî hükümler
+! Yukarıdaki beşli taksim cumhura göredir. Hanefîlere göre 7 kısımdır: 1) Farz, 2) Vâcib, 3) Haram, 4) Mendub, 5) Tenzîhen mekruh, 6) Tahrîmen mekruh, 7) Mübah.
+### Farz ile vâcib arasındaki fark
+| | Sübut ve delaleti | Terki | İnkârı
+| **Farz** | Sübutu da delaleti de kat'îdir | Azap gerektirir | Küfürdür
+| **Vâcib** | Sübut ve delaletinden biri kat'î, diğeri zannîdir | Azap gerektirir | Bid'at ve sapıklıktır
+* Cumhur 5 kısım (vâcib, mendub, muharram, mekruh, mübah); Hanefîler 7 kısım (farz, vâcib, haram, mendub, tenzîhen mekruh, tahrîmen mekruh, mübah).
+* Farz: sübut ve delalet kat'î, inkârı küfür. Vâcib: biri kat'î biri zannî, inkârı bid'at ve sapıklık.
+
+## Vaz'î hükmün kısımları: Sebep, şart, mâni
+### 1. Sebep
+@ مَا جَعَلَهُ الشَّارِعُ عَلَامَةً عَلَى مُسَبَّبِهِ (أَيِ الْحُكْمِ) وَرَبَطَ وُجُودَ الْمُسَبَّبِ بِوُجُودِهِ وَعَدَمَهُ بِعَدَمِهِ
+: Sebep = Şâriin müsebbebine (hükme) alamet kıldığı, müsebbebin varlığını onun varlığına, yokluğunu onun yokluğuna bağladığı şeydir.
+| Kısım | Örnek
+| **A. Teklifî bir hükme sebep olması** | «أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ»
+| **B. Mülkiyetin, helalliğin ispatına veya izalesine sebep olması** | 1. çeşit: «كَالْبَيْعِ لِإِثْبَاتِ الْمِلْكِ وَإِزَالَتِهِ» · 2. çeşit: «كَالزَّوَاجِ وَالطَّلَاقِ»
+- Her iki kısım da mükellefin gücü dahilinde olan ve olmayan diye ikiye ayrılır:
+| | Gücü dahilinde | Gücü dahilinde değil
+| **Teklifî** | Zekât | Beş vakit namaz (vakit)
+| **İspat–izale** | Katl | Miras
+### 2. Şart
+@ مَا يَتَوَقَّفُ وُجُودُ الْحُكْمِ عَلَى وُجُودِهِ وَيَلْزَمُ مِنْ عَدَمِهِ عَدَمُ الْحُكْمِ
+: Şart = Hükmün varlığının kendi varlığına bağlı olduğu, yokluğu hükmün yokluğunu gerektiren şeydir.
+!! Şartın yerine gelmesi meşrutun olmasını gerektirmez. Abdest alınması namazın kılınmasını gerektirmez.
+- A. **Şer'î şart:** Şâriin koyduğu şart.
+- B. **Ca'lî şart:** Mükellefin koştuğu şart; akidlerde olduğu gibi.
+### 3. Mâni
+@ مَا يَلْزَمُ مِنْ وُجُودِهِ عَدَمُ الْحُكْمِ أَوْ بُطْلَانُ السَّبَبِ
+: Mâni = Varlığı hükmün yokluğunu veya sebebin bâtıl olmasını gerektiren şeydir.
+| Kısım | Örnek
+| **A. Hükme mâni** | Namaz vakti girdi ama kadın hayızlı. Hayız, sebep olan vakte değil, hüküm olan namazın vücubuna engeldir.
+| **B. Sebebi geçersiz kılan mâni** | Kişi nisab miktarı mala sahip ama borcu var. Borç, sebebe, yani zekâtın sebebi olan nisab miktarına sahip olmaya engeldir.
+* Sebep: teklifî hükme (vakit-namaz) veya mülkiyet/helalliğe (bey', nikâh, talak) sebep; her biri mükellefin gücü dahilinde olan (zekât, katl) ve olmayan (vakit, miras).
+* Şart: şer'î / ca'lî; şartın varlığı meşrutu gerektirmez (abdest-namaz). Mâni: hükme (hayız) / sebebe (borç-nisab).
+
+## 4. Ruhsat ve azîmet
+@ مَا شَرَعَهُ اللَّهُ مِنَ الْأَحْكَامِ تَخْفِيفًا عَلَى الْمُكَلَّفِ فِي حَالَاتٍ خَاصَّةٍ تَقْتَضِي هَذَا التَّخْفِيفَ | Ruhsat
+@ مَا شَرَعَهُ اللَّهُ أَصَالَةً مِنَ الْأَحْكَامِ الْعَامَّةِ الَّتِي لَا تَخْتَصُّ بِحَالٍ دُونَ حَالٍ وَلَا بِمُكَلَّفٍ دُونَ مُكَلَّفٍ | Azîmet
+: Ruhsat = Allah'ın, bu hafifletmeyi gerektiren özel durumlarda mükellefe kolaylık olsun diye meşru kıldığı hükümlerdir.
+: Azîmet = Allah'ın asıl olarak meşru kıldığı, bir duruma ya da bir mükellefe özgü olmayan genel hükümlerdir.
+### Ruhsatın çeşitleri
+1. Zaruret veya ihtiyaç anında haramların mübah olması: ölmeyecek kadar içki içmek gibi.
+2. Mazeret olduğunda vâcibin terkinin mübah olması: seferde oruç tutulmaması gibi.
+3. İstisnaî bazı akidlerin sahih olması: selem gibi.
+4. Bizden önceki ümmetlerin meşakkat barındıran hükümlerinin neshi: necaset bulaşan elbisenin o bölgesinin kesilmesi gibi.
+### Hanefîlere göre ruhsat
+| Kısım | Tanımı | Örnek
+| **1. Terfih ruhsatı** | Azîmetin hükmü ve delili kalmakla beraber mükellefe rahatlık, hafiflik olsun diye terkine ruhsat verilen | İkrah altında küfür kelimesi söylemek. Burada azîmeti seçip şehid de olabilirsin.
+| **2. Iskat ruhsatı** | Azîmetin hükmü kalmayıp ruhsatla amel etmenin vâcib olduğu kısım | Ölmemek için domuz eti yemek. Bu hâlde yemeyip ölürsek günahkâr oluruz.
+* Ruhsat: zarurette haramın mübah olması · mazerette vâcibin terki · istisnaî akidler (selem) · önceki ümmetlerin ağır hükümlerinin neshi.
+* Hanefîlere göre: terfih ruhsatı (azîmet de seçilebilir: ikrahta küfür) / ıskat ruhsatı (ruhsat vâcib: zarurette domuz eti).
+
+## 5. Sıhhat ve butlan
+### A. Cumhura göre
+| | Tanım 1 | Tanım 2
+| **Sıhhat** | «تَرَتُّبُ آثَارِهِ الشَّرْعِيَّةِ عَلَيْهِ» | «مُوَافَقَةُ الْفِعْلِ لِأَمْرِ الشَّارِعِ»
+| **Butlan** | «عَدَمُ تَرَتُّبِ آثَارِهِ الشَّرْعِيَّةِ عَلَيْهِ» | «مُخَالَفَةُ الْفِعْلِ لِأَمْرِ الشَّارِعِ»
+### B. Hanefîlere göre
+- **Sahih:** «مُوَافَقَةُ الْفِعْلِ لِأَمْرِ الشَّارِعِ» (cumhurla aynı)
+- **Gayr-ı sahih:** «مُخَالَفَةُ الْفِعْلِ لِأَمْرِ الشَّارِعِ»
+- İbadet konularında cumhurla aynıdır. Muamelat konularında ise gayr-ı sahih ikiye ayrılır:
+| Kısım | Tanımı
+| **1. Fâsid** | Sıhhat şartlarında eksiklik olan
+| **2. Bâtıl** | Rükünlerinde eksiklik olan
+~ Et bozulmuşsa bâtıl; kokuşmuşsa (ama yenilebiliyorsa) fâsid denir.
+* Sıhhat: fiilin şâriin emrine uyması / şer'î sonuçlarını doğurması. Hanefîler muamelatta gayr-ı sahihi ikiye ayırır: fâsid (şartta eksiklik), bâtıl (rükünde eksiklik).
+
+## Mahkûm fîh
+@ فِعْلُ الْمُكَلَّفِ الَّذِي تَعَلَّقَ بِهِ حُكْمُ الشَّارِعِ
+: Mahkûm fîh = Mükellefin, şâriin hükmünün taalluk ettiği fiilidir.
+@ يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ | Örnek. Hâkim: Allah · Hüküm: vücub · Mahkûm fîh: sözleşmeleri yerine getirme.
+@ لَا تَكْلِيفَ إِلَّا بِفِعْلٍ | Ancak bir fiille teklif olur.
+- Emir, nedb ve ibaha birer fiildir. Tahrîm ve kerahet ise nefsi alıkoymak bakımından birer fiil sayılır. (Yani normalde bir şeyi yapmamak fiil sayılmaz; ancak bu bakımdan fiil sayılır.)
+* Mahkûm fîh: hükmün taalluk ettiği mükellef fiili. "Lâ teklîfe illâ bi-fi'l": haram ve mekruhta nefsi alıkoymak fiil sayılır.
+
+## Bir fiilin şer'an yükümlü kılınabilmesinin şartları
+### 1. Fiil, mükellef tarafından tam olarak bilinmeli
+- Kur'an'da «أَقِيمُوا الصَّلَاةَ» deniyor, fakat nasıl kılınacağı bildirilmiyor; bunu Hz. Peygamber'in göstermesiyle tam olarak malum oluyor. Dolayısıyla teklif olması sahih oluyor.
+- Bu, mücmel ayetler için geçerlidir. Açık olanlarda zaten bir problem yoktur.
+### 2. Teklifin, teklif yetkisi bulunandan geldiğinin bilinmesi
+- Buradaki bilmeden maksat, bilme imkânının olmasıdır.
+- Dolayısıyla kişinin bilmesi dârülislâmda yaşaması ile sabit olur. Çünkü dârülislâmda yaşayıp da bilmemek gibi bir mazeret olamaz; ama dârülharpte olabilir.
+### 3. Fiilin yapılması mümkün veya mükellefin kudreti dahilinde olmalı
+| Kısım | | Tanımı | Örnek
+| **A. Müstahil** | AA. Li-zâtihî | Aklen ve âdeten imkânsız | İki zıddın cem'i
+| | AB. Li-gayrihî | Aklen mümkün, âdeten imkânsız | İnsanın bir vasıta olmadan uçması
+| **B. Başkasının fiili** | | Kimse başkasının yapıp yapmadığı fiillerden sorumlu tutulmaz | —
+- Aynı şekilde insanın fıtratında olan şeyler de emredilemez. Hz. Peygamber'in «لَا تَغْضَبْ» hadisindeki "öfkelenme"den maksat "öfkene hâkim ol"dur.
+### İslam'da meşakkat
+| Kısım | Örnek | Hükmü
+| **1. Meşakkate rağmen insanların yapabildiği** | Rızık için çalışmak | İslam insanları bu tür meşakkatlerle sorumlu tutmuştur
+| **2. Yapmaya çalışıldığında büyük eziyet ve zarara uğratan** | Savm-ı visal | İslam insanları bu tür meşakkatlerle sorumlu tutmamıştır
+* Fiilin şartları: tam bilinmesi (mücmel sünnetle açıklanır) · yetkiliden geldiğinin bilinmesi (bilme imkânı; dârülislâmda bilmemek mazeret değil) · kudret dahilinde olması (müstahil li-zâtihî/li-gayrihî; başkasının fiili; fıtrat: "lâ tağdab").
+* Meşakkat: katlanılabilen (rızık için çalışmak) teklife engel değil; büyük eziyet veren (savm-ı visal) ile sorumlu tutulmaz.
+
+## Mahkûm aleyh
+@ الْمُكَلَّفُ الَّذِي تَعَلَّقَ حُكْمُ الشَّارِعِ بِفِعْلِهِ
+: Mahkûm aleyh = Şâriin hükmünün fiiline taalluk ettiği mükelleftir.
+### Mükellefin yükümlü olabilmesinin şartları
+1. **Teklifin delillerini anlamaya muktedir olmalı (akıl, bulûğ).** Yani ne ile mükellef olduğunu bilmeli ve anlamalı. Bu ancak akılla olur; dolayısıyla mecnun mükellef olmaz. Akıl gizli bir şey olduğu için bir kimsenin akıllı olup olmadığını dışarıdan anlayamayız; bunun için bir alamet gerekir. Bu alamet de bulûğdur.
+2. **Mükellef olduğu şeye ehil olmalı.**
+* Mükellefin şartları: anlamaya muktedir olmak (akıl; alameti bulûğ) ve ehil olmak.
+
+## Ehliyet
+: Ehliyet = Sözlükte salahiyettir. Istılahta iki kısma ayrılır: vücûb ehliyeti ve edâ ehliyeti.
+### A. Vücûb ehliyeti
+: Vücûb ehliyeti = Bir insanın hakları elde etmeye ve sorumlulukları üstlenmeye elverişli olmasıdır. Bu hassaya zimmet denir.
+- Vücûb ehliyeti mutlak insan olmakla (kadın, erkek, çocuk, cenin, deli, bâliğ, akıllı) ilişkilidir.
+| Kısım | Tanımı | Örnek
+| **1. Nâkıs** | Hakları elde etmeye elverişli, sorumlulukları üstlenmeye elverişsiz; ya da tam tersi | Anne karnındaki cenin; (tersi) borçlu meyyit
+| **2. Tam** | Her ikisine de elverişli | Sağ olarak doğumla başlar
+### B. Edâ ehliyeti
+: Edâ ehliyeti = Mükellefin söz ve fiillerinin şer'an muteber sayılmasına elverişli olmasıdır.
+- Edâ ehliyeti akıl ile ilişkilidir. Üçe ayrılır:
+| Kısım | Kimde
+| **1. Edâ ehliyetinin olmaması** | Gayr-ı mümeyyiz çocuk (7 yaş altı) ve deli
+| **2. Nâkıs edâ ehliyeti** | Mümeyyiz (7 yaş) ve ma'tûh
+| **3. Tam edâ ehliyeti** | Bulûğa ermekle olur (akıllı olmak şartıyla)
+### Nâkıs edâ ehliyetinde tasarruflar
+| Tasarruf | Hükmü | Örnek
+| **A. Mahza yarar sağlayan** | Geçerli | Hibe ve sadaka almak
+| **B. Mahza zarar veren** | Geçersiz | Teberruât ve ıskatat
+| **C. İki ihtimalli olan** | Velinin iznine bağlı | —
+### Rüşd, sefeh, ateh
+: Rüşd = Malını korumak için gerekli tedbirleri alma ve saçıp savurmaktan sakınma vasfıdır. Bu vasfa sahip olana reşîd denir.
+- **Hanefîlere göre:** Üst sınırı dedelik yaşı denilen 25 yaştır. Bu yaşa geldiğinde rüşde ulaşmasa da malı teslim edilir.
+- **Cumhura göre:** Yaşa bakılmaz, rüşde bakılır.
+: Sefeh = Bâliğ ve mümeyyiz bir kimsenin malını ölçüsüz harcama vasfıdır. Bu vasfa sahip olana sefîh denir; hacredilir.
+: Ateh = Bunamadır. Sahibine ma'tûh denir; hacredilir.
+* Vücûb ehliyeti (zimmet): insan olmakla; nâkıs (cenin) / tam (doğumla). Edâ ehliyeti: akılla; yok (7 yaş altı, deli), nâkıs (mümeyyiz, ma'tûh), tam (bulûğ).
+* Nâkıs edâ ehliyetinde: mahza yarar geçerli (hibe almak), mahza zarar geçersiz (teberru), iki ihtimalli veli iznine bağlı.
+* Rüşd: Hanefîlere göre üst sınır 25 yaş; cumhura göre yaşa değil rüşde bakılır. Sefîh ve ma'tûh hacredilir.
+
+## Ehliyet arızaları
+! Ehliyet arızaları edâ ehliyeti ile ilgilidir.
+| Arıza | Örnek
+| **1. Ehliyeti izale eden** | Delilik, uyku, baygınlık
+| **2. Ehliyeti azaltan (نَقْص)** | Ateh. Çünkü atehte nâkıs edâ ehliyeti vardır.
+| **3. Ehliyeti etkilemeyen, fakat bazı hükümler doğuran** | Sefeh → hacr
+* Ehliyet arızaları (edâ ehliyetiyle ilgili): izale eden (delilik, uyku, baygınlık), azaltan (ateh), etkilemeyip hüküm doğuran (sefeh → hacr).

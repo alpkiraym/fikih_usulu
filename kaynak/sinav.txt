@@ -1,0 +1,153 @@
+# Geçmiş sınav soruları ve soru–cevap çalışması. Biçim:
+# [Başlık]
+# ? soru
+# > ünite no:bölüm başlığı (ilgili yer; birden fazla olabilir)
+# = cevap (birden fazla satır olabilir)
+# ! not (kaynakta bulunmayan kısımlar için)
+
+[2022 · 1. dönem]
+? Fıkıh Usulü, İstishab, Sedd-i Zerâi, Tenkîhu'l-Menât, Nüfâtu'l-Kıyas, Sebr-Taksim, Mazinne, İllet, Delil, Vechu'l-İstihsan kavramlarını açıklayınız.
+> 1:Usûl-i fıkhın tanımı
+> 2:B5. İstishab
+> 2:B3. Sedd-i zerâi
+> 2:Mesâliku'l-illet (illeti bulma yolları)
+> 2:A4. Kıyas
+> 2:İllet
+> 2:Şer'î delillerin tanımı ve kısımları
+> 2:B1. İstihsan
+= **Usûl-i fıkıh:** Şer'î amelî hükümleri tafsîlî delillerinden çıkarmaya (istinbat) vasıta olan kaideleri bilmektir.
+= **İstishab:** «إِبْقَاءُ مَا كَانَ عَلَى مَا كَانَ»; değiştiğine dair bir delil bulunmadıkça mevcut hâlin devamına hükmedilmesidir. Müçtehidin başvurduğu son delildir.
+= **Sedd-i zerâi:** Mefsedete götüren vasıtaların yasaklanmasıdır.
+= **Tenkîhu'l-menât:** Nassta geçen vasıflardan illet olmaya elverişli olanı tespit etmektir. Sebr ve taksimden farkı vasıfların nassta geçmesidir.
+= **Nüfâtu'l-kıyas (kıyası kabul etmeyenler):** Nazzâm, Zâhirîler ve bazı Şiî âlimler.
+= **Sebr ve taksim:** Sebr deneme-sınama, taksim ayırma-bölmedir. Bir konuda muhtemel seçenekleri belirleyip (hasr) birer birer eleyerek (hazf) tek bir seçenek bırakmaktır.
+= **Mazinne:** Mazinne (مَظِنَّة) illete, mi'inne (مَئِنَّة) hikmete karşılık gelir.
+= **İllet:** Hükmün üzerine kurulduğu, varlığı onun varlığına, yokluğu da onun yokluğuna bağlanan niteliktir. Diğer adları: menât, emâre, sebep.
+= **Delil:** Sözlükte hissî olsun manevî olsun, hayır olsun şer olsun herhangi bir şeye götürendir. Istılahta kendisinden kat'î veya zannî yolla şer'î amelî bir hüküm elde edilendir.
+= **Vech-i istihsan:** İstihsanın gerekçesidir. Örneğin Hanefîlere göre yırtıcı kuşların artıkları temizdir; çünkü etleri haram olsa da temiz bir kemik olan gagalarıyla içtikleri için tükürükleri artıklarına karışmaz.
+! **Mazinne** kavramı kaynakta yalnızca kısa bir notla (mazinne → illet, mi'inne → hikmet) geçiyor; ayrıca tanımlanmıyor.
+? Fıkıh usulünün ana ekollerinin özelliklerini yazarak bu ekollere ait 5'er tane eseri müellifleriyle birlikte yazınız ve fukahâ metodunun amaçlarını "Fukahâ Metodunun Genel Yapısı Üzerine" adlı makale bağlamında açıklayınız.
+> 1:Usûl telif yolları
+> 1:Telif yollarının eserleri
+= **Fukahâ metodu:** En çok Hanefîlerle özdeşleştirilir; Hanefî mezhebine sıkı biçimde bağlıdır; akla önem vermez (nakil); istikrâ (tümevarım) yöntemini kullanır; kelâmî konular azdır; misaller boldur.
+= **Mütekellimîn metodu:** Herhangi bir mezhebe bağlı değildir; akla önem verir; kıyas (tümdengelim) yöntemini kullanır; kelâmî konuları işler; misaller azdır.
+= **Memzuc metot:** Bu iki metodu birleştirerek yazılan eserlerin yoludur.
+= **Fukahâ eserleri:** el-Fusûl fi'l-usûl (Cessâs), Takvîmü'l-edille (Debûsî), Kenzü'l-vüsûl ilâ ma'rifeti'l-usûl (Pezdevî), el-Usûl (Serahsî).
+= **Mütekellimîn eserleri:** el-Umed (Kâdî Abdülcebbâr), el-Mu'temed (Ebü'l-Hüseyin el-Basrî), el-Burhân (Cüveynî), el-Mustasfâ (Gazzâlî).
+= **Memzuc eserler:** Bedîu'n-nizâm (Muzafferüddin Ahmed b. Ali es-Saâtî), et-Tavzîh şerhu't-Tenkîh (Sadrüşşerîa), Cem'u'l-cevâmi' (İbnü's-Sübkî), et-Tahrîr (Kemâl İbnü'l-Hümâm).
+! Kaynakta her ekol için **4 eser** var; beşinci eser ve "Fukahâ Metodunun Genel Yapısı Üzerine" makalesi kaynakta yok.
+? İlleti belirleme yollarını açıklayarak sebr ve taksim ile tenkîhu'l-menât arasındaki farkı yazınız.
+> 2:Mesâliku'l-illet (illeti bulma yolları)
+= **1. Nass:** A) Sarih: talil edatı bulunan nass. Kat'î olanlar sadece talil manasına gelir («مِنْ أَجْلِ، لِأَجْلِ، لِأَنَّ، كَيْ…»); zannî olanlar başka manaya da gelebilir («لِ، بِ، فَ، إِنَّ»). B) Îmâ ve işaret: talil edatı bulunmayan nass. Örnek: «لَا يَرِثُ الْقَاتِلُ»; hükmün türemiş kelimeye bağlanması kökün («الْقَتْل») illet olduğunu hissettirir.
+= **2. İcmâ.**
+= **3. Sebr ve taksim:** Muhtemel seçenekleri belirleyip (hasr) birer birer eleyerek (hazf) tek seçeneği bırakmak. Örnek: hamr ve kokainde akıcılık, renk, koku, tat elenir; sarhoş edicilik kalır.
+= **Fark:** Tenkîhu'l-menâtta illet olmaya elverişli vasıflar **nassta geçer**; sebr ve taksimde seçenekleri müçtehid kendisi belirler.
+? Sahâbî kavli ile amel konusundaki görüşleri yazınız.
+> 2:B7. Sahâbe kavli
+= A) Sahâbe bir konuda ittifak etmişse hüccettir; bu konuda ihtilaf yoktur.
+= B) İçtihada kapalı konularda da hüccettir; ihtilaf yoktur.
+= C) Sahâbenin kendi rey ve içtihadıyla söylediği, ittifak edilmeyen konularda: Hanefîlere göre hüccettir, Şâfiîlere göre değildir.
+? Sünnetin Kur'an'a nispetini açıklayınız.
+> 2:Sünnetin Kur'an'a nispeti
+= Delil olarak Kur'an'a göre 2. sırada gelir. Getirdiği hükümler yönünden:
+= 1) **Te'kid:** "Namaz kılın" gibi; hüküm ikisinde de vardır.
+= 2) **Mücmeli tebyin, mutlakı takyid, âmmı tahsis:** Namazın nasıl kılınacağı gibi.
+= 3) **Kur'an'da bulunmayan bir hükmü isbat:** (Erkeklere) altın ve gümüşün haram oluşu gibi.
+= 4) **Hanefîlere göre nâsih olması.**
+? Günümüzde size göre icmâ ile amel edilebilir mi?
+> 2:A3. İcmâ
+> 2:İcmânın imkânı
+> 2:İcmânın kısımları ve kaynak değeri
+= Bu bir görüş sorusudur; cevabınızı aşağıdaki görüşlere dayandırabilirsiniz.
+= **Mümkün değil diyenler** (Nazzâm ve bazı Şiîler): İçtihad seviyesini ölçmenin bir ölçüsü yoktur; farklı bölge ve kıtalardaki müçtehidlerin kesin görüşlerine ulaşılamaz; ulaşılsa da görüş değiştirmediklerinden emin olunamaz; icmânın dayandığı delil kat'îyse gizli kalmaz, zannîyse onunla icmâ olmaz.
+= **Mümkün diyenler** (cumhur): İcmâ bilfiil vuku bulmuştur (Hz. Ebû Bekir'in hilafeti, domuz iç yağının haramlığı, ninenin 1/6 mirası).
+= **Hallâf:** İcmâ ancak devlet eliyle mümkün olabilir.
+= Ayrıca şartlar ağırdır: Bütün müçtehidlerin ittifakı gerekir; biri bile muhalefet ederse icmâ olmaz. Sarih icmâ kat'î, sükûtî icmâ zannîdir.
+
+[Soru–cevap çalışması: İcmâ, kıyas ve illet]
+? Üçüncü delil olan icmâın tarifini yapınız.
+> 2:A3. İcmâ
+= «الْإِجْمَاعُ هُوَ اتِّفَاقُ جَمِيعِ الْمُجْتَهِدِينَ مِنَ الْمُسْلِمِينَ فِي عَصْرٍ مِنَ الْعُصُورِ بَعْدَ وَفَاةِ الرَّسُولِ ﷺ عَلَى حُكْمٍ شَرْعِيٍّ فِي وَاقِعَةٍ»
+= İcmâ, Hz. Muhammed'in vefatından sonraki bir asırda bütün Müslüman müçtehidlerin gerçekleşmiş bir olay hakkında şer'î bir hüküm üzerinde ittifak etmeleridir.
+? İcmâın rükünleri nelerdir? Açıklayınız.
+> 2:A3. İcmâ
+= İcmâın dört rüknü vardır:
+= 1) Olayın vuku bulduğu asırda birkaç müçtehidin bulunması gerekir. (Tek bir müçtehidin bulunduğu bir zamanda icmâ olmaz.)
+= 2) Olayın vuku bulduğu anda memleketleri, ırkları, taifeleri nazar-ı itibara alınmaksızın bütün Müslüman müçtehidlerin birleşmeleri gerekir. (Mesela bir meselede sadece Medine müçtehidleri birleşse icmâ gerçekleşmez.)
+= 3) Her bir müçtehid fikrini açıkça ortaya koymuş olmalıdır. (Fetva vererek, sözlü beyan ederek ya da kitabında yazarak.)
+= 4) Bütün müçtehidlerin o hükümde birleşmeleri gerekir. (Büyük çoğunluğu birleşip çok azı muhalefet etse bile icmâ gerçekleşmez.)
+? İcmâın delil oluşunu açıklayınız.
+> 2:A3. İcmâ
+= 1) Allah Teâlâ Kur'an'da müminlere kendisine ve elçisine itaati emrettiği gibi ulu'l-emre itaati de emretmiştir: «يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا» (Nisâ 4/59). Emir lafzı "iş" manasında olup hem din hem dünya işine şâmildir. Dünya işlerinin sahipleri kumandanlar ve valiler, din işlerinin sahipleri ise müçtehidler ve müftülerdir. İbn Abbas'ın başında bulunduğu müfessirler bu lafzı âlimler olarak anlamışlardır.
+= 2) Bütün müçtehidlerin fikirlerinin birleştiği bir hüküm, müçtehidleri tarafından temsil edilen İslam ümmetinin hükmüdür. Birçok hadis ümmetin hatadan masum olduğunu gösterir: "Allah ümmetimi sapıklık üzerinde birleştirmez."
+= 3) Şer'î bir hüküm üzerine icmâ etmek için icmâın mutlaka şer'î bir dayanak üzerine bina edilmesi şarttır. Olay hakkında nass varsa müçtehidin içtihadı nassı anlamaktır; nass yoksa içtihad, onun hükmünü nassı olan hükme kıyaslamak ya da diğer usul kurallarıyla bir hükme varmaktır.
+? İcmâın gerçekleşme imkânını açıklayınız.
+> 2:İcmânın imkânı
+= Usulcülere göre şu şartlar bir arada bulunmadıkça icmâ gerçekleşmez:
+= 1) Fikir birliği edenler müçtehid olmalıdır.
+= 2) Bütün müçtehidler fikir birliği etmiş olmalıdır.
+= 3) Müçtehidler Hz. Muhammed'in ümmetinden olmalıdır.
+= 4) İcmâ Hz. Peygamber'in vefatından sonra meydana gelmelidir.
+= 5) İttifak edilen hüküm vücub, sıhhat, hürmet ve fesad gibi bir meselenin şer'î hükmüne dair olmalıdır.
+? İcmâın fiilen gerçekleşmesini açıklayınız.
+> 2:İcmânın imkânı
+= Cumhur icmâın mümkün olduğunu ve fiilen meydana geldiğini kabul etmiş; sahâbe döneminde ve sonraki dönemlerde meydana gelen icmâları delil göstermiştir. Ninenin mirastan altıda bir pay alması, gıda maddesini satın alanın teslim almadan satmasının caiz olmaması bu örneklerdendir.
+= Nazzâm gibi bazı Mu'tezilîler, Hâricîler ve Şîa böyle bir icmâyı kabul etmemiştir. Onlara göre icmâya katılacak müçtehidlerin kimler olduğu ve her birinin görüşünün ne olduğu bilinmelidir; bu ise imkânsızdır.
+= Usul âlimlerinin çoğunluğunun şartlarına uygun bir icmâın her devirde oluştuğunu düşünmek zordur. Bu şartları taşıyan icmâın sahâbenin ilk döneminde, yani Hz. Ebû Bekir ve Hz. Ömer döneminde gerçekleştiği genel kabul görmüştür. İcmâya karşı olduğu nakledilen Ahmed b. Hanbel'in bile bu dönemdeki icmâya karşı çıkmadığı belirtilir; çünkü katılacak sahâbe fakihlerinin sayısı belliydi ve bir araya gelmeleri kolaydı.
+= Klasik usulcülerin icmâyı zor şartlara bağlaması şöyle de yorumlanabilir: İcmâ gerçekleşince kesinlik ifade eder ve dışına çıkılamaz. Bu, özellikle fıkhın oluşum döneminde içtihad hürriyetini olumsuz etkileyebilirdi; içtihada daha fazla alan bırakmak için şartlar sıkı tutulmuştur.
+= Hallâf'a göre icmâ, oluşma şartları göz önüne alınırsa mümkün değildir; fakat devlet yoluyla yapılabilir. Sahâbenin icmâı da bu manada değil, şûrâ meclisi kararıdır.
+? İcmâın çeşitlerini açıklayınız.
+> 2:İcmânın kısımları ve kaynak değeri
+= **Meydana gelişine göre:**
+= 1) **Sarih icmâ:** Bir asrın bütün müçtehidlerinin, bir olayın hükmü üzerinde her birinin fikrini fetva veya hüküm şeklinde açıklayarak birleşmeleridir. Gerçek icmâ budur; çoğunluğa göre şer'î bir hüccettir.
+= 2) **Sükûtî icmâ:** Bir asrın bazı müçtehidlerinin fikirlerini açıkça ortaya koyup geri kalanların muvafık veya muhalif fikirlerini açıklamayıp susmalarıdır. İtibarî (hükmî) icmâdır; çünkü susanın muvafakati kesin değildir. Cumhur delil olarak kabul etmezken Hanefîler kabul eder. Hanefîler, susan müçtehide olayın bildirilmesini ve araştırıp fikrini açıklayabileceği kadar süre verilmesini şart koşar; buna rağmen susarsa bu muvafakat sayılır. Bir görüşe göre ise (çoğunluğa katılarak) sükût edenin fikri yok sayılır.
+= **Hallâf'a göre hükme delaletine göre:**
+= a) **Delaleti kat'î icmâ:** Delalet ettiği hüküm kesindir; o olayda artık içtihad yapılamaz.
+= b) **Delaleti zannî icmâ:** Hükmü ağır basan bir zanna dayanır; olay hakkında içtihada imkân vardır. Çünkü bu hüküm cumhurun değil bir grup müçtehidin fikrinden ibarettir.
+? Kıyasın ıstılahî tarifini yapınız.
+> 2:A4. Kıyas
+= Istılahta kıyas: Aralarındaki illet birliği dolayısıyla hakkında nass bulunmayan bir meselenin şer'î hükmünü, hakkında nass bulunan bir meselenin hükmüne ilhak etmek, bağlamaktır.
+? Kıyasın delil oluşunu anlatınız.
+> 2:A4. Kıyas
+= Cumhurun mezhebi, kıyasın amelî hükümlerde delil olmasıdır. Kıyas şer'î deliller dizisinde dördüncü sıradadır. Nazzâmiyye, Zâhiriyye ve bazı Şiî gruplar kıyası delil olarak kabul etmez. Kabul edenler şu delilleri getirir:
+= 1) **Kur'an:** «فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ» (Nisâ 4/59); «فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ» (Haşr 59/2); «قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ» (Yâsîn 36/78-79).
+= 2) **Sünnet:** Yemen'e giden Muâz b. Cebel'in Hz. Peygamber ile diyaloğu. Ayrıca hakkında vahiy gelmeyen olaylarda Hz. Peygamber'in hüküm verdiği sabittir; açık nassın bulunmadığı durumlarda kıyas yapmak da onun sünnetidir. Hz. Ömer'in oruçlunun eşini (inzal olmaksızın) öpmesini sorması ve Hz. Peygamber'in bunu oruçluyken ağzı çalkalamaya kıyas etmesi güzel bir örnektir.
+= 3) **Sahâbe:** Sahâbe Hz. Ebû Bekir'in halifeliğini namaz imamlığına kıyaslayarak biat etti. Hz. Peygamber hayattayken içtihad eden sahabesini azarlamadı; sahâbe de içtihad ve kıyas ettikleri için birbirini kınamadı.
+= 4) **Akıl:** a) Allah maslahatsız bir esas koymamıştır; şarabın haram, aynı sarhoş edicilik özelliğini taşıyan başka bir içkinin mübah olması akılla bağdaşmaz. b) Kur'an ve Sünnet sınırlı, olaylar sınırsızdır; kıyas yeni olayların hükmünü açıklar. c) Kıyas, insanın selim tabiatının ve doğru mantığın teyit ettiği bir delildir.
+? Kıyasın rükünleri nelerdir? Açıklayınız.
+> 2:Kıyasın rükünleri ve aslın hükmünün şartları
+= 1) **Asıl:** Hükmü hakkında nass olan rükündür. Makîs aleyh, mahmûl aleyh ve müşebbeh bih diye de isimlendirilir.
+= 2) **Fer':** Hükmü hakkında ne nass ne de icmâ olan rükündür. Makîs, mahmûl ve müşebbeh isimleri de verilir.
+= 3) **Aslın hükmü:** Hakkında nass bulunan şer'î hükümdür; fer'î hükmün kendisine kıyas edildiği aslî hükümdür. Aslî hükmün fer'e geçmesi için şartlar: a) nass ile sabit şer'î amelî bir hüküm olması, b) illetini aklın bilebilmesi, c) sadece asla has olmaması.
+= 4) **İllet:** Hükmün kendisi üzerine bina edildiği ve asıldaki hükmün fer'e geçtiğinin kendisiyle bilindiği vasıftır. Rükünlerin en önemlisidir; çünkü illet kıyasın temel meselesidir.
+? Kıyasın rükünlerinden olan illetin tarifi ve şartları nelerdir? Açıklayınız.
+> 2:İllet
+= «الْعِلَّةُ هِيَ الْوَصْفُ الَّذِي بُنِيَ عَلَيْهِ حُكْمُ الْأَصْلِ»: Aslın hükmünün üzerine bina edildiği vasıftır.
+= İlletin «ظَاهِر، مُنْضَبِط، مُنَاسِب، غَيْر قَاصِر» olması gerekir:
+= 1) **Zâhir (açık) olmalı:** Asıldaki vasıf akıl ve duyularla kavranabilir olmalıdır.
+= 2) **Munzabıt (istikrarlı) olmalı:** Kişilere, durumlara ve çevrelere göre değişmemeli; ifade ettiği anlam sınırlı olmalıdır.
+= 3) **Hükme münâsib (uygun) olmalı:** Hükmün hikmetinin tahakkukunu sağlayacak bir vasıf olmalıdır.
+= 4) **Müteaddî (sirayetli) olmalı:** Kâsır, yani asla mahsus olmamalı; başka mesele ve maddelere de geçebilmelidir.
+? Kıyası kabul edenlerin delilleri nelerdir? Açıklayınız.
+> 2:A4. Kıyas
+= 1) **Kur'an:** «يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ…» (Nisâ 4/59).
+= 2) **Sünnet:** Muâz b. Cebel hadisi. Sahih hadislerde geçen kıyaslar: Cariyenin babası adına haccı meselesinde Allah'a borç kul borcuna kıyas edilir; Hz. Ömer'in oruçluyken eşini öpmesi mazmazaya kıyas edilir; renk farkından dolayı çocuğunu reddeden adama deveden kıyas yapılır.
+= 3) **Sahâbenin bazı fiilleri:** Hz. Ebû Bekir'in hilafetinin imamlığa kıyası (dünyayı dine kıyaslamak); Hz. Ömer'in Ebû Mûsâ el-Eş'arî'ye "kıyas et" demesi.
+= 4) **Aklî deliller:** Maslahatın olduğu yerde aynı hüküm verilir; Kur'an ve hadisler sınırlı, hadiseler sınırsızdır; kıyas selim bir fıtratın gereğidir.
+? Kıyası kabul etmeyenlerin delillerini açıklayınız.
+> 2:A4. Kıyas
+= 1) **"Kıyas zan üzerine kuruludur."** Allah zanla amel etmeyi kınamıştır: «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ» (İsrâ 17/36). **Cevap:** Allah'ın kınadığı zan akidede olandır. Amelî delillerin çoğunun delaleti zannîdir; bu görüşe göre delaleti zannî olan nasslarla da amel edilmemesi gerekir. Bu ise ittifakla bâtıldır.
+= 2) **"Kıyas bakış açılarının farklılığına dayanır; bu da hükümlerin farklı ve zıt olmasına yol açar, şeriatta ise zıtlık olmamalıdır."** **Cevap:** Kıyasla ilgili ihtilaf itikad ve dinin temellerinde değil, amelî cüz'î hükümlerdedir. Bu da insanlara rahmettir ve maslahata yardımcı olur.
+= 3) **"Kıyas reyle yapılır; Hz. Ömer gibi bazı sahabeler reyle hüküm verenleri kınamıştır."** **Cevap:** Bu kınamalarda kastedilen hevâ ve hevesle yapılan reydir, kıyas değildir.
+? İlletin kısımları nelerdir? Açıklayınız.
+> 2:İllet ile hüküm arasındaki münasebet
+= a) **Müessir uygun (münâsib) nitelik:** Nass veya icmâ ile bizzat hükme illet olduğu sabit olan vasıf (hayız ayetinde «أَذًى»).
+= b) **Elverişli (mülâim) nitelik:** Bizzat o hükme değil, cinsinin cinsine itibar edilen vasıf (yağmurda namazların cem'i).
+= c) **Mutlak (mürsel) uygun nitelik:** Şâriin itibar veya ilga ettiğine dair bir delil bulunmayan vasıf; maslahat-ı mürsele.
+= d) **Mülgâ uygun nitelik:** Şâriin ilga ettiğine dair delil bulunan vasıf (erkek ve kızın karabette eşit, mirasta farklı olması).
+? İlleti bulma yollarını açıklayınız.
+> 2:Mesâliku'l-illet (illeti bulma yolları)
+= 1) **Nass:** A) Sarih (talil edatı bulunan): kat'î edatlar sadece talil bildirir («مِنْ أَجْلِ، لِأَجْلِ، لِأَنَّ، كَيْ، لِعِلَّةِ كَذَا، لِسَبَبِ كَذَا»); zannî edatlar başka manaya da gelebilir («لِ، بِ، فَ، إِنَّ»). B) Îmâ ve işaret (talil edatı bulunmayan): «لَا يَرِثُ الْقَاتِلُ»; illet, «الْقَاتِل»in türediği «الْقَتْل»dir.
+= 2) **İcmâ.**
+= 3) **Sebr ve taksim:** Muhtemel seçenekler belirlenir (hasr), birer birer elenir (hazf), kalan seçenek illettir.
+= Menât kavramları: **Tahrîcü'l-menât** illeti bu yollarla tespit etmek; **tenkîhu'l-menât** nassta geçen vasıflardan illete elverişli olanı tespit etmek; **tahkîku'l-menât** asıldaki illetin fer'de bulunduğundan emin olmaktır.

@@ -1,0 +1,73 @@
+# Giriş: Fıkıh, Usûl-i Fıkıh ve Telif Yolları
+> Fıkıh ve usûl-i fıkhın tanımı, konusu ve gayesi; küllî delil ve küllî hüküm; usûl telif yolları ve her yolun temel eserleri.
+
+## Fıkhın tanımı
+@ هُوَ الْعِلْمُ بِالْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ الْمُكْتَسَبَةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ
+: Fıkıh = Şer'î ve amelî hükümlerin tafsîlî delillerinden elde edilerek bilinmesidir.
+| Tarifteki kayıt | Dışarıda bıraktığı
+| «الشرعية» (şer'î) | Aklî hükümler (bir, ikinin yarısıdır gibi) ve hissî hükümler (ateş yakıcıdır gibi)
+| «العملية» (amelî) | İtikadi ve ahlaki hükümler
+### İ. Ebû Hanîfe'ye göre fıkıh
+@ هُوَ مَعْرِفَةُ النَّفْسِ مَا لَهَا وَمَا عَلَيْهَا
+: Ebû Hanîfe'ye göre fıkıh = Kişinin lehine ve aleyhine olanı bilmesidir.
+* Fıkıh: şer'î amelî hükümlerin tafsîlî delillerinden bilinmesi. "Şer'î" kaydı aklî ve hissî, "amelî" kaydı itikadi ve ahlaki hükümleri dışarıda bırakır.
+* Ebû Hanîfe: fıkıh, kişinin lehine ve aleyhine olanı bilmesidir.
+
+## Usûl-i fıkhın tanımı
+@ الْعِلْمُ بِالْقَوَاعِدِ الَّتِي يُتَوَصَّلُ بِهَا إِلَى اسْتِنْبَاطِ الْأَحْكَامِ الشَّرْعِيَّةِ الْعَمَلِيَّةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ
+: Usûl-i fıkıh = Şer'î amelî hükümleri tafsîlî delillerinden çıkarmaya (istinbat) vasıta olan kaideleri bilmektir.
+* Usûl-i fıkıh: hükümleri tafsîlî delillerden istinbat etmeye vasıta olan kaideleri bilmek.
+
+## Fıkhın ve usûl-i fıkhın konusu
+| | Fıkıh ilmi | Usûl-i fıkıh
+| **Konusu** | Mükellefin fiili; kendisi için sabit olan şer'î hükümler bakımından | Küllî şer'î delil; kendisiyle sabit olan küllî hükümler bakımından
+@ فِعْلُ الْمُكَلَّفِ مِنْ حَيْثُ مَا يَثْبُتُ لَهُ مِنَ الْأَحْكَامِ الشَّرْعِيَّةِ | Fıkhın konusu
+@ الدَّلِيلُ الشَّرْعِيُّ الْكُلِّيُّ مِنْ حَيْثُ مَا يَثْبُتُ بِهِ مِنَ الْأَحْكَامِ الْكُلِّيَّةِ | Usûl-i fıkhın konusu
+* Fıkhın konusu mükellefin fiili; usûl-i fıkhın konusu küllî şer'î delildir.
+
+## Küllî delil ve küllî hüküm
+: Küllî delil = İçinde çeşitli cüz'î delillerin toplandığı nevidir. Emir, nehiy, âmm, mutlak, icmâ, kıyas gibi.
+: Küllî hüküm = İçinde çeşitli cüz'î hükümlerin toplandığı nevidir. İcab, tahrîm, sıhhat, butlan gibi.
+~ Emir küllî bir delildir; emir sîgasıyla gelen bir nass ise cüz'î bir delildir. İcab küllî bir hükümdür; belli bir fiilin talep edilmesi ise cüz'î bir hükümdür.
+* Küllî delil: emir, nehiy, âmm, mutlak, icmâ, kıyas. Küllî hüküm: icab, tahrîm, sıhhat, butlan.
+
+## Fıkhın ve usûl-i fıkhın gayesi
+| | Fıkıh ilmi | Usûl-i fıkıh
+| **Gayesi** | Şer'î hükümleri insanların fiil ve sözlerine uygulamak | Usûl kaidelerini tafsîlî delillere uygulayarak bu delillerin gösterdiği şer'î hükümlere ulaşmak
+@ تَطْبِيقُ الْأَحْكَامِ الشَّرْعِيَّةِ عَلَى أَفْعَالِ النَّاسِ وَأَقْوَالِهِمْ | Fıkhın gayesi
+@ تَطْبِيقُ قَوَاعِدِهِ عَلَى الْأَدِلَّةِ التَّفْصِيلِيَّةِ لِلتَّوَصُّلِ إِلَى الْأَحْكَامِ الشَّرْعِيَّةِ الَّتِي تَدُلُّ عَلَيْهَا | Usûl-i fıkhın gayesi
+* Fıkhın gayesi hükümleri insanların fiil ve sözlerine uygulamak; usûlün gayesi kaideleri delillere uygulayıp hükme ulaşmaktır.
+
+## Usûl telif yolları
+| | Fukahâ metodu | Mütekellimîn metodu
+| **Mezhep bağı** | Hanefî mezhebine sıkı biçimde bağlıdır; en çok Hanefîlerle özdeşleştirilir | Herhangi bir mezhebe bağlı değildir
+| **Akıl** | Akla önem vermezler (nakil) | Akla önem verirler
+| **Yöntem** | İstikrâ (tümevarım) | Kıyas (tümdengelim)
+| **Kelâmî konular** | Azdır | İşlenir
+| **Misaller** | Boldur | Azdır
+: Memzuc metot = Fukahâ ve mütekellimîn metotlarını birleştirerek yazılan eserlerin yoludur.
+* Fukahâ metodu: Hanefî, nakil ağırlıklı, tümevarım, misal bol. Mütekellimîn: mezhepten bağımsız, akla önem, tümdengelim, kelâmî konular, misal az. Memzuc: ikisinin birleşimi.
+
+## Telif yollarının eserleri
+### Fukahâ metodu eserleri
+| Eser | Müellif
+| el-Fusûl fi'l-usûl | Cessâs
+| Takvîmü'l-edille | Debûsî
+| Kenzü'l-vüsûl ilâ ma'rifeti'l-usûl | Pezdevî
+| el-Usûl | Serahsî
+### Mütekellimîn metodu eserleri
+| Eser | Müellif
+| el-Umed | Kâdî Abdülcebbâr
+| el-Mu'temed | Ebü'l-Hüseyin el-Basrî
+| el-Burhân | Cüveynî
+| el-Mustasfâ | Gazzâlî
+### Memzuc eserler
+| Eser | Müellif
+| Bedîu'n-nizâm | Muzafferüddin Ahmed b. Ali (Saâtî)
+| et-Tavzîh şerhu't-Tenkîh | Sadrüşşerîa
+| Cem'u'l-cevâmi' | İbnü's-Sübkî
+| et-Tahrîr | Kemâl İbnü'l-Hümâm
+! Ezber sırası: Fukahâ · Takvîmü'l-edille, el-Usûl, Kenzü'l-vüsûl, el-Fusûl. Mütekellimîn · el-Burhân, el-Umed, el-Mu'temed, el-Mustasfâ. Memzuc · Cem'u'l-cevâmi', et-Tavzîh, Bedîu'n-nizâm, et-Tahrîr.
+* Fukahâ: el-Fusûl (Cessâs), Takvîmü'l-edille (Debûsî), Kenzü'l-vüsûl (Pezdevî), el-Usûl (Serahsî).
+* Mütekellimîn: el-Umed (Kâdî Abdülcebbâr), el-Mu'temed (Ebü'l-Hüseyin el-Basrî), el-Burhân (Cüveynî), el-Mustasfâ (Gazzâlî).
+* Memzuc: Bedîu'n-nizâm (Saâtî), et-Tavzîh (Sadrüşşerîa), Cem'u'l-cevâmi' (İbnü's-Sübkî), et-Tahrîr (İbnü'l-Hümâm).

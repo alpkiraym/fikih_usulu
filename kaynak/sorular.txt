@@ -1,0 +1,957 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Bütün bilgiler ünite metinlerinden (01–06.txt) alınmıştır.
+
+# ---------- 1. ünite ----------
+? 1 | Fıkıh tarifindeki «الشرعية» kaydı hangi hükümleri dışarıda bırakır?
++ Aklî ve hissî hükümleri
+- İtikadi ve ahlaki hükümleri
+- Vaz'î hükümleri
+- Tafsîlî delillerden çıkmayan hükümleri
+= "Şer'î" kaydıyla aklî (bir, ikinin yarısıdır) ve hissî (ateş yakıcıdır) hükümler; "amelî" kaydıyla itikadi ve ahlaki hükümler dışarıda kalır.
+
+? 1 | Fıkıh tarifindeki «العملية» kaydı hangi hükümleri dışarıda bırakır?
++ İtikadi ve ahlaki hükümleri
+- Aklî ve hissî hükümleri
+- İbadetle ilgili hükümleri
+- Muamelatla ilgili hükümleri
+= "Amelî" kaydı itikadi ve ahlaki hükümleri; "şer'î" kaydı ise aklî ve hissî hükümleri dışarıda bırakır.
+
+? 1 | "Kişinin lehine ve aleyhine olanı bilmesi" şeklindeki fıkıh tanımı kime aittir?
++ İmam Ebû Hanîfe
+- İmam Şâfiî
+- Gazzâlî
+- Serahsî
+= Ebû Hanîfe'ye göre fıkıh «مَعْرِفَةُ النَّفْسِ مَا لَهَا وَمَا عَلَيْهَا»dır.
+
+? 1 | Usûl-i fıkhın konusu nedir?
++ Küllî şer'î delil; kendisiyle sabit olan küllî hükümler bakımından
+- Mükellefin fiili; kendisi için sabit olan şer'î hükümler bakımından
+- Şer'î hükümleri insanların fiil ve sözlerine uygulamak
+- Cüz'î delillerden hüküm çıkarmak
+= Fıkhın konusu mükellefin fiili, usûl-i fıkhın konusu ise küllî şer'î delildir.
+
+? 1 | Aşağıdakilerden hangisi küllî bir hükümdür?
++ İcab
+- Emir
+- Kıyas
+- Âmm
+= Küllî hüküm, içinde çeşitli cüz'î hükümlerin toplandığı nevidir: icab, tahrîm, sıhhat, butlan. Emir, âmm, kıyas ise küllî delildir.
+
+? 1 | Hangisi fukahâ metodunun özelliklerinden biri değildir?
++ Kıyas (tümdengelim) yöntemini kullanır
+- Hanefî mezhebine sıkı biçimde bağlıdır
+- Akla önem vermez, nakle dayanır
+- Misalleri boldur
+= Fukahâ metodu istikrâ (tümevarım) yöntemini kullanır. Kıyas (tümdengelim) mütekellimîn metodunun özelliğidir.
+
+? 1 | Hangisi mütekellimîn metodunun özelliğidir?
++ Herhangi bir mezhebe bağlı değildir ve akla önem verir
+- Hanefî mezhebine sıkı biçimde bağlıdır
+- Kelâmî konulara az yer verir
+- Misalleri boldur
+= Mütekellimîn metodu mezhepten bağımsızdır, akla önem verir, kıyas (tümdengelim) yöntemini kullanır, kelâmî konuları işler ve misalleri azdır.
+
+? 1 | el-Mustasfâ hangi usûl telif yolunun eseridir?
++ Mütekellimîn metodu
+- Fukahâ metodu
+- Memzuc metot
+- Hiçbiri; fıkıh eseridir
+= Mütekellimîn metodunun eserleri: el-Umed, el-Mu'temed, el-Burhân ve Gazzâlî'nin el-Mustasfâ'sı.
+
+? 1 | Hangisi memzuc (iki metodu birleştiren) eserlerden biridir?
++ et-Tahrîr
+- Takvîmü'l-edille
+- el-Burhân
+- el-Fusûl fi'l-usûl
+= Memzuc eserler: Bedîu'n-nizâm, et-Tavzîh, Cem'u'l-cevâmi' ve İbnü'l-Hümâm'ın et-Tahrîr'i.
+
+? 1 | Hangisi fukahâ metoduyla yazılmış bir eserdir?
++ Takvîmü'l-edille
+- el-Mu'temed
+- Cem'u'l-cevâmi'
+- el-Umed
+= Fukahâ metodu eserleri: el-Fusûl (Cessâs), Takvîmü'l-edille (Debûsî), Kenzü'l-vüsûl (Pezdevî), el-Usûl (Serahsî).
+
+# ---------- 2. ünite ----------
+? 2 | Hangisi muhtelefun fîh (üzerinde ihtilaf edilen) delillerden biri değildir?
++ Kıyas
+- İstihsan
+- Sahâbe kavli
+- İstishab
+= Kıyas, Kitap, Sünnet ve icmâ ile birlikte müttefekun aleyh dört delilden biridir.
+
+? 2 | Kur'an hükümlerinin delaleti ne zaman kat'î olur?
++ Lafız birden fazla manaya ihtimalli değilse
+- Ayet Medine'de inmişse
+- Hüküm itikadi bir konudaysa
+- Ayet tevatürle nakledilmişse
+= Kur'an'ın sübûtu kat'îdir. Delaleti ise lafız tek manaya ihtimalliyse kat'î ("yüz değnek"), birden fazla manaya ihtimalliyse zannîdir ("kurû'").
+
+? 2 | «وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ» ayeti hangisine örnektir?
++ Delaleti zannî olan Kur'an hükmüne
+- Delaleti kat'î olan Kur'an hükmüne
+- Sübûtu zannî olan bir nassa
+- Muhkem bir lafza
+= «قُرُوء» kelimesi birden fazla manaya (hayız, temizlik) ihtimalli olduğu için ayetin delaleti zannîdir.
+
+? 2 | Hz. Peygamber'in bazı sahabelerin söz ve fiillerini susarak veya överek onaylamasına ne denir?
++ Takrirî sünnet
+- Fiilî sünnet
+- Kavlî sünnet
+- Sünnet-i zâide
+= Takrirî sünnet, sahabelerden meydana gelen söz ve fiillerin susarak, gülerek, överek veya dua ederek onaylanmasıdır.
+
+? 2 | Sünnetin, Kur'an'da bulunmayan bir hükmü isbat etmesine örnek hangisidir?
++ (Erkeklere) altın ve gümüşün haram oluşu
+- Namazın nasıl kılınacağı
+- "Namaz kılın" emrinin sünnette de geçmesi
+- Vasiyet ayetinin neshi
+= Namazın nasıl kılınacağı tebyine, "namaz kılın" te'kide örnektir. Altın ve gümüşün haram oluşu Kur'an'da bulunmayan bir hükmün isbatıdır.
+
+? 2 | Hanefîlere göre ilk tabakada tevatür sayısına ulaşmamış, fakat 2. ve 3. tabakada ulaşmış rivayete ne denir?
++ Meşhur
+- Mütevâtir
+- Âhâd
+- Garîb
+= Hanefîlere göre sünnet senedine göre mütevâtir, meşhur ve âhâd olmak üzere üçe ayrılır. Tarif edilen meşhurdur.
+
+? 2 | Cumhura göre âhâd haberin kısımlarında "garîb" hadisin herhangi bir tabakadaki ravi sayısı kaçtır?
++ 1
+- 2
+- 3
+- 4
+= Cumhura göre âhâd: meşhur/müstefîz (3), azîz (2), garîb (1).
+
+? 2 | Hangisi teşrî özelliği olmayan sünnetlere örnektir?
++ Hurma aşılama meselesi
+- Beş vakit namazın edası
+- Cemaatle namaz
+- Fitrenin verilmesi
+= Dünya işlerinde ustalık ve tecrübeye dayanan fiiller (hurma aşılama) teşrî özelliği taşımaz. Diğerleri: insan tabiatı gereği yapılanlar ve Peygambere özel olanlar.
+
+? 2 | Âhâd haberi kabulde raviye yemin ettiren sahâbî kimdir?
++ Hz. Ali
+- Hz. Ebû Bekir
+- Hz. Ömer
+- Hz. Osman
+= Hz. Ebû Bekir ve Hz. Ömer iki kişi işittiğini söylediğinde kabul eder, Hz. Ali raviye yemin ettirirdi.
+
+? 2 | Âhâd haberin "umûm-i belvâdan olmaması" şartını hangi mezhep koşar?
++ Hanefîler
+- Mâlikîler
+- Şâfiîler
+- Hanbelîler
+= Hanefîlerin ek şartları: ravinin rivayetine aykırı amel etmemesi, hadisin umûm-i belvâdan olmaması, ravi müçtehid değilse kıyasa aykırı olmaması.
+
+? 2 | Âhâd haberin Medine ehlinin ameline aykırı olmamasını şart koşan mezhep hangisidir?
++ Mâlikîler
+- Hanefîler
+- Şâfiîler
+- Hanbelîler
+= Mâlikîler hadisin Medine ameline aykırı olmamasını, Şâfiîler senedin sahih ve muttasıl olmasını şart koşar; Hanbelîler ek şart koşmaz.
+
+? 2 | İcmâın hücciyetine delil getirilen ayetteki «أُولِي الْأَمْرِ» İbn Abbas gibi müfessirlere göre kimdir?
++ Ulemâ
+- Ümerâ (devlet başkanları)
+- Sahâbe
+- Kumandanlar
+= İcmâın delili «وَأُولِي الْأَمْرِ مِنْكُمْ» ayeti ve "Ümmetim hata üzerinde birleşmez" hadisidir; İbn Abbas gibi müfessirlere göre ulu'l-emr ulemâdır.
+
+? 2 | İcmâın mümkün olmadığını savunanlar kimlerdir?
++ Nazzâm ve bazı Şiîler
+- Cumhur
+- Hanefîler
+- Mâlikîler
+= Nazzâm ve bazı Şiîler icmâın mümkün olmadığını savunur. Cumhura göre mümkündür ve bilfiil vuku bulmuştur.
+
+? 2 | Hangisi bilfiil vuku bulmuş icmâya örnek gösterilmez?
++ Yağmurda namazların cem'i
+- Hz. Ebû Bekir'in hilafeti
+- Domuz iç yağının haram oluşu
+- Ninenin altıda bire varis olması
+= Yağmurda cem', münâsib-i mülâim konusunda kıyas örneğidir. Diğer üçü icmâ örneğidir.
+
+? 2 | Hallâf'a göre icmâ nasıl mümkün olabilir?
++ Ancak devlet eliyle
+- Ancak sahâbe döneminde
+- Ancak Medine ehliyle
+- Hiçbir şekilde
+= Hallâf'a göre icmâ ancak devlet eliyle mümkün olabilir.
+
+? 2 | Sükûtî icmâ ile ilgili hangisi doğrudur?
++ Delaleti zannîdir; Şâfiîler ve Mâlikîler kabul etmez
+- Delaleti kat'îdir; uymak vâcib, uymamak haramdır
+- Hakiki icmâ olarak da adlandırılır
+- Bütün müçtehidlerin görüşünü açıkça belirtmesidir
+= Sükûtî (itibarî) icmâda bazı müçtehidler susar; delaleti zannîdir. Sarih (hakiki) icmâ ise kat'îdir.
+
+? 2 | "Kıyas müsbit değil, muzhirdir" sözü ne anlatır?
++ Kıyas hükmü ortaya koymaz, var olan hükmü ortaya çıkarır
+- Kıyasla sabit olan hüküm kesindir
+- Kıyas yalnızca ibadetlerde geçerlidir
+- Kıyas nassı nesheder
+= Kıyas yeni bir hüküm koymaz; nassta var olan hükmü illet birliğiyle fer'de ortaya çıkarır.
+
+? 2 | Kıyasın hücciyetine sahâbe fiillerinden delil olarak ne gösterilir?
++ Hz. Ebû Bekir'in hilafetinin namaz imamlığına kıyas edilmesi
+- Muâz b. Cebel hadisi
+- «فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ» ayeti
+- Kur'an'ın cem'i
+= Sahâbe "Resulullah onu dinimiz için uygun gördü, dünyamız için uygun görmeyelim mi?" diyerek hilafeti imamlığa kıyas etmiştir.
+
+? 2 | Kıyasın rükünlerinden "fer'" nedir?
++ Hükmü hakkında nass bulunmayan
+- Hükmü hakkında nass bulunan
+- Asla ait hükmün konulmasına sebep olan nitelik
+- Asla sabit olan ve fer'e uygulanmak istenen hüküm
+= Fer'e «الْمَقِيس، الْمَحْمُول، الْمُشَبَّه» da denir; hükmü hakkında nass bulunmayandır.
+
+? 2 | Hz. Peygamber'in dörtten fazla evliliğine kıyas yapılamaması hangi şarta örnektir?
++ Aslın hükmü asla has olmamalı
+- Aslın hükmü nassla sabit olmalı
+- Aslın hükmü taabbüdî olmamalı
+- İllet müteaddî olmalı
+= Aslın hükmünün şartları: nassla sabit olmak, aklen idrak edilebilir illeti olmak ve asla has olmamak.
+
+? 2 | Seferde kasr-ı salâtta "meşakkatin def'i" nedir?
++ Hikmet
+- İllet
+- Sebep
+- Mâni
+= Hikmet hükmün konuluş amacıdır (meşakkatin def'i); illet ise hükmün bağlandığı niteliktir (sefer).
+
+? 2 | Güneşin batması akşam namazının farziyeti için nedir?
++ Sebeptir, illet değildir
+- Hem illet hem sebeptir
+- İllettir, sebep değildir
+- Hikmettir
+= Akılla idrak edilemeyen şeye sadece sebep denir. Sefer ise kasr için hem illet hem sebeptir.
+
+? 2 | İlletin "müteaddî" olması ne demektir?
++ Kişiye özel (kâsır) olmayıp başka yerlere geçebilmesi
+- Açık olması
+- Şahıstan şahısa değişmemesi
+- Hükme uygun olması
+= İlletin şartları: zâhir (açık), munzabıt (standart, şahıstan şahısa değişmeyen), münâsib (uygun), müteaddî (kâsır olmayan).
+
+? 2 | Nass veya icmâ ile bizzat hükme illet olduğu sabit olan vasfa ne denir?
++ el-Münâsibü'l-müessir
+- el-Münâsibü'l-mülâim
+- el-Münâsibü'l-mürsel
+- el-Münâsibü'l-mülgâ
+= Örneği hayız ayetidir: hüküm «اعْتِزَال», illet «أَذًى».
+
+? 2 | Şâriin itibar veya ilga ettiğine dair bir delil bulunmayan vasfa ne denir?
++ el-Münâsibü'l-mürsel
+- el-Münâsibü'l-mülgâ
+- el-Münâsibü'l-müessir
+- el-Münâsibü'l-mülâim
+= el-Münâsibü'l-mürsele maslahat-ı mürsele de denilebilir. İlga edildiğine dair delil varsa mülgâ olur.
+
+? 2 | Erkek ve kızın karabette eşit, mirasta farklı olması hangi münasebete örnektir?
++ el-Münâsibü'l-mülgâ
+- el-Münâsibü'l-mürsel
+- el-Münâsibü'l-mülâim
+- el-Münâsibü'l-müessir
+= Şâri mirasta eşitlik vasfını ilga etmiştir; bu vasıf mülgâdır.
+
+? 2 | «لَا يَرِثُ الْقَاتِلُ» hadisinde illet hangi yolla bulunur?
++ Îmâ ve işaret
+- Kat'î sarih nass
+- Zannî sarih nass
+- Sebr ve taksim
+= Talil edatı yoktur; hükmün türemiş kelimeye («الْقَاتِل») bağlanması, kökünün («الْقَتْل») illet olduğunu hissettirir.
+
+? 2 | Hangisi yalnızca talil manasında gelen (kat'î) edatlardandır?
++ «لِأَجْلِ»
+- «لِ»
+- «بِ»
+- «إِنَّ»
+= Kat'î edatlar: «مِنْ أَجْلِ، لِأَجْلِ، لِأَنَّ، كَيْ…». «لِ، بِ، فَ، إِنَّ» başka manalara da gelebildiği için zannîdir.
+
+? 2 | Muhtemel seçenekleri belirleyip (hasr) birer birer eleyerek (hazf) tek seçeneği bırakmaya ne denir?
++ Sebr ve taksim
+- Tahkîku'l-menât
+- Tahrîcü'l-menât
+- Kıyas maa'l-fârık
+= Sebr deneme-sınama, taksim ayırma-bölmedir.
+
+? 2 | Tenkîhu'l-menâtı sebr ve taksimden ayıran özellik nedir?
++ Vasıfların nassta geçmesi
+- İlletin fer'de bulunduğundan emin olunması
+- İcmâya dayanması
+- Talil edatı bulunması
+= Tenkîhu'l-menât, nassta geçen vasıflardan illet olmaya elverişli olanı tespit etmektir.
+
+? 2 | Asılda geçen illetin fer'de bulunduğundan emin olmaya ne denir?
++ Tahkîku'l-menât
+- Tenkîhu'l-menât
+- Tahrîcü'l-menât
+- Sebr ve taksim
+= Tahrîc illeti bulmak, tenkîh nasstaki vasıflardan ayıklamak, tahkîk illetin fer'de olduğunu doğrulamaktır.
+
+? 2 | Fer' hakkında nass varken kıyas yapmaya ne denir?
++ Kıyas fâsidü'l-i'tibâr
+- Kıyas maa'l-fârık
+- Kıyas-ı hafî
+- Kıyas-ı celî
+= Kıyas maa'l-fârık ise illet birliğinin sağlanamadığı kıyastır.
+
+? 2 | Hanefîlere göre yırtıcı kuşların artıklarının temiz sayılması hangi delille açıklanır?
++ İstihsan (kıyas-ı hafînin kıyas-ı celîye tercihi)
+- Maslahat-ı mürsele
+- Sedd-i zerâi
+- İstishab
+= Vech-i istihsan: Yırtıcı kuşlar temiz bir kemik olan gagalarıyla içer, tükürükleri artığa karışmaz.
+
+? 2 | Selem akdinin istihsanen caiz olması istihsanın hangi çeşidine örnektir?
++ Küllî hükmün bırakılıp istisnaî hükmün tercihi
+- Kıyas-ı hafînin kıyas-ı celîye tercihi
+- Örfe dayalı istihsan
+- Sedd-i zerâi
+= Küllî hüküm ma'dûmun satışının yasak olmasıdır; selem ihtiyaçtan dolayı istisnaî olarak caizdir.
+
+? 2 | Hangisi maslahat-ı mürselenin şartlarından biri değildir?
++ Bir nassla açıkça itibar edilmiş olması
+- Hakiki olup vehmî olmaması
+- Umumi olup şahsi olmaması
+- Nass veya icmâ ile sabit bir hükme muarız olmaması
+= Maslahat-ı mürsele, itibar veya ilgasına dair bir delil bulunmayan maslahattır.
+
+? 2 | Sedd-i zerâide "çoğu zaman mefsedete götüren mübah" vasıtalar hangi mezheplere göre yasaklanır?
++ Mâlikî ve Hanbelîlere göre
+- Şâfiî ve Hanefîlere göre
+- Bütün mezheplere göre
+- Zâhirîlere göre
+= Son iki kısım Mâlikî ve Hanbelîlere göre yasaklanır; Şâfiî, Hanefî ve Zâhirîlere göre yasaklanmaz.
+
+? 2 | Üzüm üretiminin yasaklanmaması sedd-i zerâide hangi kısma örnektir?
++ Nadiren mefsedete götüren mübah vasıta
+- Çoğu zaman mefsedete götüren mübah vasıta
+- Haram vasıta
+- Amacı dışında kullanılan meşru fiil
+= Nadiren de olsa içki üretimine vesile olabilir; bu kısım ittifakla yasaklanmaz.
+
+? 2 | Örf ile icmâ arasındaki fark nedir?
++ Örf halkın, icmâ müçtehidlerin ittifakıdır
+- Örf kat'î, icmâ zannîdir
+- Örf yazılı, icmâ sözlüdür
+- İkisi aynı şeydir
+= Halkın ittifakı örf, müçtehidlerin ittifakı icmâdır.
+
+? 2 | "Veled" lafzının sadece erkek çocuk için kullanılması hangi örfe örnektir?
++ Kavlî örf
+- Amelî örf
+- Bâtıl örf
+- Şer'î örf
+= Teâtî satışı amelî örfe, "veled" lafzının kullanımı kavlî örfe örnektir.
+
+? 2 | Müçtehidin başvurduğu son delil hangisidir?
++ İstishab
+- Örf
+- İstihsan
+- Sahâbe kavli
+= İstishab, değiştiğine dair delil bulunmadıkça mevcut hâlin devamına hükmetmektir.
+
+? 2 | Kur'an'da mutlak olarak zikredilen önceki şeriat hükmü (şer'u men kablenâ) kimlere göre bizim için de şeriattır?
++ Hanefî, Mâlikî ve Şâfiîlere göre
+- Yalnızca Hanefîlere göre
+- Hiçbir mezhebe göre
+- Yalnızca Zâhirîlere göre
+= Kur'an'da geçmeyen ve neshedilenler şeriat değildir; emredilenler şeriattır; mutlak zikredilenler Hanefî, Mâlikî ve Şâfiîlere göre şeriattır.
+
+? 2 | Sahâbenin kendi rey ve içtihadıyla söyleyip ittifak edilmeyen görüşleri için hangisi doğrudur?
++ Hanefîlere göre hüccettir, Şâfiîlere göre değildir
+- Şâfiîlere göre hüccettir, Hanefîlere göre değildir
+- İttifakla hüccettir
+- İttifakla hüccet değildir
+= Sahâbenin ittifak ettiği ve içtihada kapalı konulardaki sözleri ihtilafsız hüccettir.
+
+# ---------- 3. ünite ----------
+? 3 | Hüsün ve kubhun akılla bilinemeyip şer'î olduğunu söyleyen kimdir?
++ Eş'arîler
+- Mâtürîdîler
+- Mu'tezile
+- Hanefîler
+= Mâtürîdî ve Mu'tezileye göre hüsün-kubuh akılla bilinebilir; Eş'arîye göre bilinemez, şer'îdir.
+
+? 3 | «وَإِذَا حَلَلْتُمْ فَاصْطَادُوا» ayeti hangi teklifî hükme örnektir?
++ Tahyîrî hüküm
+- Talebü'l-fiil
+- Talebü't-terk
+- Vaz'î hüküm
+= Bu emir karineyle ibahaya delalet eder; tahyîr ibaha ifade eder.
+
+? 3 | «لَا نِكَاحَ إِلَّا بِشَاهِدَيْنِ» hadisi hangi vaz'î hükme örnektir?
++ Şart
+- Sebep
+- Mâni
+- Ruhsat
+= Vaz'î hüküm örnekleri: sebep (hırsızlıkta el kesme), şart (nikâhta iki şahit), mâni (katilin mirasçı olamaması).
+
+? 3 | Teklifî ile vaz'î hüküm arasındaki farklardan biri hangisidir?
++ Teklifîde talep vardır, vaz'îde yoktur
+- Vaz'î hüküm her zaman mükellefin kudreti dahilindedir
+- Teklifî hüküm bazen kudret dışındadır
+- Vaz'î hükümde tahyîr vardır
+= Teklifî hüküm hep mükellefin kudreti dahilindedir; vaz'î hüküm bazen dahilinde, bazen değildir (akrabalığın mirasa sebep olması).
+
+? 3 | Vakit içinde kendi cinsinden başka bir ibadetin yapılabildiği vâcibe ne denir?
++ Muvassa'
+- Mudayyak
+- Mutlak
+- Muhayyer
+= Öğle namazı muvassa', Ramazan orucu mudayyak vâcibe örnektir.
+
+? 3 | Yemin keffareti vâcibin hangi kısmına örnektir?
++ Muhayyer
+- Muayyen
+- Muhadded
+- Kifâî
+= Muhayyer vâcib, şâriin belirli şeylerden birini istediği vâcibtir. Kurban ise muayyendir.
+
+? 3 | Cenaze namazı vâcibin hangi kısmına örnektir?
++ Kifâî
+- Aynî
+- Muayyen
+- Mudayyak
+= Yapılması istenmesi bakımından vâcib kifâî (topluca: cenaze namazı) ve aynî (herkes: beş vakit) olarak ikiye ayrılır.
+
+? 3 | Terki ikab değil itab gerektiren mendub hangisidir?
++ Sünnet-i müekkede (hüdâ)
+- Sünnet-i zâide
+- Nâfile
+- Zâid
+= Cemaatle namaz gibi sünnet-i müekkedenin terki itab gerektirir; gayr-ı müekkedenin terki ikab ve itab gerektirmez.
+
+? 3 | Gasbedilmiş elbiseyle kılınan namaz hangi kısma örnektir?
++ Li-gayrihî muharram
+- Li-zâtihî muharram
+- Mekruh
+- Bâtıl ibadet
+= Li-gayrihî haramlar sonradan meydana gelen bir sebepten dolayı haramdır; işlenmesi haram olsa da ibadet makbul, akid sahihtir.
+
+? 3 | Hanefîlere göre teklifî hükümler kaç kısımdır?
++ 7
+- 5
+- 4
+- 6
+= Farz, vâcib, haram, mendub, tenzîhen mekruh, tahrîmen mekruh, mübah. Cumhura göre 5 kısımdır.
+
+? 3 | Farz ile vâcib arasındaki farka göre vâcibi inkâr etmenin hükmü nedir?
++ Bid'at ve sapıklıktır
+- Küfürdür
+- Mekruhtur
+- Hiçbir sonucu yoktur
+= Farzın sübut ve delaleti kat'îdir, inkârı küfürdür. Vâcibin biri kat'î biri zannîdir, inkârı bid'at ve sapıklıktır.
+
+? 3 | "Kişi nisab miktarı mala sahip ama borcu var" örneği neye örnektir?
++ Sebebi geçersiz kılan mâniye
+- Hükme mâniye
+- Ca'lî şarta
+- Iskat ruhsatına
+= Borç, zekâtın sebebi olan nisaba sahip olmaya engeldir. Hayız ise hükme (namazın vücubuna) mânidir.
+
+? 3 | Şartla ilgili hangisi doğrudur?
++ Şartın varlığı meşrutun varlığını gerektirmez
+- Şartın yokluğu hükmün yokluğunu gerektirmez
+- Şart yalnızca şâri tarafından konabilir
+- Şart ile sebep aynı şeydir
+= Abdest alınması namazın kılınmasını gerektirmez; ama abdest yoksa namaz da olmaz. Mükellefin koştuğu şarta ca'lî şart denir.
+
+? 3 | Hanefîlere göre ölmemek için domuz eti yemek hangi ruhsata örnektir?
++ Iskat ruhsatı
+- Terfih ruhsatı
+- Azîmet
+- Hâciyyât
+= Iskat ruhsatında azîmetin hükmü kalmaz ve ruhsatla amel vâcib olur; yemeyip ölen günahkâr olur.
+
+? 3 | İkrah altında küfür kelimesi söylemek Hanefîlere göre hangi ruhsata örnektir?
++ Terfih ruhsatı
+- Iskat ruhsatı
+- Zaruret ruhsatı değildir
+- Azîmettir
+= Terfih ruhsatında azîmetin hükmü ve delili kalır; kişi azîmeti seçip şehid de olabilir.
+
+? 3 | Hanefîlere göre muamelatta rükünlerinde eksiklik olan akde ne denir?
++ Bâtıl
+- Fâsid
+- Mekruh
+- Mevkûf
+= Sıhhat şartlarında eksiklik olan fâsid, rükünlerinde eksiklik olan bâtıldır. İbadetlerde Hanefîler cumhurla aynıdır.
+
+? 3 | Dârülislâmda yaşayıp "hükmü bilmiyordum" demenin mazeret sayılmaması hangi şartla ilgilidir?
++ Teklifin yetkiliden geldiğinin bilinmesi (bilme imkânı)
+- Fiilin tam olarak bilinmesi
+- Fiilin kudret dahilinde olması
+- Mükellefin akıllı olması
+= Buradaki bilmeden maksat bilme imkânıdır; dârülislâmda bu imkân vardır, dârülharpte bilmemek mazeret olabilir.
+
+? 3 | İnsanın bir vasıta olmadan uçması hangi kısma örnektir?
++ Li-gayrihî müstahil
+- Li-zâtihî müstahil
+- Başkasının fiili
+- Alışılmış meşakkat
+= Aklen mümkün, âdeten imkânsız olan li-gayrihî müstahildir. İki zıddın cem'i ise aklen de imkânsızdır (li-zâtihî).
+
+? 3 | Anne karnındaki ceninin ehliyeti nedir?
++ Nâkıs vücûb ehliyeti
+- Tam vücûb ehliyeti
+- Nâkıs edâ ehliyeti
+- Tam edâ ehliyeti
+= Cenin hakları elde etmeye elverişli, sorumlulukları üstlenmeye elverişsizdir. Tam vücûb ehliyeti sağ doğumla başlar.
+
+? 3 | Nâkıs edâ ehliyetine sahip birinin hibe ve sadaka alması nasıldır?
++ Geçerlidir
+- Geçersizdir
+- Velinin iznine bağlıdır
+- Mekruhtur
+= Mahza yarar sağlayan tasarruflar geçerli, mahza zarar verenler (teberru) geçersiz, iki ihtimalliler velinin iznine bağlıdır.
+
+? 3 | Hanefîlere göre rüşdün üst sınırı kaç yaştır?
++ 25
+- 18
+- 21
+- 15
+= Hanefîlere göre üst sınır "dedelik yaşı" denilen 25'tir; bu yaşta rüşde ulaşmasa da malı teslim edilir. Cumhur yaşa değil rüşde bakar.
+
+? 3 | Hangisi ehliyeti azaltan arızadır?
++ Ateh
+- Delilik
+- Uyku
+- Sefeh
+= Delilik, uyku ve baygınlık ehliyeti izale eder; ateh azaltır; sefeh ehliyeti etkilemez ama hacr gibi hükümler doğurur.
+
+# ---------- 4. ünite ----------
+? 4 | «وَشَاوِرْهُمْ فِي الْأَمْرِ» ayetinden "istişare edilecek bir topluluk oluşturma gerekliliği" hangi delaletle anlaşılır?
++ İşâretü'n-nass
+- İbâretü'n-nass
+- Delâletü'n-nass
+- İktizâü'n-nass
+= İbâretü'n-nass istişarenin gerekliliği; işâretü'n-nass topluluğun gerekliliğidir.
+
+? 4 | «فَلَا تَقُلْ لَهُمَا أُفٍّ» ayetinden dövmenin de yasak olduğu hangi delaletle anlaşılır?
++ Delâletü'n-nass
+- İşâretü'n-nass
+- İktizâü'n-nass
+- Kıyas
+= Dili bilmekle anlaşılan ortak illet (eziyet) sebebiyle hüküm nassta geçmeyen duruma da sabit olur. Kıyastan farkı sadece dil bilgisinin yeterli olmasıdır.
+
+? 4 | «حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ» ayetinde "nikâhları" kelimesinin takdir edilmesi hangi delalettir?
++ İktizâü'n-nass
+- İbâretü'n-nass
+- İşâretü'n-nass
+- Delâletü'n-nass
+= İktiza, nassın sahih anlaşılması için takdir edilmesi gereken manadır.
+
+? 4 | Hanefîlere göre delaletlerin güç sıralaması hangisidir?
++ İbare > işaret > delalet > iktiza
+- İşaret > ibare > iktiza > delalet
+- Delalet > ibare > işaret > iktiza
+- İktiza > delalet > işaret > ibare
+= En güçlüsü ibaredir; tearuzda bu sıra gözetilir.
+
+? 4 | Kısas ayeti (ibare) ile "Bir mümini kasten öldürenin cezası cehennemdir" ayeti (işaret) çatışınca sonuç ne olur?
++ İbare tercih edilir ve katile kısas uygulanır
+- İşaret tercih edilir ve kısas uygulanmaz
+- İkisi de terk edilir
+- Diyet uygulanır
+= İbare işaretten güçlüdür.
+
+? 4 | Cumhura göre "mefhûmu'l-muvâfaka" Hanefîlerde neye karşılık gelir?
++ Delâletü'n-nass
+- İbâretü'n-nass
+- İşâretü'n-nass
+- İktizâü'n-nass
+= Mantûk Hanefîlerin ibare, işaret ve iktizasına; mefhûmu'l-muvâfaka delâletü'n-nassa karşılık gelir.
+
+? 4 | «وَإِنْ كُنَّ أُولَاتِ حَمْلٍ فَأَنْفِقُوا عَلَيْهِنَّ» ayetinden "hamile değillerse nafaka yoktur" sonucu hangi mefhûmdur?
++ Mefhûmu'ş-şart
+- Mefhûmu's-sıfat
+- Mefhûmu'l-gâye
+- Mefhûmu'l-aded
+= Hüküm bir şarta bağlanmıştır; şart bulunmayınca hükmün geçerli olmaması mefhûmu'ş-şarttır.
+
+? 4 | «مُحَمَّدٌ رَسُولُ اللَّهِ» ifadesinden "Muhammed dışındakiler resul değildir" sonucunu çıkarmak hangi mefhûmdur?
++ Mefhûmu'l-lakab
+- Mefhûmu's-sıfat
+- Mefhûmu'l-aded
+- Mefhûmu'l-gâye
+= Mefhûmu'l-lakab ittifakla hüccet değildir.
+
+? 4 | Mefhûm-ı muhâlefet (lakap hariç) için hangisi doğrudur?
++ Cumhura göre nasslarda da hüccettir, Hanefîlere göre değildir
+- Hanefîlere göre nasslarda hüccettir, cumhura göre değildir
+- İttifakla hiçbir yerde hüccet değildir
+- Yalnızca mefhûmu'l-lakab hüccettir
+= Mefhûm-ı muhâlefet nass dışında ittifakla hüccettir; nasslarda ise ihtilaflıdır.
+
+? 4 | «لِتَأْكُلُوا مِنْهُ لَحْمًا طَرِيًّا» ayetinden "taze olmayanı yemeyin" sonucu neden çıkarılmaz?
++ Kaydın nimeti hatırlatmak gibi başka bir faydası vardır
+- Ayet mensuhtur
+- Mefhûmu'l-lakab olduğu için
+- Ayet mücmeldir
+= Mefhûm-ı muhâlifle amel şartı: kaydın, hükmün sona ereceğini göstermekten başka bir faydası olmamalıdır.
+
+? 4 | Hanefîlere göre murad edilen manaya açıkça delalet eden, tevil ihtimali olmayan ama teşrî döneminde neshe açık olan lafız hangisidir?
++ Müfesser
+- Muhkem
+- Nass
+- Zâhir
+= Müfesser tevile kapalı, neshe açıktır; muhkem ise neshe de kapalıdır.
+
+? 4 | Hz. Peygamber'in vefatından sonra müfesser lafız neye döner?
++ Muhkeme
+- Zâhire
+- Müşkile
+- Mücmele
+= Vefattan sonra nesih olmadığı için müfesser muhkeme döner.
+
+? 4 | Tefsir ile tevil arasındaki fark hangisidir?
++ Tefsir şâriden ve kat'î; tevil şârihten ve zannîdir
+- Tefsir zannî, tevil kat'îdir
+- İkisi de şâri tarafından yapılır
+- Tevil yalnızca muhkem lafızlarda olur
+= Tevil, lafzı bir delille zâhirinden çevirmektir.
+
+? 4 | Hanefîlere göre açık lafızlar arasında kuvvet sıralaması nasıldır?
++ Muhkem > müfesser > nass > zâhir
+- Zâhir > nass > müfesser > muhkem
+- Nass > zâhir > muhkem > müfesser
+- Müfesser > muhkem > zâhir > nass
+= Kuvvet sıralaması tanım sırasının tersidir; tearuzda bu sıra takip edilir.
+
+? 4 | Tarrâr (yankesici) ve nebbâş meselesi hangi kapalı lafza örnektir?
++ Hafî
+- Müşkil
+- Mücmel
+- Müteşâbih
+= «سَارِق» lafzının manası açık, hangi fertleri kapsadığı kapalıdır.
+
+? 4 | İmam Şâfiî ve Ebû Yûsuf'a göre nebbâş (kefen soyucu) nasıl değerlendirilir?
++ Hırsız sayılır
+- Hırsız sayılmaz, ta'zir edilir
+- Hiçbir ceza verilmez
+- Yankesici gibi değerlendirilmez
+= Diğer Hanefî ulemâsına göre hırsız sayılmaz, ta'zir cezası verilir.
+
+? 4 | Hafî ile müşkil arasındaki fark nedir?
++ Hafîde kapalılık fertleri kapsamada, müşkilde bizzat sîgadadır
+- Hafîde kapalılık sîgada, müşkilde fertlerdedir
+- Hafî ancak şâriin beyanıyla açılır
+- Müşkil hiçbir şekilde açılamaz
+= Müşkil müşterek lafızlarda bulunur ve içtihadla belirlenir.
+
+? 4 | Şâfiîlere göre «قُرُوء» kelimesi neyi ifade eder ve delili nedir?
++ Temizlik; «ثَلَاثَة» adedinin müzekker gelmesi
+- Hayız; iddetin hikmeti
+- Hayız; «وَاللَّائِي يَئِسْنَ» ayeti
+- Temizlik; cariye hadisi
+= Hanefîlere göre ise hayızdır: iddetin hikmeti, âyise ayeti ve "cariyenin iddeti iki hayızdır" hadisi.
+
+? 4 | «هَلُوعًا» lafzı mücmelin hangi çeşidine örnektir?
++ Lafzın garabeti
+- Müştereklik
+- Şer'î manaya nakil
+- Hurûf-ı mukattaa
+= Mücmelin çeşitleri: müştereklik («مَوْلًى»), şer'î manaya nakil («صَلَاة»), garabet («هَلُوعًا»).
+
+? 4 | Şâriin beyanı vâfi değilse mücmel neye döner?
++ Müşkile
+- Müfessere
+- Muhkeme
+- Müteşâbihe
+= Beyan kat'î ve tamsa mücmel müfessere (salât), tam değilse müşkile (ribâ) döner.
+
+? 4 | Müteşâbihle ilgili hangisi doğrudur?
++ Teşrî-amelî hükümleri içeren nasslarda bulunmaz
+- Ancak şâriin beyanıyla açılır
+- Müşterek lafızlarda bulunur
+- İçtihadla kapalılığı giderilir
+= Müteşâbih hurûf-ı mukattaa ve «يَد، وَجْه» gibi nasslarda bulunur.
+
+? 4 | Hanefî dışındakilere göre "nass" Hanefîlerdeki hangi lafızla aynıdır?
++ Müfesser
+- Zâhir
+- Muhkem
+- Hafî
+= Hanefî dışındakilere göre nass manasına kat'î olarak delalet eden, başka ihtimale kapalı lafızdır.
+
+? 4 | «ذِرَاع» kelimesinin bazı kabilelerde omuza, bazılarında dirseğe kadar olması müştereğin hangi sebebine örnektir?
++ Arap kabileleri arasındaki farklılıklar
+- Hakiki manadan mecaza geçiş
+- Şer'î manaya nakil
+- Lafzın garabeti
+= «سَيَّارَة» mecaza geçişe, «صَلَاة» şer'î manaya nakle örnektir.
+
+? 4 | Hanefîlere göre müşterek lafzın manalarının hepsine aynı anda delalet etmesi (umûmu'l-müşterek) nasıldır?
++ İster olumlu ister olumsuz olsun caiz değildir
+- Her durumda caizdir
+- Yalnızca olumsuz cümlede caizdir
+- Yalnızca olumlu cümlede caizdir
+= Şâfiîlere göre her durumda caiz, bazı Hanefîlere göre yalnızca olumsuz cümlede caizdir.
+
+? 4 | "Âmmın umumu şümûlî, mutlakın umumu bedelîdir" sözünün örneği hangisidir?
++ «وَالسَّارِقُ» bütün hırsızları, «تَحْرِيرُ رَقَبَةٍ» herhangi bir köleyi ifade eder
+- «تَحْرِيرُ رَقَبَةٍ» bütün köleleri ifade eder
+- «وَالسَّارِقُ» herhangi bir hırsızı ifade eder
+- İkisi de bütün fertleri ifade eder
+= Mutlak fertlerden herhangi birini, âmm bütün fertleri ifade eder.
+
+? 4 | Hanefîlere göre tahsisten önce âmmın delaleti nedir?
++ Kat'îdir; ancak kat'î bir delille tahsis edilebilir
+- Zannîdir; zannî bir delille tahsis edilebilir
+- Kat'îdir; zannî bir delille tahsis edilebilir
+- Zannîdir; hiç tahsis edilemez
+= Cumhura göre tahsisten önce de zannîdir. Tahsisten sonra ise herkese göre zannîdir.
+
+? 4 | Hanefîlere göre gayr-ı müstakil bir muhassısla yapılan daraltmaya ne denir?
++ Kasr
+- Nesh
+- Tahsis
+- Takyid
+= Hanefîlere göre tahsis yalnızca müstakil ve mukârin muhassısla olur; gayr-ı müstakil kasr, gayr-ı mukârin neshtir.
+
+? 4 | «فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ» ayetinin çocuk ve deliyi kapsamaması hangi muhassısla olur?
++ Akıl
+- Örf ve âdet
+- İstisna
+- Gaye
+= Akıl, örf ve nass müstakil muhassıslardır.
+
+? 4 | Deniz suyuyla abdest sorusuna verilen «هُوَ الطَّهُورُ مَاؤُهُ» cevabı hangi kaideye örnektir?
++ el-İbretu bi-umûmi'l-lafz lâ bi-husûsi's-sebeb
+- el-Aslu fi'l-eşyâi'l-ibâha
+- ed-Darûrâtu tubîhu'l-mahzûrât
+- el-Meşakkatu teclibu't-teysîr
+= Sorunun sadece abdestle ilgili olmasına itibar edilmez; lafzın umumu esastır.
+
+? 4 | Hanefîlerin «فِي كُلِّ أَرْبَعِينَ شَاةً شَاةٌ» hadisindeki «شَاة» kelimesini "değeri" diye yorumlaması neyi gösterir?
++ Delil bulunursa hâssın başka manaya hamledilebileceğini
+- Hâssın delaletinin zannî olduğunu
+- Hadisin mensuh olduğunu
+- Lafzın müşterek olduğunu
+= Hâss vaz' olunduğu manaya kat'î delalet eder; aksine delil bulunursa başka manaya hamledilir.
+
+? 4 | Sadaka-i fıtırla ilgili mutlak ve mukayyed («مِنَ الْمُسْلِمِينَ») nasslarda Hanefîlerin görüşü nedir?
++ Hamledilmez; Müslüman olsun olmasın nafakası üstlenilen herkes için fitre verilir
+- Hamledilir; sadece Müslüman adına verilir
+- İki nass da terk edilir
+- Mutlak nass mukayyedi nesheder
+= Sebepte ıtlak ve takyid vardır; cumhura göre hamledilir ve sadece Müslüman adına verilir.
+
+? 4 | Hüküm ve sebebin aynı olduğu mutlak–mukayyed durumunda ne olur?
++ Mutlak mukayyede ittifakla hamledilir
+- İttifakla hamledilmez
+- Hanefîlere göre hamledilmez, cumhura göre hamledilir
+- İki nass da terk edilir
+= Örnek: «الدَّم» mutlak, «دَمًا مَسْفُوحًا» mukayyed; hüküm haramlık, sebep zarardır.
+
+? 4 | Zıhar keffaretindeki «رَقَبَة» ile katl keffaretindeki «رَقَبَةٍ مُؤْمِنَةٍ» hangi duruma örnektir?
++ Hüküm aynı, sebep farklı
+- Hüküm ve sebep aynı
+- Sebep aynı, hüküm farklı
+- Hüküm ve sebep farklı
+= Bu durumda Hanefîlere göre hamledilmez, cumhura göre hamledilir.
+
+? 4 | Çoğunluğa göre karinesiz gelen emir neye delalet eder?
++ Vücuba
+- İbahaya
+- Nedbe
+- İrşada
+= Karine varsa ibaha («وَكُلُوا وَاشْرَبُوا»), nedb (mükâtebe), irşad (deyn ayeti), te'dib ("sağ elinle ye") ifade eder.
+
+? 4 | «رَبَّنَا لَا تُزِغْ قُلُوبَنَا» nehyi neye delalet eder?
++ Duaya
+- Tahrîme
+- Kerahete
+- İrşada
+= Çoğunluğa göre karinesiz nehiy tahrîme delalet eder; karine varsa kerahet, irşad veya dua ifade eder.
+
+? 4 | Emrin tekrara delaletiyle ilgili tercih edilen görüş hangisidir?
++ Kendi sîgasıyla tekrara delalet etmez; illet veya sebep olan şarta bağlıysa tekrarlanır
+- Her emir kendi sîgasıyla tekrara delalet eder
+- Emir hiçbir şekilde tekrara delalet etmez
+- Emir yalnızca ibadetlerde tekrara delalet eder
+= Abdest emrinin sebebi namazdır; namaz tekrarlandıkça abdest de tekrarlanır.
+
+? 4 | Hangisi ihtilafsız fevr ve tekrara delalet eder?
++ Nehiy
+- Emir
+- Muvassa' vâcib
+- Mutlak vâcib
+= Şâri bir şeyi nehyetmişse mükellef onu derhâl ve hayatı boyunca terk etmelidir.
+
+# ---------- 5. ünite ----------
+? 5 | Teşriin makâsıdı arasındaki tertip hangisidir?
++ Zarûriyyât > hâciyyât > tahsîniyyât
+- Hâciyyât > zarûriyyât > tahsîniyyât
+- Tahsîniyyât > hâciyyât > zarûriyyât
+- Zarûriyyât > tahsîniyyât > hâciyyât
+= Bu taksimin delili his ve müşahededir.
+
+? 5 | Aklın korunması için konan hüküm hangisidir?
++ İçki gibi sarhoş edici şeylerin yasaklanması
+- Cihadın farz kılınması
+- Zina iftirasının yasaklanması
+- Faizin yasaklanması
+= Din: cihad · Can: yeme-içme, kısas, diyet · Akıl: içki yasağı · Nesil: zina ve kazf yasağı · Mal: hırsızlık, faiz, aldatma yasağı.
+
+? 5 | Su bulamayan için teyemmümün meşru kılınması hangi makâsıd nevisine örnektir?
++ Hâciyyât
+- Zarûriyyât
+- Tahsîniyyât
+- Mükemmilât
+= Hâciyyât hayatı kolaylaştıran düzenlemelerdir: teyemmüm, selem, âkilenin diyeti.
+
+? 5 | Yolculukta kasra ek olarak cem'e de cevaz verilmesi neye örnektir?
++ Hâciyyâtın mükemmilâtına
+- Zarûriyyâta
+- Tahsîniyyâta
+- Def'-i zarar kaidesine
+= Mükemmilât üç değeri tamamlayan hükümlerdir: namaza ezan ve cemaat, kasra cem', sadakada iyisini vermek.
+
+? 5 | Avret yerini örtecek elbise bulamayanın namazı terk etmek yerine öyle kılması hangi kaideye örnektir?
++ يُرْتَكَبُ أَخَفُّ الضَّرَرَيْنِ لِاتِّقَاءِ أَشَدِّهِمَا
+- الضَّرَرُ لَا يُزَالُ بِالضَّرَرِ
+- دَفْعُ الْمَضَارِّ مُقَدَّمٌ عَلَى جَلْبِ الْمَنَافِعِ
+- الضَّرُورَاتُ تُقَدَّرُ بِقَدَرِهَا
+= Ağır zarardan korunmak için hafif olanı irtikâp edilir.
+
+? 5 | Oruçlunun mazmaza ve istinşakta mübalağa yapmasının mekruh olması hangi kaideye örnektir?
++ دَفْعُ الْمَضَارِّ مُقَدَّمٌ عَلَى جَلْبِ الْمَنَافِعِ
+- الْمَشَقَّةُ تَجْلِبُ التَّيْسِيرَ
+- الضَّرَرُ يُزَالُ شَرْعًا
+- الْحَرَجُ شَرْعًا مَرْفُوعٌ
+= Zararları defetmek, menfaat celbinden önce gelir.
+
+? 5 | "Meşakkat kolaylık getirir" kaidesinde meşakkatin sebepleri kaçtır?
++ 7
+- 5
+- 3
+- 9
+= Sefer, hastalık, ikrah, unutmak, cehalet, umûm-i belvâ ve nâkıs olmak.
+
+? 5 | Selem akdine cevaz verilmesi hangi kaideye örnektir?
++ İhtiyaçlar, yasakları mübah kılmada zaruretler yerine konur
+- Zarar zararla giderilmez
+- Zaruretler kendi miktarlarınca takdir olunur
+- Haraç şer'an kaldırılmıştır
+= Hâciyyâtla ilgili kaidelerdendir.
+
+? 5 | Hangisi "sadece Allah hakkı" kısmına girmez?
++ Borçlunun borcunu ödemesi
+- Fitre
+- Öşür
+- Hadler
+= Borcun ödenmesi sadece kul hakkıdır.
+
+? 5 | Kazf haddi hangi hak türüne girer?
++ Allah hakkının baskın olduğu müşterek hak
+- Kul hakkının baskın olduğu müşterek hak
+- Sadece kul hakkı
+- Sadece Allah hakkı
+= Kısas ise kul hakkının baskın olduğu müşterek haktır.
+
+? 5 | Hanefîlere göre zekât hangi kısma girer?
++ Mahza ibadet
+- Malî yükümlülük barındıran ibadet
+- Kul hakkı
+- Keffaret
+= Cumhura göre zekât malî yükümlülük barındıran ibadetler kısmındandır.
+
+? 5 | "İçtihad misliyle nakzedilmez" ilkesinin gerekçesi nedir?
++ Aksi anarşi, istikrarsızlık ve güvensizliğe yol açar
+- Müçtehid hata yapmaz
+- İlk içtihad her zaman doğrudur
+- İçtihad kat'î bilgi ifade eder
+= Bir müçtehidin önceki içtihadını ne kendisi ne de bir başkası bozabilir.
+
+? 5 | İsabet etmeyen müçtehid için hangisi doğrudur?
++ 1 sevap alır
+- Günahkâr olur
+- Sevap almaz
+- 2 sevap alır
+= Müçtehid isabet ederse 2, etmezse 1 sevap alır.
+
+? 5 | Vasiyet ayetinin «لَا وَصِيَّةَ لِوَارِثٍ» hadisiyle neshi hangi nesih çeşidine örnektir?
++ Zımnî nesih
+- Sarih nesih
+- Cüz'î nesih
+- Nesih değildir; tahsistir
+= Zımnî nesihte şâri nesihten açıkça bahsetmez, önceki hükme muarız bir hüküm koyar. Kabir ziyareti ise sarih nesihtir.
+
+? 5 | Kazifte bulunan kişi koca ise 80 sopa yerine liân yapılması hangi nesihe örnektir?
++ Cüz'î nesih
+- Küllî nesih
+- Sarih nesih
+- Nesih değildir
+= Cüz'î nesih önceki hükmü bazı hâllerde ve bazı kimseler hakkında kaldırmaktır.
+
+? 5 | Hangisi nesih kabul etmez?
++ Sîgası te'bid ifade eden hükümler
+- Muvassa' vâcibler
+- Kıyasla sabit hükümler
+- Âmm lafızlar
+= Neshi kabul etmeyenler: iman esasları, te'bidli hükümler («أَبَدًا»), gerçekleşmiş olaylar hakkındaki nasslar.
+
+? 5 | İcmâ neden nassı neshedemez?
++ Nass kat'îyse icmâ olmaz; zannîyse nâsih icmânın dayandığı kat'î nasstır
+- İcmâ zannî bir delildir
+- İcmâ sadece sahâbe döneminde olur
+- İcmâ kıyasa dayanır
+= Kıyas da Kitap, Sünnet ve icmâyı neshedemez; çünkü onlara aykırı olmaması şartı vardır.
+
+# ---------- 6. ünite ----------
+? 6 | Tearuza örnek gösterilen iki hadis hangi konuda çelişir?
++ Ribe'l-fazl
+- Hamile kadının iddeti
+- Kabir ziyareti
+- Vasiyet
+= «إِنَّمَا الرِّبَا فِي النَّسِيئَةِ» ile «لَا تَبِيعُوا الْبُرَّ بِالْبُرِّ إِلَّا سَوَاءً بِسَوَاءٍ» ribe'l-fazl konusunda tearuz etmiştir.
+
+? 6 | Hangileri arasında hakiki tearuz yoktur?
++ İki ayet, iki sahih hadis veya ayet ile sahih hadis
+- Yalnızca iki ayet
+- Yalnızca iki sahih hadis
+- Hiçbiri; hepsinde hakiki tearuz olabilir
+= Tearuz örneği ise ribe'l-fazl hadisleridir.
+
+? 6 | Hanefîlere göre tearuzda ilk başvurulan yol hangisidir?
++ Nesh
+- Cem ve telif
+- Tercih
+- Tevakkuf
+= Hanefî sırası: nesh, tercih, cem ve telif, terk.
+
+? 6 | Cumhura göre tearuzda yolların sırası hangisidir?
++ Cem ve telif, tercih, nesh, tevakkuf
+- Nesh, tercih, cem ve telif, terk
+- Cem ve telif, nesh, tercih, tevakkuf
+- Tercih, nesh, cem ve telif, tevakkuf
+= Muhaddislere göre: cem ve telif, nesh, tercih, tevakkuf.
+
+? 6 | Muhaddislerin tercih metodunda ikinci sırada ne vardır?
++ Nesh
+- Tercih
+- Tevakkuf
+- Terk
+= Muhaddisler cem ve telif'ten sonra neshe, sonra tercihe başvurur.
+
+? 6 | Hanefîlere göre kocası vefat eden hamile kadının iddeti nedir?
++ Her hâlükârda doğumdur
+- Her hâlükârda 4 ay 10 gündür
+- Doğum ile 4 ay 10 günün uzun olanıdır
+- 1 yıldır
+= Hanefîlere göre «وَأُولَاتُ الْأَحْمَالِ» ayeti vefat iddeti ayetini neshetmiştir.
+
+? 6 | Hamile dulun iddeti meselesinde cumhur hangi yolu izler?
++ Cem ve telif
+- Nesh
+- Tercih
+- Tevakkuf
+= Cumhura göre doğum 4 ay 10 günden önceyse süre tamamlanır, sonraysa süre zaten dolmuştur.

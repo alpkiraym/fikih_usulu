@@ -1,0 +1,312 @@
+# Şer'î Deliller
+> Delilin tanımı; üzerinde ittifak edilen deliller (Kitap, Sünnet, İcmâ, Kıyas) ve üzerinde ihtilaf edilen deliller (İstihsan, Maslahat-ı mürsele, Sedd-i zerâi, Örf, İstishab, Şer'u men kablenâ, Sahâbe kavli).
+
+## Şer'î delillerin tanımı ve kısımları
+: Delil (sözlükte) = Hissî olsun manevî olsun, hayır olsun şer olsun herhangi bir şeye götürendir.
+@ مَا يُسْتَفَادُ مِنْهُ حُكْمٌ شَرْعِيٌّ عَمَلِيٌّ عَلَى سَبِيلِ الْقَطْعِ أَوِ الظَّنِّ | Istılahta delil
+: Delil (ıstılahta) = Kendisinden kat'î veya zannî yolla şer'î amelî bir hüküm elde edilendir.
+| | Kısım | Deliller
+| **A** | Müttefekun aleyh (4) | Kitap, Sünnet, İcmâ, Kıyas
+| **B** | Muhtelefun fîh (7) | Maslahat-ı mürsele, İstihsan, Örf, Sedd-i zerâi, Şer'u men kablenâ, Sahâbe kavli, İstishab
+@ الْكِتَابُ وَالسُّنَّةُ وَالْإِجْمَاعُ وَالْقِيَاسُ | Müttefekun aleyh
+@ الْمَصَالِحُ الْمُرْسَلَةُ وَالِاسْتِحْسَانُ وَالْعُرْفُ وَسَدُّ الذَّرَائِعِ وَشَرْعُ مَنْ قَبْلَنَا وَقَوْلُ الصَّحَابِيِّ وَالِاسْتِصْحَابُ | Muhtelefun fîh
+* Müttefekun aleyh 4 delil: Kitap, Sünnet, İcmâ, Kıyas. Muhtelefun fîh 7 delil: Maslahat-ı mürsele, İstihsan, Örf, Sedd-i zerâi, Şer'u men kablenâ, Sahâbe kavli, İstishab.
+
+## A1. Kitap
+@ هُوَ كَلَامُ اللَّهِ الْمُنَزَّلُ عَلَى نَبِيِّهِ الْمَكْتُوبُ فِي الْمَصَاحِفِ الْمَنْقُولُ بِالتَّوَاتُرِ الْمُتَعَبَّدُ بِتِلَاوَتِهِ الْمُعْجِزُ وَلَوْ بِسُورَةٍ
+: Kitap = Allah'ın Peygamberine indirilen, mushaflarda yazılı, tevatürle nakledilen, tilavetiyle ibadet edilen ve bir suresiyle bile mucize olan kelamıdır.
+### Özellikleri
+1. Lafzı ve manası Allah'a aittir.
+2. Lafızlarının müteradifleri ne kadar uysa da Kur'an değildir.
+3. Başka bir dile çevirisi Kur'an değildir.
+4. Tevatür yoluyla nakledilmiştir.
+5. Arapçadır.
+### Hücciyeti
+- Kur'an'ın hüccet oluşunun delili Allah'ın kelamı olmasıdır. Allah'ın kelamı oluşunun delili ise insanların benzerini getirmekten aciz kalmalarıdır.
+### Kaynak değeri
+- Delil bakımından 1. sırada gelir. Bir hüküm Kur'an'da bulunduğu sürece başka bir delile başvurulmaz.
+* Kitap: lafız ve mana Allah'ın; müteradifi ve tercümesi Kur'an değil; tevatürle nakledilmiş; Arapça. Delil olarak 1. sırada.
+
+## Kur'an'daki hükümler ve delaleti
+- Kur'an'daki hükümler üç çeşittir: 1) İtikadî, 2) Ahlakî, 3) Amelî.
+- Kur'an hükümlerinin **sübûtu kat'îdir**. Delaleti ise iki çeşittir:
+| Delalet | Ne zaman | Örnek
+| **A. Kat'î** | Birden fazla manaya ihtimalli değilse | «فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ» (sayı kesindir)
+| **B. Zannî** | Birden fazla manaya ihtimalliyse | «وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ» («قُرُوء» kelimesi)
+* Kur'an hükümleri: itikadî, ahlakî, amelî. Sübûtu kat'î; delaleti tek manaya ihtimalliyse kat'î, birden fazlaysa zannî.
+
+## A2. Sünnet
+: Sünnet = Hz. Peygamber'in söz, fiil ve takrirleridir.
+| Çeşit | Anlamı | Örnek
+| **A. Kavlî** | Sözleri | «لَا ضَرَرَ وَلَا ضِرَارَ»
+| **B. Fiilî** | Fiilleri | Beş vakit namazı edası
+| **C. Takrirî** | Bazı sahabelerden meydana gelen söz ve fiilleri susarak, gülerek, överek veya dua ederek onaylaması | —
+### Hücciyeti
+- Sünnetin delil oluşunun delilleri 3'tür:
+1. Kur'an ayetleri: «يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ»
+2. Sahâbe icmâı.
+3. Allah'ın Kur'an'da açıklamadığı mücmel farzların anlaşılmasında sünnetin rolü.
+~ Kur'an "Namaz kılın" diyor; nasıl kılınacağını sünnet gösterir.
+* Sünnet: kavlî, fiilî, takrirî. Hücciyeti: ayetler, sahâbe icmâı, mücmel farzların sünnetle anlaşılması.
+
+## Sünnetin Kur'an'a nispeti
+- Delil olarak Kur'an'a göre **2. sırada** gelir.
+- Getirdiği hükümler yönünden Kur'an'a nispeti:
+1. **Te'kid:** "Namaz kılın" gibi; hüküm ikisinde de vardır.
+2. **Mücmeli tebyin, mutlakı takyid, âmmı tahsis eder:** Namazın nasıl kılınacağı gibi.
+3. **Kur'an'da bulunmayan bir hükmü isbat eder:** (Erkeklere) altın ve gümüşün haram oluşu gibi.
+4. **Hanefîlere göre nâsih olması.**
+* Sünnetin Kur'an'a nispeti: te'kid · tebyin/takyid/tahsis · yeni hüküm isbatı · (Hanefîlere göre) nesih.
+
+## Senedine göre sünnet
+| Kısım | Tanımı
+| **1. Mütevâtir** | Her tabakada adeten yalan üzere ittifakları mümkün olmayacak sayıda bir topluluk tarafından rivayet edilendir.
+| **2. Meşhur** | İlk tabakada tevatür sayısına ulaşmamış, fakat 2. ve 3. tabakada tevatür sayısına ulaşmış raviler tarafından rivayet edilendir.
+| **3. Âhâd** | Hiçbir tabakada ravilerin tevatür sayısına ulaşmadığı rivayettir. Sünnetin büyük çoğunluğu bu yolla gelmiştir.
+!! Bu taksim **Hanefîlere** göredir. Cumhura göre sünnet ikiye ayrılır: mütevâtir ve âhâd. Mütevâtir aynıdır; meşhur ise farklıdır.
+### Cumhura göre âhâdın kısımları
+| Kısım | Herhangi bir tabakada ravi sayısı
+| **1. Meşhur (müstefîz)** | 3
+| **2. Azîz** | 2
+| **3. Garîb** | 1
+* Hanefîlere göre: mütevâtir, meşhur, âhâd. Cumhura göre: mütevâtir ve âhâd; âhâd: meşhur/müstefîz (3), azîz (2), garîb (1).
+
+## Teşrî özelliği olmayan sünnetler
+1. İnsan tabiatı gereği yaptığı şeyler (yeme-içme gibi).
+2. Dünya işleri konusunda ustalık ve tecrübe gereği yaptığı şeyler (hurma aşılama meselesi gibi).
+3. Peygambere özel olup örneklik teşkil etmeyen durumlar (dörtten fazla evlilik gibi).
+* Teşrî özelliği olmayanlar: tabiat gereği (yeme-içme) · dünya işlerinde tecrübe (hurma aşılama) · Peygambere özel (dörtten fazla evlilik).
+
+## Âhâd sünnetle amel etme metodu
+### A. Sahâbe
+- Allah Resulü'ne ait olduğundan emin olmadıkça kabul etmezdi. Bu hususun tespitinde farklı metotlar takip ediyorlardı:
+| Metot | Kim
+| İki kişi işittiğini ifade ettiğinde kabul | Hz. Ebû Bekir ve Hz. Ömer
+| Raviye yemin ettirme | Hz. Ali
+| Raviye güvendikleri için kabul | Bazen
+### B. Mezhep imamları
+- Bütün mezhep imamları ravinin **Müslüman, âdil, akıl-bâliğ ve zabt ehli** olması hususunda müttefiktirler. Bu 4 şart dışında:
+| Mezhep | Ek şartlar
+| **1. Hanefîler** | a) Ravinin, rivayet ettiği hadisin aksine amel etmemesi veya bu rivayete aykırı fetva vermemiş olması. b) Hadisin umûm-i belvâdan olmaması (namazda olduğu gibi herkesin bilmesi gereken bir konu). c) Ravi müçtehid değilse hadisin kıyasa ve şer'î esaslara aykırı olmaması.
+| **2. Mâlikîler** | Hadis, Medine ehlinin ameline aykırı olmamalı.
+| **3. Şâfiîler** | Senedin sahih ve muttasıl olması.
+| **4. Hanbelîler** | Ek bir şart koşmazlar.
+* Ortak 4 şart: Müslüman, âdil, akıl-bâliğ, zabt. Hanefî: ravi aksine amel etmemiş, umûm-i belvâ değil, (müçtehid değilse) kıyasa aykırı değil. Mâlikî: Medine ameline aykırı değil. Şâfiî: sahih ve muttasıl sened. Hanbelî: ek şart yok.
+
+## A3. İcmâ
+: İcmâ = Hz. Peygamber'in vefatından sonra bütün Müslüman müçtehidlerin herhangi bir asırda bir olay hakkında şer'î bir hüküm üzerinde ittifak etmeleridir.
+### Rükünleri / şartları
+1. Olayın meydana geldiği asırda birkaç müçtehid bulunmalı. (Tek bir müçtehidle ittifak olmaz.)
+2. O olayın hükmü üzerinde bütün müçtehidler (memleket, cins vb. ayrımı yapılmaksızın) ittifak etmeli.
+3. Bir görüşe göre müçtehidler görüşlerini sarih olarak beyan etmeli; buna göre sükûtî icmâ sayılmaz.
+4. Bütün müçtehidler ittifak etmeli. Biri bile muhalefet ederse icmâ gerçekleşmez.
+- Diğer kaynaklarda bunlara ek olarak: müçtehidlerin Hz. Peygamber'in ümmetinden olmaları, icmânın Hz. Peygamber'in vefatından sonra meydana gelmesi ve icmânın konusunun dinî bir mesele olması.
+### Hücciyeti
+1. «يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ» İbn Abbas gibi müfessirlere göre «أُولِي الْأَمْرِ» ulemâdır.
+2. «لَا تَجْتَمِعُ أُمَّتِي عَلَى خَطَأٍ»
+* İcmânın şartları: birkaç müçtehid · hepsinin ittifakı (ayrım yok) · (bir görüşe göre) sarih beyan · biri muhalefet ederse icmâ olmaz.
+* İcmânın hücciyeti: ulu'l-emre itaat ayeti (ulu'l-emr = ulemâ) ve "Ümmetim hata üzerinde birleşmez" hadisi.
+
+## İcmânın imkânı
+### 1. Mümkün değil
+- Bu görüşü Nazzâm ve bazı Şiîler savunur. Çünkü:
+- Bir kimsenin içtihad seviyesine ulaşıp ulaşmadığını bilmenin bir ölçüsü yoktur.
+- Diyelim ki ölçüldü ve tespit edildi; bunlar farklı bölge ve kıtalardayken kesin görüşlerine nasıl ulaşılacak?
+- Diyelim ki ulaşıldı; daha sonra görüş değiştirmediklerinden nasıl emin olunacak?
+- İcmâ münakid olursa müçtehidlerin dayandığı bir delil olması gerekir. Bu delil ya kat'î olur ki bunun Müslümanlardan gizli kalması mümkün değildir, ya da zannî olur ki bununla icmâ olmaz.
+!! Ahmed b. Hanbel'in de icmâyı kabul etmediği söylenir. Hâlbuki kabul eder; fakat ihtiyattan buna "icmâ" demez.
+### 2. Mümkün
+- Cumhur bu görüştedir ve icmâ bilfiil vuku bulmuştur.
+~ Hz. Ebû Bekir'in hilafeti, domuz iç yağının haram oluşu, ninenin altıda bire (1/6) varis olması.
+! Hallâf'a göre icmâ ancak devlet eliyle mümkün olabilir.
+* İcmâ mümkün değil: Nazzâm ve bazı Şiîler. Mümkün ve vaki: cumhur (Ebû Bekir'in hilafeti, domuz iç yağı, ninenin 1/6'sı). Hallâf: ancak devlet eliyle.
+
+## İcmânın kısımları ve kaynak değeri
+| Kısım | Tanımı | Diğer adı | Kaynak değeri
+| **1. Sarih icmâ** | Her bir müçtehidin görüşünü açıkça belirtmesidir. | Hakiki icmâ | Cumhura göre kesin bilgi ifade eder; uymak vâcip, uymamak haramdır. Delaleti kat'îdir.
+| **2. Sükûtî icmâ** | Bazı müçtehidlerin görüşlerini açıkça belirtip bazılarının muvafakat veya muhalefetini belirtmeyip sustukları icmâ türüdür. | İtibarî icmâ | Delaleti zannîdir. Şâfiîler ve Mâlikîler bunu kabul etmez.
+* Sarih (hakiki) icmâ kat'î; sükûtî (itibarî) icmâ zannî, Şâfiî ve Mâlikîler kabul etmez.
+
+## A4. Kıyas
+: Kıyas = Hükmüne dair bir nass bulunmayan bir vakıayı, illetteki eşitlik nedeniyle hükmüne dair nass bulunan bir vakıaya ilhak etmektir.
+!! Kıyas hükmü ortaya koyan (müsbit) değil, ortaya çıkaran (muzhir) bir delildir.
+~ Şarabın haramlığına rakı kıyas edilmiştir. İlletleri birdir, eşittir: sarhoşluk.
+### Hücciyeti
+1. **Kitap:** «فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ»
+2. **Sünnet:** Muâz b. Cebel hadisi.
+3. **Sahâbe fiilleri:** Hz. Ebû Bekir'in hilafetini namaz imamlığına kıyas etmeleri.
+@ رَضِيَهُ رَسُولُ اللَّهِ لِدِينِنَا أَفَلَا نَرْضَاهُ لِدُنْيَانَا | Resulullah onu dinimiz için uygun gördü; biz onu dünyamız için uygun görmeyelim mi?
+4. **Aklî deliller:** Maslahat esastır. Kur'an ve sünnet sınırlı, hadiseler sınırsızdır. Kıyas, selim bir fıtratın gereğidir.
+!! Nazzâm, Zâhirîler ve bazı Şiî âlimler kıyası kabul etmez.
+* Kıyas müsbit değil muzhirdir. Hücciyeti: Kitap (fa'teberû), Sünnet (Muâz hadisi), sahâbe (Ebû Bekir'in hilafeti), akıl. Kabul etmeyenler: Nazzâm, Zâhirîler, bazı Şiîler.
+
+## Kıyasın rükünleri ve aslın hükmünün şartları
+| Rükün | Tanımı | Diğer adları
+| **1. Asıl** | Hükmü hakkında nass bulunandır. | «الْمَقِيسُ عَلَيْهِ، الْمَحْمُولُ عَلَيْهِ، الْمُشَبَّهُ بِهِ»
+| **2. Fer'** | Hükmü hakkında nass bulunmayandır. | «الْمَقِيسُ، الْمَحْمُولُ، الْمُشَبَّهُ»
+| **3. Aslın hükmü** | Asla sabit olan ve fer'e uygulanmak istenen hükümdür. | —
+| **4. İllet** | Asla ait hükmün konulmasına sebep olan niteliktir. | —
+### Aslın hükmünün şartları
+1. **Nassla sabit olmalı.** Bu nass Kitap ve Sünnet ise ihtilaf yoktur. İcmâ ise iki görüş vardır: A) Kıyas yapılmaz. B) Kıyas yapılır.
+!! İttifakla, kıyas ile sabit olan bir hükme başka bir olay kıyas edilmez.
+2. **Akıl ile idrak edilebilecek bir illeti olmalı.** Yani illeti bildirilmeyen taabbüdî bir hüküm olmamalı.
+3. **Aslın hükmü asla has olmamalı.** Hz. Peygamber'in dörtten fazla evliliği gibi.
+* Kıyasın 4 rüknü: asıl (makîs aleyh), fer' (makîs), aslın hükmü, illet.
+* Aslın hükmünün şartları: nassla sabit · aklen idrak edilebilir illetli (taabbüdî değil) · asla has değil.
+
+## İllet
+- İlletin diğer adları: «مَنَاطٌ، أَمَارَةٌ، سَبَبٌ»
+! Not: mazinne (مَظِنَّة) → illet · mi'inne (مَئِنَّة) → hikmet.
+### Hikmet ile illet arasındaki fark
+: Hikmet = Hükmün konuluş amacıdır.
+: İllet = Hükmün üzerine kurulduğu, varlığı onun varlığına, yokluğu da onun yokluğuna bağlanan niteliktir.
+~ Seferde kasr-ı salâtın hikmeti meşakkatin def'idir; illeti ise seferdir.
+### İllet ile sebep arasındaki fark
+- Akıl ile idrak edilebiliyorsa hem illet hem sebep denir; akıl ile idrak edilemiyorsa sadece sebep denir.
+~ Sefer, kasr-ı salât için hem illet hem sebeptir. Fakat güneşin batması akşam namazının farziyeti için sebeptir, illet değildir.
+- Aralarında umûm-husûs-ı mutlak (عموم وخصوص مطلق) vardır: her illet sebeptir, her sebep illet değildir.
+### İlletin şartları
+| Şart | Açıklama
+| **1. Zâhir** | Açık olacak.
+| **2. Munzabıt** | Standart olacak; şahıstan şahısa değişmeyecek.
+| **3. Münâsib** | Hükme uygun olacak.
+| **4. Müteaddî** | Gayr-ı kâsır olacak; kişiye özel olmayacak.
+* Hikmet: hükmün konuluş amacı (meşakkatin def'i). İllet: hükmün bağlandığı nitelik (sefer). Mazinne → illet, mi'inne → hikmet.
+* Aklen idrak edilen sebep hem illet hem sebep; edilemeyen sadece sebep (güneşin batması). İllet ile sebep arasında umûm-husûs-ı mutlak.
+* İlletin şartları: zâhir, munzabıt, münâsib, müteaddî.
+
+## İllet ile hüküm arasındaki münasebet
+| Kısım | Tanım | Örnek
+| **1. el-Münâsibü'l-müessir** | Nass veya icmâ ile bizzat hükme illet olduğu sabit olan vasıf | Hayız ayeti: hüküm «اعْتِزَال», illet «أَذًى»
+| **2. el-Münâsibü'l-mülâim** | Nass veya icmâ ile bizzat o hükme illet olduğu sabit olmayan; ancak cinsinin cinsine itibar edilen vasıf | Yağmurda namazların cem'i
+| **3. el-Münâsibü'l-mürsel** | Şâriin itibar veya ilga ettiğine dair bir delil bulunmayan vasıf; maslahat-ı mürsele de denir | —
+| **4. el-Münâsibü'l-mülgâ** | Şâriin itibar etmediğine, ilga ettiğine dair bir delil bulunan vasıf | Erkek ve kızın karabette eşit, mirasta farklı olması
+### 1. el-Münâsibü'l-müessir
+@ الْوَصْفُ الْمُنَاسِبُ الَّذِي رَتَّبَ الشَّارِعُ حُكْمًا عَلَى وَفْقِهِ وَثَبَتَ بِالنَّصِّ أَوِ الْإِجْمَاعِ اعْتِبَارُهُ بِعَيْنِهِ عِلَّةً لِلْحُكْمِ الَّذِي رُتِّبَ عَلَى وَفْقِهِ | Kitabın tanımı
+@ إِنِ اعْتُبِرَ بِنَصٍّ أَوْ إِجْمَاعٍ عَيْنُ الْوَصْفِ فِي عَيْنِ الْحُكْمِ | Daha kısa bir tanım
+@ وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ | Örnek. Hüküm: «اعْتِزَال»; illet: «أَذًى»
+### 2. el-Münâsibü'l-mülâim
+@ الْوَصْفُ الْمُنَاسِبُ الَّذِي رَتَّبَ الشَّارِعُ حُكْمًا عَلَى وَفْقِهِ وَلَمْ يَثْبُتْ بِالنَّصِّ أَوِ الْإِجْمَاعِ اعْتِبَارُهُ بِعَيْنِهِ عِلَّةً لِنَفْسِ الْحُكْمِ الَّذِي رُتِّبَ عَلَى وَفْقِهِ | Kitabın tanımı
+@ وَإِنْ لَمْ يُعْتَبَرْ بِهَا بَلْ بِتَرْتِيبِ الْحُكْمِ عَلَى وَفْقِهِ وَلَوْ بِاعْتِبَارِ جِنْسِهِ فِي جِنْسِهِ | Daha kısa bir tanım
+- 3 kısmı vardır.
+~ Yağmurda namazların cem'i. Yağmurun cem'in illeti olduğuna dair bir nass veya icmâ yoktur; fakat seferin cem'e illet olduğuna dair nass vardır. Yağmur buna kıyaslanmıştır.
+### 3. el-Münâsibü'l-mürsel
+- Şâriin itibar veya ilga ettiğine dair bir delil bulunmayan vasıftır. Maslahat-ı mürsele de denilebilir.
+### 4. el-Münâsibü'l-mülgâ
+- Şâriin itibar etmediğine, ilga ettiğine dair bir delil bulunan vasıftır.
+~ Erkek ve kızın karabette eşit, mirasta ise farklı olmaları. Abdurrahman b. Hakem ve Yahyâ b. Yahyâ el-Leysî meselesi.
+* Münasebet: müessir (nass/icmâ ile aynı vasıf aynı hükme: hayızda «أذى»), mülâim (cins cinse: yağmurda cem'), mürsel (itibar da ilga da yok: maslahat-ı mürsele), mülgâ (ilga edilmiş: mirasta eşitlik).
+
+## Mesâliku'l-illet (illeti bulma yolları)
+### 1. Nass
+| Kısım | Açıklama | Edatlar
+| **A. Sarih** | Talil edatı bulunan nass | «مَا فِيهِ أَدَاةُ التَّعْلِيلِ»
+| **A-1. Kat'î** | Sadece talil manasında gelen, başka manaya gelmeyen edatlar | «مِنْ أَجْلِ، لِأَجْلِ، لِأَنَّ، كَيْ، لِعِلَّةِ كَذَا، لِسَبَبِ كَذَا، لِأَجْلِ كَذَا»
+| **A-2. Zannî** | Talil dışında başka manaya da gelebilen edatlar | «لِ، بِ، فَ، إِنَّ»
+| **B. Îmâ, işaret** | Talil edatı bulunmayan nass | «مَا لَيْسَ فِيهِ أَدَاةُ التَّعْلِيلِ»
+@ لَا يَرِثُ الْقَاتِلُ | Örnek. İlleti, «الْقَاتِل»in kendisinden türediği «الْقَتْل»dir.
+@ تَعْلِيقُ الْحُكْمِ بِالْمُشْتَقِّ يُشْعِرُ بِعِلِّيَّةِ الْمُشْتَقِّ مِنْهُ | Hükmün türemiş bir kelimeye bağlanması, kelimenin türediği kökün illet olduğunu hissettirir.
+### 2. İcmâ
+: Kıyas maa'l-fârık = İllet birliğinin sağlanamadığı kıyastır.
+: Kıyas fâsidü'l-i'tibâr = Fer' hakkında nass varken kıyas yapmaktır.
+### 3. Sebr ve taksim
+: Sebr = Deneme, sınamadır.
+: Taksim = Ayırmak, bölmektir.
+>> Bir konuda muhtemel seçenekleri belirlemek (hasr)
+>> Bunları birer birer elemek (hazf)
+>> Geriye kalan tek seçeneği illet kabul etmek
+~ Hamr ve kokain: akıcılık, renk, koku ve tat ikisinde ortak değildir, elenir; geriye **sarhoş edicilik** kalır. İllet budur.
+| Vasıf | Hamr | Kokain
+| Akıcılık | ✗ | ✗ (katılık)
+| Renk | ✗ | ✗
+| Koku | ✗ | ✗
+| Tat | ✗ | ✗
+| **Sarhoş edicilik** | ✓ | ✓
+### Menât kavramları
+: Tahrîcü'l-menât = İlleti bulma yollarıyla illeti tespit etmektir.
+: Tenkîhu'l-menât = Nassta geçen vasıflardan illet olmaya elverişli olanı tespit etmektir. Sebr ve taksimden farkı, vasıfların nassta geçmesidir.
+: Tahkîku'l-menât = Asılda geçen illetin fer'de bulunduğundan emin olmaktır.
+* İlleti bulma yolları: nass (sarih: kat'î/zannî; îmâ-işaret), icmâ, sebr ve taksim.
+* Sebr ve taksim: seçenekleri belirle (hasr), ele (hazf), kalan illettir. Tenkîhu'l-menâtta vasıflar nassta geçer.
+* Tahrîc: illeti bulmak · Tenkîh: nasstaki vasıflardan ayıklamak · Tahkîk: illetin fer'de olduğunu doğrulamak.
+
+## B1. İstihsan
+: İstihsan = Müçtehidin kıyas-ı hafîyi kıyas-ı celîye veya istisnaî hükmü küllî hükme tercih etmesidir.
+### 1. Kıyas-ı hafînin kıyas-ı celîye tercihi
+~ Hanefîlere göre yırtıcı kuşların artıkları temizdir.
+| | Açıklama
+| **Açık (celî) kıyas** | Diğer yırtıcılarda olduğu gibi bunların da etleri haram olduğu gibi artıklarının da haram ve necis olması.
+| **Gizli (hafî) kıyas** | Bunlar diğer yırtıcılar gibi değildir. Çünkü diğer yırtıcıların tükürükleri artıklarına bulaşır; onlar dilleriyle içerler.
+| **Vech-i istihsan** | Yırtıcı kuşların eti haram olsa da tükürükleri artıklarına karışmaz; çünkü temiz bir kemik olan gagalarıyla içerler.
+### 2. Küllî hükmün bırakılıp istisnaî hükmün tercihi
+- **Küllî hüküm:** Ma'dûmun satışı yasaktır.
+- **İstisnaî hüküm:** Selem akdi ihtiyaçtan dolayı istihsanen caizdir.
+### Hücciyeti
+- Hanefîlerin kabul ettiği bu delil ya kıyastır (1. çeşidi) ya da maslahat-ı mürseledir (2. çeşidi). Her ikisi de sahih bir istidlaldir.
+* İstihsan: kıyas-ı hafîyi kıyas-ı celîye (yırtıcı kuş artığı) veya istisnaî hükmü küllî hükme (selem) tercih. 1. çeşidi kıyas, 2. çeşidi maslahat-ı mürseledir.
+
+## B2. Maslahat-ı mürsele
+: Maslahat-ı mürsele = İnsanlara bir fayda sağlayıp veya onlardan bir zararı giderip itibar veya ilgasına dair bir delil bulunmayan delil çeşididir.
+### Şartları
+1. Maslahat hakiki olacak, vehmî olmayacak.
+2. Umumi olacak, şahsi değil.
+3. Maslahat, nass veya icmâ ile sabit bir hükme muarız olmayacak.
+### Hücciyeti
+| | Delilleri
+| **1. Kabul edenler** | A) İnsanların maslahatları yenilenir, bitmez. B) Sahâbe, tâbiîn ve müçtehid imamlar döneminde maslahatı sağlamak için birçok hüküm konmuştur (Kur'an'ın cem'i ve istinsahı gibi).
+| **2. Kabul etmeyenler** | A) Şâri zaten maslahatı nasslarda gözetmiştir. B) Bu yöntem hevâ ile hükmetmeye götürür.
+* Maslahat-ı mürselenin şartları: hakiki (vehmî değil) · umumi (şahsi değil) · nass veya icmâya muarız değil.
+
+## B3. Sedd-i zerâi
+: Sedd-i zerâi = Mefsedete götüren vasıtaların yasaklanmasıdır.
+### Mefsedete götüren vasıtalar
+| Vasıta | Hükmü | Örnek
+| **1. Haram** | İttifakla yasaklanır | Nesebin karışmasına sebep olan zina
+| **2-A. Mübah; nadiren mefsedete götüren** | İttifakla yasaklanmaz | Üzüm üretimi; nadiren de olsa içki üretimine vesile olabilir
+| **2-B. Mübah; çoğu zaman mefsedete götüren** | İhtilaflı | Bankaya kira ile (yer) vermek
+| **2-C. Konuluş amacı dışında bir sonuca vasıta kılınan meşru fiiller** | İhtilaflı | Ölüm hastalığında kişinin karısını mirastan men etmek için boşaması; normalde talak meşrudur
+### Son iki kısım hakkında
+- A) **Mâlikî ve Hanbelîlere** göre yasaklanır.
+- B) **Şâfiî, Hanefî ve Zâhirîlere** göre yasaklanmaz.
+! Sedd-i zerâi, maslahat-ı mürseleyi destekler ve kuvvetlendirir.
+* Sedd-i zerâi: haram vasıta ittifakla yasak; nadiren mefsedete götüren mübah ittifakla serbest; çoğu zaman götüren ve amaç dışı kullanılan meşru fiil Mâlikî-Hanbelîye göre yasak, Şâfiî-Hanefî-Zâhirîye göre değil.
+
+## B4. Örf / Âdet
+: Örf = İnsanların benimseyip alışkanlık hâline getirdikleri söz, fiil ve terktir.
+!! Halkın ittifakı **örf**, müçtehidlerin ittifakı **icmâdır**.
+| Ayrım | Kısım | Örnek
+| **Konusuna göre** | 1. Amelî örf | Teâtî satışı
+| | 2. Kavlî örf | "Veled" lafzının sadece erkek çocuk için kullanılması
+| **Değerine göre** | A. Sahih örf: şer'î bir delile aykırı olmayan | İstisnâ (ısmarlama) akdi; mehrin muaccel ve müeccel olması
+| | B. Bâtıl örf: şer'î bir delile muhalif olan | İçkili düğünler
+### Hükmü
+- Müçtehid fetvasında, kadı kazasında örfe riayet etmelidir.
+@ الثَّابِتُ بِالْعُرْفِ كَالثَّابِتِ بِالنَّصِّ | Âlimler örfle sabit olanı nassla sabit olan gibi sayıp ona önem göstermişlerdir.
+* Örf: halkın ittifakı (icmâ müçtehidlerin). Amelî (teâtî) / kavlî (veled). Sahih (istisnâ) / bâtıl (içkili düğün). Müftü ve kadı riayet eder.
+
+## B5. İstishab
+@ إِبْقَاءُ مَا كَانَ عَلَى مَا كَانَ
+: İstishab = Değiştiğine dair bir delil bulunmadıkça mevcut hâlin devamına hükmedilmesidir.
+### Hücciyeti
+- Müçtehidin başvurduğu son delildir.
+### İstishaba dayalı şer'î ilkeler
+@ الْأَصْلُ فِي الْأَشْيَاءِ الْإِبَاحَةُ | Eşyada asıl olan mübahlıktır.
+@ مَا ثَبَتَ بِالْيَقِينِ لَا يَزُولُ بِالشَّكِّ | Kesin olarak sabit olan şüpheyle ortadan kalkmaz.
+@ الْأَصْلُ فِي الْإِنْسَانِ الْبَرَاءَةُ | İnsanda asıl olan beraattir (suçsuzluktur).
+* İstishab: "olanı olduğu gibi bırakmak"; müçtehidin son delili. Kaideleri: eşyada asıl ibaha, yakîn şekle zail olmaz, insanda asıl beraat.
+
+## B6. Şer'u men kablenâ
+| Durum | Hükmü | Örnek
+| **A. Kur'an'da geçmeyen** | Şeriat değildir | —
+| **B-1. Kur'an'da geçen; neshedilen** | Şeriat değildir | Günahı karşılığı tevbesi için kendisini öldürmesi
+| **B-2. Kur'an'da geçen; emredilen** | Şeriattır | Oruç
+| **B-3. Kur'an'da geçen; mutlak olarak zikredilen** | Hanefî, Mâlikî ve Şâfiîlere göre şeriattır; diğerlerine göre değildir | Kısas ayeti
+@ وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ | Mâide 5/45
+* Şer'u men kablenâ: Kur'an'da geçmeyen ve neshedilen şeriat değil; emredilen şeriat; mutlak zikredilen Hanefî-Mâlikî-Şâfiîye göre şeriat.
+
+## B7. Sahâbe kavli
+| Durum | Hükmü
+| **A. Sahâbe bir konuda ittifak etmişse** | Hüccettir; bu konuda ihtilaf yoktur.
+| **B. İçtihada kapalı konularda** | Hüccettir; ihtilaf yoktur.
+| **C. Sahâbenin kendi rey ve içtihadıyla söylediği, ittifak edilmeyen konular** | Hanefîlere göre hüccettir; Şâfiîlere göre değildir.
+* Sahâbe kavli: ittifak ettikleri ve içtihada kapalı konularda hüccet; kendi içtihatlarında Hanefîlere göre hüccet, Şâfiîlere göre değil.

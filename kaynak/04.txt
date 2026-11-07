@@ -1,0 +1,323 @@
+# Lafızlar ve Delalet
+> Hanefîlere göre nassın delalet yolları ve cumhura göre mantûk–mefhûm; manaya delaleti açık ve kapalı lafızlar; müşterek, âmm, hâss, mutlak–mukayyed; emir ve nehiy.
+
+## Nassın delalet yolları (Hanefîlere göre)
+! Bu taksim Hanefiye göredir.
+### 1. İbâretü'n-nass
+: İbâretü'n-nass = Sîganın akla ilk gelen manaya ve sevkedilme amacına delalet etmesidir. Bu sevkedilme amacı aslî de olabilir, tebeî de.
+@ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا | Örnek
+- Bu nassın sîgası, sevkedilme amacı olan iki manaya delalet eder: 1) Alışverişin faiz gibi olmadığı. 2) Alışverişin hükmünün helal, faizin hükmünün de haram oluşu.
+- 1. mana **asaleten**dir. Çünkü bu ayet «إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا» diyenlere reddiye için sevkedilmiş, aralarındaki benzerlik nefyedilmiştir. 2. mana ise **tebean**dır.
+### 2. İşâretü'n-nass
+: İşâretü'n-nass = Akla ilk gelmeyen ve sevkedilme amacı olmayan, fakat gereklilik yoluyla çıkarılan manadır. Bu gereklilik bazen zâhir, bazen de hafî olur.
+@ وَشَاوِرْهُمْ فِي الْأَمْرِ | Örnek
+- İbâretü'n-nass istişarenin gerekliliğidir. İşâretü'n-nass ise kendisiyle istişare edilecek bir topluluk oluşturma gerekliliğidir. Çünkü istişare bu topluluk olmadan yapılamaz.
+### 3. Delâletü'n-nass
+: Delâletü'n-nass = Nassta belirtilen duruma ait hükmün, kıyas ve içtihada ihtiyaç duyulmaksızın sadece dili bilmekle anlaşılabilen illetteki müştereklik sebebiyle nassta belirtilmeyen durum hakkında da sabit olmasıdır.
+@ فَلَا تَقُلْ لَهُمَا أُفٍّ | Örnek
+- İbâretü'n-nass, evladın anne-babaya "öf" dememesidir. Buradaki illet eziyet vermedir. Delâletü'n-nass ise sövme ve dövme gibi eziyet veren diğer fiillerin de nehyedilmesidir.
+!! Kıyas ile farkı: Delâletü'n-nassta sadece dili bilmek yeterlidir; kıyasta bu yeterli değildir.
+### 4. İktizâü'n-nass
+: İktizâü'n-nass = Nassın sahih bir şekilde anlaşılması için takdir edilmesi gereken manadır.
+@ حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ | Örnek. Takdiri: «نِكَاحُهَا». Yani nikâhlanmak haram kılındı.
+* Hanefî delalet yolları: ibare (asıl sevk amacı: "ehalle'llâhu'l-bey'"), işaret (gereklilik: "ve şâvirhum" → istişare topluluğu), delalet (dil bilgisiyle illet: "öf" → dövme), iktiza (takdir: "hurrimet ümmehâtüküm" → nikâhları).
+
+## Delaletlerin gücü ve tearuzu
+!! Delaletler içerisinde en güçlüsü **ibare**dir. Sonra sırasıyla **işaret, delalet ve iktiza** gelir. Bundan dolayı nasslar arasında bir tearuz meydana geldiğinde ibare işarete tercih edilir.
+>> İbâretü'n-nass
+>> İşâretü'n-nass
+>> Delâletü'n-nass
+>> İktizâü'n-nass
+### İbare ile işaretin tearuzuna örnek
+@ كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى | 1. ayet: İbaresi katile kısas uygulanmasının vücubuna delalet eder.
+@ وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ | 2. ayet: İşareti, kasden adam öldürene kısas uygulanmayacağına delalet eder.
+- Söz konusu tearuzda ibare işarete tercih edilir ve katile kısas uygulanır.
+### İşaret ile delaletin tearuzuna örnek
+@ وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ | Bu ayetin ibaresi, hataen bir mümini öldürenin cezasının mümin bir köleyi azat etme keffareti olduğuna delalet eder.
+- Delaleti ise şudur: Hataen öldürene bu gerekiyorsa, aralarındaki illet («قَتْل») birliği sebebiyle bilerek öldürene haydi haydi gerekir.
+- Bu delalet, yukarıdaki «وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا» ayetinin işaretiyle tearuz eder ve **işaret tercih edilir**. Devamında işaret de ibare ile tearuz eder ve **ibare tercih edilir**.
+* Güç sırası: ibare > işaret > delalet > iktiza. Kısas ayeti (ibare) ile "müteammiden öldüren cehennemdir" ayeti (işaret) çatışınca ibare tercih edilir: katile kısas.
+* Hata ile öldürmede keffaret ayetinin delaleti ile kasıt ayetinin işareti çatışınca işaret tercih edilir.
+
+## Cumhura göre delaletin nevileri
+| Nevi | Tanımı | Hanefîlerdeki karşılığı
+| **1. Delâletü'l-mantûk** | Lafzın, nassta zikri geçen bir şeyin hükmüne delaleti | İbare, işaret ve iktiza
+| **2. Delâletü'l-mefhûm** | Lafzın, nassta zikri geçmeyen bir şeyin hükmüne delaleti; ikiye ayrılır | —
+| **2A. Mefhûmu'l-muvâfaka** | — | Delâletü'n-nass
+| **2B. Mefhûmu'l-muhâlefe** | 5 çeşittir | —
+### Mefhûm-ı muhâlefetin çeşitleri
+| Çeşit | Tanımı | Örnek | Mefhûm-ı muhâlefesi
+| **2B1. Mefhûmu's-sıfat** | Hükmü bir vasıfla kayıtlanmış nassın, bu vasfı taşımayan durumlarda o hükmün geçerli olmadığına delalet etmesi | «وَحَلَائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ» | Öz olmayan çocuklar (süt çocuğu gibi)
+| **2B2. Mefhûmu'l-gâye** | Hükmü belirli bir sınırla kayıtlanmış nassın, bu sınırdan sonra o hükmün geçerli olmadığına delalet etmesi | «فَإِنْ طَلَّقَهَا فَلَا تَحِلُّ لَهُ مِنْ بَعْدُ حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ» | Boşanılan kadın, kendisini boşayan erkeğin dışında başka bir erkekle evlenirse helal olur
+| **2B3. Mefhûmu'ş-şart** | Hükmü şart edatlarından biriyle belirli bir şarta bağlanmış nassın, bu şartın bulunmadığı durumlarda o hükmün geçerli olmadığına delalet etmesi | «وَإِنْ كُنَّ أُولَاتِ حَمْلٍ فَأَنْفِقُوا عَلَيْهِنَّ حَتَّى يَضَعْنَ حَمْلَهُنَّ» | Hamile değillerse nafaka mükellefiyeti yoktur
+| **2B4. Mefhûmu'l-aded** | Hükmü belirli bir sayıyla kayıtlanmış nassın, bu sayının dışında o hükmün yerine gelmeyeceğine delalet etmesi | «الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ» | 100'den az veya fazlası olmaz
+| **2B5. Mefhûmu'l-lakab** | Özel isim, cins ve nevi gibilerine bağlanan hükmün bunların dışındakiler için geçerli olmaması | «مُحَمَّدٌ رَسُولُ اللَّهِ» | Muhammed dışındakiler resul değildir
+* Cumhur: mantûk (Hanefîlerin ibare, işaret, iktizası) ve mefhûm. Mefhûm-ı muvâfaka = Hanefîlerin delâletü'n-nassı.
+* Mefhûm-ı muhâlefe 5 çeşit: sıfat, gâye, şart, aded, lakab.
+
+## Mefhûm-ı muhâlefetin hücciyeti
+### Tetimme
+1. Mefhûmu'l-lakab ittifakla hüccet değildir.
+2. Mefhûmu'l-muhâlefe (lakap hariç bütün çeşitleriyle) ittifakla şer'î nassların dışında hüccettir.
+3. Mefhûmu'l-muhâlefe (lakap hariç bütün çeşitleriyle) cumhura göre nasslarda da hüccettir; Hanefîlere göre değildir.
+### Cumhurun delilleri
+1. Arapların ibare kullanma üslubundan akla ilk gelen şudur: Vasıf, şart, gaye ve aded ile hükmü kayıtlamak, bu kayıtlar olmadığında o hükmün nefyine delalet eder.
+~ "Çocuğun başarılı olursa ona bir hediye al." Yani başarılı olmazsa alma.
+2. Nasslardaki kayıtlar bir hikmet içindir; boşu boşuna değildir.
+### Hanefîlerin delilleri
+1. Cumhurun söylediği 1. delil her zaman geçerli olmayabilir.
+~ "Biri senden sabah bir şey isterse ihtiyacını gider." Bundan "Akşam isterse giderme" anlamı çıkarılmaz.
+2. Cumhurun söylediği 2. delil de (nasslarla ilgili) her zaman geçerli değildir.
+@ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا | Namazın seferde kısaltılmasıyla ilgili ayetteki kayıt. Bundan "Korku yoksa kısaltmayın, tam kılın" anlamı çıkarılmaz.
+### Mefhûm-ı muhâlifle amel şartları
+- Bunu kabul edenlere göre birçok şartı vardır; fakat hepsi bir noktada toplanabilir: Mantûkun hükmüne konulan kaydın, kayıt kalktığında hükmün de sona ereceğini göstermek dışında bir fayda ve gayesi olmamalıdır. Aksi hâlde mefhûm-ı muhâlif dikkate alınmaz.
+@ وَهُوَ الَّذِي سَخَّرَ الْبَحْرَ لِتَأْكُلُوا مِنْهُ لَحْمًا طَرِيًّا | Örnek. Buradaki maksat nimetleri hatırlatmaktır; "Taze olmayanı yemeyin" demek değildir.
+* Mefhûmu'l-lakab ittifakla hüccet değil. Diğer mefhûm-ı muhâlefeler nass dışında ittifakla hüccet; nasslarda cumhura göre hüccet, Hanefîlere göre değil.
+* Mefhûm-ı muhâlifle amel şartı: kaydın, hükmün sona ereceğini göstermekten başka bir faydası olmamalı ("taze et" kaydı nimeti hatırlatır).
+
+## Hanefîlere göre manaya delaleti açık lafızlar (el-Vâdıhu'd-delâle)
+| Lafız | Tanımı | Tevil ihtimali | Teşrî döneminde nesih
+| **1. Zâhir** | Harici bir şeye ihtiyaç duymaksızın bizzat sîgasıyla murad edilen manaya delalet eden, nassın aslen sevk amacı olmayan | Var | Açık
+| **2. Nass** | Aynı şekilde delalet eden, nassın asıl sevk amacı olan | Var | Açık
+| **3. Müfesser** | Murad edilen manaya açık bir şekilde delalet eden | Yok | Açık
+| **4. Muhkem** | Murad edilen manaya açık bir şekilde delalet eden | Yok | Kapalı
+### 1. Zâhir
+: Zâhir = Harici bir şeye ihtiyaç duymaksızın bizzat sîgası ile murad edilen manaya delalet eden, nassın aslen sevk amacı olmayan ve tevil (tahsis, takyid, mecaz) ihtimali olan lafızdır.
+@ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا | Örnek. Tebean alışverişin helal, faizin haram olduğuna delalet eder (çünkü aslen alışverişin faiz gibi olmadığına delalet eder). Bu manaya harici bir şeye ihtiyaç duymadan delalet eder.
+- **Hükmü:** Aksine bir delil olmadığı sürece zâhirle amel etmek vâcibtir. Teşrî döneminde neshe açıktır.
+### 2. Nass
+: Nass = Harici bir şeye ihtiyaç duymaksızın bizzat sîgası ile murad edilen manaya delalet eden, nassın asıl sevk amacı olan ve tevil ihtimali olan lafızdır.
+- Örneği aynı ayettir (alışverişin faiz gibi olmadığı manası). Hükmü zâhirin hükmü gibidir.
+### Tevil
+: Tevil = Sözlükte döndürmektir. Istılahta lafzı bir delille zâhirinden çevirmektir.
+@ صَرْفُ اللَّفْظِ عَنْ ظَاهِرِهِ بِدَلِيلٍ
+### 3. Müfesser
+: Müfesser = Murad edilen manaya açık bir şekilde delalet eden ve tevil (tahsis, takyid, mecaz) ihtimali olmayan lafızdır.
+@ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً | Örnek. Fazlası veya eksiği olmaz.
+- **Hükmü:** Zâhir ve nass gibi; teşrî döneminde neshe açıktır.
+! Tefsir şâri tarafından, tevil şârih tarafından yapılır. Tefsir kat'îdir, tevil ise zannîdir.
+### 4. Muhkem
+: Muhkem = Murad edilen manaya açık bir şekilde delalet eden, tevil ihtimali olmayan ve teşrî döneminde de neshe kapalı olan lafızdır.
+@ وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا | Örnek
+- **Hükmü:** Teşrî döneminde de neshe kapalıdır. Dolayısıyla müfesser, Hz. Peygamber'in vefatından sonra muhkeme döner.
+!! Kuvvet sıralaması tersten gider: muhkem > müfesser > nass > zâhir. Tearuz durumunda bu sıralama takip edilir.
+* Açık lafızlar (Hanefî): zâhir (asıl sevk değil, tevil var), nass (asıl sevk, tevil var), müfesser (tevil yok, nesih var: "80 değnek"), muhkem (tevil de nesih de yok: "ebeden şahitliklerini kabul etmeyin").
+* Kuvvet: muhkem > müfesser > nass > zâhir. Tefsir şâriden ve kat'î; tevil şârihten ve zannî. Müfesser vefattan sonra muhkeme döner.
+
+## Hanefîlere göre manaya delaleti kapalı lafızlar (Gayru'l-vâdıhi'd-delâle)
+| Lafız | Kapalılığın yeri | Nasıl giderilir
+| **1. Hafî** | Lafzın manası açık; şâmil olduğu fertlere delaleti kapalı | İnceleme ve içtihadla
+| **2. Müşkil** | Bizzat sîgada | Harici bir şeyle; içtihadla
+| **3. Mücmel** | Bizzat sîgada | Ancak şâriin beyanıyla
+| **4. Müteşâbih** | Kimsenin ya da yalnız ilimde râsih olanların bilebileceği derecede | (İhtilaflı)
+### 1. Hafî
+: Hafî = Manaya delaleti açık olup şâmil olduğu fertlere delaleti kapalı olan lafızdır.
+@ وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا | Örnek. «سَارِق» kelimesinin manası açıktır; fakat hangi fertleri kapsadığı konusunda kapalılık vardır.
+| Kişi | Durumu | Hükmü
+| **Tarrâr «طَرَّار»** (yankesici) | Yankesici açıktan alır, hırsız gizliden | Ulemânın içtihadıyla ittifaken eli kesilir
+| **Nebbâş «نَبَّاش»** | Ölünün kefenini veya elbisesini çalan. Hırsızdan farkı, mergûb olmayan bir malı çalmasıdır | İmam Şâfiî ve Ebû Yûsuf'a göre hırsız sayılır; diğer Hanefî ulemâsına göre hırsız sayılmaz, ta'zir cezası verilir
+- **Hükmü:** İnceleme ve içtihad yoluyla kapalılığı giderilir. İnceleme ve içtihadla bir neticeye varıldıktan sonra kendisiyle amel edilebilir.
+### 2. Müşkil
+: Müşkil = Bizzat kendi sîgasıyla murad edilen manaya delaleti kapalı olup bu kapalılığın ancak harici bir şeyle giderildiği lafızlardır.
+!! Hafî ile farkı: Kapalılık hafîde bizzat sîgada değil, fertleri kapsamasındadır. Müşkilde ise bizzat sîgadadır.
+- Müşterek lafızlarda bulunur.
+- **Hükmü:** Muhtemel manalarından biri içtihad ile belirlendikten sonra amel edilebilir.
+@ وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ | Örnek. «قُرُوء» hayız mı, temizlik mi?
+| Mezhep | Görüşü | Delilleri
+| **Şâfiîler** | Temizlik | «ثَلَاثَة» adedinin müzekker gelmesi, ma'dûdun müzekker yani temizlik («طُهْر») olduğuna delalet eder.
+| **Hanefîler** | Hayız | 1) İddet beklemenin hikmeti hamile olup olmadığının belli olmasıdır; bu da temizlikten değil hayızdan anlaşılır. 2) «وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِنْ نِسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَاللَّائِي لَمْ يَحِضْنَ» ayetinden iddetin hayızla alakalı olduğu anlaşılır. 3) «طَلَاقُ الْأَمَةِ ثِنْتَانِ وَعِدَّتُهَا حَيْضَتَانِ» hadisi.
+### 3. Mücmel
+: Mücmel = Murad edilen manaya delaleti kapalı olup ancak şâriin beyanıyla açık olan lafızlardır.
+| Çeşidi | Örnek
+| **1. Müştereklik** | «مَوْلًى»
+| **2. Sözlük manasından şâriin kastettiği özel bir manaya nakledilmesi** | «صَلَاة»
+| **3. Lafzın garabeti** | «هَلُوعًا»
+- **Hükmü:** Şâriin beyanı olmadan kendisiyle amel edilmesi caiz değildir. Bu beyan iki şekilde olabilir:
+1. **Kat'î ve vâfi (tam) beyan:** Bu durumda mücmel müfessere döner. Şâriin salâtı beyanı gibi.
+2. **Vâfi olmayan beyan:** Bu durumda mücmel müşkile döner ve şâriin beyanına ihtiyaç duymaksızın müçtehidin içtihadıyla bu kapalılık giderilebilir.
+~ «وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا» ayetindeki «رِبَا» sözlük anlamıyla değil, şâriin kastettiği özel bir manada kullanılmıştır. Hz. Peygamber bunu «الذَّهَبُ بِالذَّهَبِ…» hadisiyle beyan etmiştir. Fakat bu beyan vâfi değildir. Bu yüzden «رِبَا» müşkile döner ve müçtehid onun neliği konusunda içtihad edebilir.
+### 4. Müteşâbih
+: Müteşâbih = Kendisiyle kastedilen mananın dünyada hiç kimsenin bilemeyeceği veya sadece ilimde râsih olanların bilebileceği derecede kapalı olan lafızlardır.
+!! Bu anlamıyla müteşâbih, teşrî-amelî hükümleri içeren nasslarda (ayet ve hadislerde) bulunmaz. Ancak bunların dışındakilerde bulunur:
+- **Hurûf-ı mukattaa**
+- **Zâhiri, Allah'ın yarattıklarına benzediğini vehmettiren nasslar** («يَد، وَجْه»)
+- **Hükmü:** Manasına vâkıf olunup olunamayacağı konusu ihtilaflıdır («إِلَّا اللَّهُ» üzerinde durulup durulmayacağı / «وَالرَّاسِخُونَ فِي الْعِلْمِ»).
+* Kapalı lafızlar (Hanefî): hafî (fertlerde kapalı: tarrâr, nebbâş), müşkil (sîgada kapalı; müşterekte: kurû'), mücmel (yalnız şâriin beyanı: mevlâ, salât, helû'), müteşâbih (hurûf-ı mukattaa, yed, vech).
+* Kurû': Şâfiîlere göre temizlik (müzekker sayı), Hanefîlere göre hayız (iddetin hikmeti, âyise ayeti, cariye hadisi).
+* Mücmelin beyanı kat'î ve tamsa müfessere (salât), tam değilse müşkile (ribâ) döner.
+
+## Hanefîlerin dışındakilere göre açık ve kapalı lafızlar
+### El-Vâdıhu'd-delâle
+: Zâhir (Hanefî dışı) = Manasına zannî (açık) olarak delalet eden, başka bir ihtimale açık olan lafızdır.
+: Nass (Hanefî dışı) = Manasına kat'î (açık) olarak delalet eden, başka bir ihtimale kapalı olan lafızdır. Hanefîlerdeki müfesserle aynıdır.
+- **Muhkem** ise (Hanefîlerin dışındakilere göre) ister zannî ister kat'î, manasına açık bir şekilde delalet edendir. Yani hem zâhiri hem nassı kapsar.
+! Bu ihtilaf ciddi bir fikir ayrılığı olmayıp sırf terim ayrılığından ibarettir. Pratik açıdan herhangi bir sonucu yoktur.
+### Gayru'l-vâdıhi'd-delâle
+1. **Mücmel:** Manasına delaleti kapalı olan lafız.
+2. **Müteşâbih:** İster kendi sîgasındaki bir sebeple, ister başka bir sebeple manaya delaleti kapalı olan lafız.
+- Bu ikisi Hanefîlerdeki dört neviyi de kapsar.
+| | Hanefîler | Hanefî dışındakiler
+| **Açık** | Zâhir, nass, müfesser, muhkem | Zâhir, nass (= Hanefî müfesseri); muhkem ikisini kapsar
+| **Kapalı** | Hafî, müşkil, mücmel, müteşâbih | Mücmel, müteşâbih
+* Hanefî dışı: açık lafızlar zâhir (zannî) ve nass (kat'î = Hanefî müfesseri); muhkem ikisini kapsar. Kapalı: mücmel ve müteşâbih. Fark yalnız terimdedir.
+
+## Müşterek
+: Müşterek = Her biri ayrı bir vaz' ile olmak üzere birden fazla manaya sahip olan lafızlardır. «عَيْن» ve «قُرْء» lafızları gibi.
+### Müştereğin ortaya çıkış sebepleri
+| Sebep | Örnek
+| **1. Arap kabileleri arasındaki farklılıklar** | «ذِرَاع»: Bazı kabilelerde omuza kadar, bazılarında dirseğe kadar, bazılarında ise bileğe kadardır.
+| **2. Hakiki manadan mecaza geçip yaygınlaşması** | «سَيَّارَة» ve «دَرَّاجَة»: Önce hakiki bir mana için konmuş, sonra bir alakadan dolayı mecazen farklı bir manada kullanılmış ve öylesine yaygınlaşmış ki artık hakiki manası unutulmuştur.
+| **3. Sözlük manasından şer'î/ıstılahî manaya geçiş** | «صَلَاة» ve «زَكَاة»
+### Nassta gelen müşterek lafız
+- Şer'î bir nassta gelen lafız, **sözlük ve şer'î/ıstılahî anlamlar** bakımından müşterekse şer'î/ıstılahî manasının kastedilmesi vâcibtir.
+~ «وَأَقِيمُوا الصَّلَاةَ»: namaz kastedilir, dua değil.
+- Şer'î bir nassta gelen lafız **birkaç sözlük anlamı** bakımından müşterekse, birinin tayini için içtihad edilmesi gerekir.
+~ «قُرُوء»: Hanefîlere göre hayız, Şâfiîlere göre temizlik.
+### Hükmü
+- Lafızda aslolan müşterek olmamasıdır. Lafzın hem müşterek olma hem de olmama ihtimali varsa olmama ihtimali tercih edilir. Bu müttefekun aleyhtir.
+- Böyle bir ihtimal olmayıp müştereklik kesinleşince, içtihadla biri tercih edildikten sonra amel edilir.
+* Müşterek: birden fazla manaya ayrı vaz'larla konmuş lafız (ayn, kur'). Sebepleri: kabile farkı (zirâ'), mecazın yaygınlaşması (seyyâre), şer'î manaya nakil (salât).
+* Nassta: sözlük/şer'î müştereklikte şer'î mana; birkaç sözlük manasında içtihad. Asıl olan müşterek olmamaktır.
+
+## Umûmu'l-müşterek meselesi
+- Yani müşterek lafzın manalarının her birine aynı anda delalet edip edemeyeceği meselesi.
+| Görüş | Hükmü | Gerekçe
+| **Hanefîler** | İster olumlu ister olumsuz olsun caiz değildir | Müştereğin tanımından anlaşılacağı üzere her mana için ayrı bir vaz' gerekir; tek bir vaz' ile delalet etmesi müştereklik tanımına aykırıdır.
+| **Şâfiîler** | İster olumlu ister olumsuz olsun caizdir | Hac Suresi 18. ayet: secde insanlar hakkında alnı yere koymak, diğer varlıklar hakkında boyun eğmek ve itaattir; tek bir vaz' ile ikisine delalet eder.
+| **Bazı Hanefîler** | Olumsuz cümlede caizdir, olumlu cümlede değildir | Olumsuzdan sonra gelen nekranın umum ifade etmesi gibi olur.
+@ أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِنَ النَّاسِ | Şâfiîlerin delili
+!! Hanefîlerin cevabı: Buradaki iki secde de boyun eğme ve itaattir; ayrı anlamlarda değildir. Dolayısıyla bir müştereklik söz konusu değildir.
+~ Yeminler bahsinde: «أَقْسَمَ أَوْ حَلَفَ لَا يُكَلِّمُ مَوَالِيَ فُلَانٍ». "Falancanın mevlâlarıyla konuşmayacağım" diye yemin eden kimsenin bu yemini hem a'lâyı (azat edeni) hem esfeli (azat edileni) kapsar; çünkü olumsuz bir cümledir.
+* Umûmu'l-müşterek: Hanefîlere göre hiç caiz değil; Şâfiîlere göre caiz (secde ayeti); bazı Hanefîlere göre yalnız olumsuz cümlede (mevlâ yemini).
+
+## Âmm
+: Âmm = Tek bir vaz' ile tek bir manaya delalet eden ve bütün fertleri sınır olmaksızın kapsayan lafızdır.
+- Şer'î bir nassta âmm lafız gelirse ve tahsisine ilişkin bir delil yoksa kesinlikle umumu üzere hamledilir. Delil varsa zannî olarak tahsise hamledilir.
+- Âmm, ancak kendi seviyesindeki bir delil ile tahsis edilebilir.
+### Âmm lafızları
+- «كُلّ» ve «جَمِيع» lafızları; cins lâm-ı tarifli isim cins; lâm-ı tarifli çoğul; ism-i mevsuller; şart isimleri; nefiyden sonra gelen nekre (ve istifham isimleri).
+### Âmm ile mutlakın farkı
+@ عُمُومُ الْعَامِّ شُمُولِيٌّ وَعُمُومُ الْمُطْلَقِ بَدَلِيٌّ | Âmmın umumu kapsayıcı, mutlakın umumu bedelîdir.
+| | Ne ifade eder | Örnek
+| **Mutlak** | Delalet ettiği fertlerden herhangi birini | «تَحْرِيرُ رَقَبَةٍ»: bütün köleleri değil, herhangi bir köleyi azat etmek
+| **Âmm** | Delalet ettiği bütün fertleri | «وَالسَّارِقُ وَالسَّارِقَةُ»: bütün hırsızlar
+* Âmm: tek vaz', bütün fertler, sınırsız. Lafızları: küll, cemî', lâm-ı tarifli cins ve çoğul, mevsul, şart isimleri, nefiyden sonra nekre.
+* Âmmın umumu şümûlî (bütün hırsızlar), mutlakın umumu bedelî (herhangi bir köle).
+
+## Âmmın delaleti
+- Tahsisten **sonra** âmmın delaletinin zannî olduğu konusunda cumhur ile Hanefîler arasında ihtilaf yoktur.
+| | Tahsisten önce âmmın delaleti | Zorunlu neticesi | Delili
+| **Cumhur** | Zannîdir | Zannî bir delille tahsis edilebilir | İstikra: Nasslarda vârid olan âmm lafızların hepsi tahsis edilmiştir; tahsis edilmeyip umumu üzere kalanlar gerçekten nadirdir.
+| **Hanefîler** | Kat'îdir | Ancak kat'î bir delille tahsis edilebilir | Genel kural: Aksine bir delil olmadıkça âmm lafız, bütün fertlerini kapsamak üzere vaz' edilmiştir. Bu kat'îdir.
+* Tahsisten sonra âmm herkese göre zannî. Tahsisten önce cumhura göre zannî (zannî delille tahsis edilir), Hanefîlere göre kat'î (ancak kat'î delille).
+
+## Âmmın tahsisi
+: Tahsis = Âmmın bazı fertlerine hasredilmesidir.
+### Cumhura göre
+- Mutlak olarak (ister müstakil ister gayr-ı müstakil, ister mukârin ister gayr-ı mukârin) âmmın bazı fertlerine hasredilmesidir.
+| Muhassıs | Çeşit | Örnek
+| **a. Müstakil** (âmmın bulunduğu nassta geçmeyen, ayrı olan) | a1. Akıl | «فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ»: akıl, çocuk ve delinin kastedilmediğini bilir.
+| | a2. Örf ve âdet | Bir kimse hayvanlarla ilgili bir vasiyette bulunsa ve o bölgede "hayvan" kelimesi sadece at anlamına geliyorsa vasiyetin kapsamına sadece atlar girer.
+| | a3. Mutlak nass (mukârin ve gayr-ı mukârin) | Mukârin: «وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا». Gayr-ı mukârin: «حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ» ayetinin umumunu «هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ» hadisi tahsis etmiştir.
+| **b. Gayr-ı müstakil / muttasıl** (âmmın bulunduğu nassta geçen, ayrı olmayan) | b1. İstisna | «إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً…»
+| | b2. Şart | «…إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا»
+| | b3. Sıfat / vasf | «…مِنْ نِسَائِكُمُ اللَّاتِي دَخَلْتُمْ بِهِنَّ»
+| | b4. Gaye | «…وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ»
+| **c. Mukârin** | Âmm ile aynı vakitte meşru kılınan | «وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا»
+| **d. Gayr-ı mukârin** | Âmm ile aynı vakitte meşru kılınmayan, sonradan meşru kılınan | «حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ» → «هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ»
+### Hanefîlere göre
+- Tahsis, **müstakil ve mukârin** bir muhassıs ile âmm lafzın bazı fertlerine hasredilmesidir.
+| Muhassıs | Hanefîlere göre adı
+| Gayr-ı müstakil | Tahsis değil, **kasr**
+| Müstakil ama gayr-ı mukârin | **Nesh**
+| Müstakil ve mukârin | **Tahsis**
+!! Dolayısıyla Hanefîlere göre müstakil muhassısın çeşitlerinden olan "nass" sadece mukârin olur, gayr-ı mukârin olmaz.
+### Genel kural
+@ الْعِبْرَةُ بِعُمُومِ اللَّفْظِ لَا بِخُصُوصِ السَّبَبِ | Hüküm, sebebin özel olmasına değil lafzın genel olmasına göredir.
+~ «أَنَتَوَضَّأُ بِمَاءِ الْبَحْرِ؟» sorusuna «هُوَ الطَّهُورُ مَاؤُهُ…» cevabı. Burada "Soru sadece abdestle ilgiliydi" veya "Sadece zaruret hâlinde geçerli" gibi şeylere itibar edilmez.
+* Cumhur: müstakil (akıl, örf, nass), gayr-ı müstakil (istisna, şart, sıfat, gaye), mukârin ve gayr-ı mukârin hepsi tahsistir.
+* Hanefî: yalnız müstakil ve mukârin muhassıs tahsistir; gayr-ı müstakil kasr, gayr-ı mukârin nesihtir.
+* "el-İbretu bi-umûmi'l-lafz lâ bi-husûsi's-sebeb" (deniz suyu hadisi).
+
+## Hâss
+: Hâss = Tek bir vaz' ile tek bir manaya delalet eden lafızdır.
+- Hâss lafız bazen **mutlak**, bazen **mukayyed**, bazen **emir**, bazen de **nehiy** olarak dört şekilde gelebilir.
+### Hâssın delaleti
+- Hâss, ittifakla vaz' olunduğu manaya kat'î bir şekilde delalet eder ve aksine bir delil bulunmadıkça başka bir manaya hamledilemez.
+@ فَكَفَّارَتُهُ إِطْعَامُ عَشَرَةِ مَسَاكِينَ | Örnek. 10'dan ne eksik ne de fazla.
+- Aksine bir delil bulunursa başka bir manaya hamledilir.
+@ فِي كُلِّ أَرْبَعِينَ شَاةً شَاةٌ | Örnek. Hanefîler buradaki hâss olan «شَاة» kelimesini başka bir mana olan «قِيمَتُهَا» (değeri) şeklinde yorumlamıştır.
+* Hâss: tek vaz', tek mana; mutlak, mukayyed, emir veya nehiy olarak gelir. Delaleti kat'î ("on fakir"); delil varsa başka manaya hamledilir (Hanefîler: koyun → değeri).
+
+## Mutlak ve mukayyed
+: Mutlak = Gayr-ı muayyen bir ferde veya fertlere delalet eden ve herhangi bir sıfatla kayıtlandığına dair bir delil bulunmayan lafızdır.
+: Mukayyed = Gayr-ı muayyen bir ferde veya fertlere delalet etmekle birlikte bir sıfatla veya kayıtla kayıtlandığına dair bir delil bulunan lafızdır.
+~ Mutlak: "öğrenci" veya "öğrenciler". Mukayyed: "çalışkan öğrenci" veya "çalışkan öğrenciler".
+### Mutlakın hükmü
+- Bir nassta mutlak olarak gelen bir lafız, başka bir nassta mukayyed olarak gelmemişse mutlak hâline göre amel edilir.
+@ وَمَنْ كَانَ مَرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ | Örnek. «أَيَّام» lafzı mutlaktır; çünkü burada veya başka bir nassta herhangi bir kayıtla (mesela "peş peşe") kayıtlanmamıştır.
+### Mukayyedin hükmü
+- Bir nassta mukayyed olarak gelen bir lafız, başka bir nassta mutlak olarak gelmemişse mukayyed hâline göre amel edilir.
+@ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِنْ قَبْلِ أَنْ يَتَمَاسَّا | Örnek. Mutlak bir lafız olan «شَهْرَيْن», «مُتَتَابِعَيْن» kaydıyla kayıtlanmış ve bu manada ilgili başka hiçbir nassta mutlak olarak zikredilmemiştir.
+* Mutlak, kayıtlayan nass yoksa mutlak hâliyle amel edilir (kaza oruçları "eyyâm"). Mukayyed, mutlak bir nass yoksa mukayyed hâliyle amel edilir (keffarette peş peşe iki ay).
+
+## Mutlakın mukayyede hamli
+- Bir lafzın bir nassta mutlak, diğerinde mukayyed olarak gelmesi iki şekilde olur: Itlak ve takyid ya hükmün **sebebindedir** (hüküm aynı) ya da hükmün **kendisindedir**.
+### 1. Sebepte ıtlak ve takyid
+- Bu durumda **Hanefîlere göre** mutlak mukayyede hamledilmez; **cumhura göre** hamledilir.
+@ أَدُّوا صَاعًا مِنْ بُرٍّ أَوْ قَمْحٍ بَيْنَ اثْنَيْنِ أَوْ صَاعًا مِنْ تَمْرٍ أَوْ شَعِيرٍ عَنْ كُلِّ حُرٍّ وَعَبْدٍ صَغِيرٍ أَوْ كَبِيرٍ | Mutlak
+@ أَدُّوا عَنْ كُلِّ حُرٍّ وَعَبْدٍ مِنَ الْمُسْلِمِينَ | Mukayyed
+- Her iki nasstaki hüküm aynıdır: «أَدُّوا», yani sadaka-i fıtrın vâcib olması. Sebep ise nafaka ile yükümlülüktür. 1. nassta bu sebep «حُرّ» ve «عَبْد» diye mutlak olarak zikredilmişken 2. nassta «مِنَ الْمُسْلِمِينَ» kaydıyla zikredilmiştir.
+- **Hanefîlere göre** burada mutlak mukayyede hamledilmediğinden her iki nassla da ayrı ayrı amel edilir: Müslüman olsun olmasın, nafakası üstlenilen herkes adına fitre vermek vâcibtir.
+- **Cumhura göre** hamledildiğinden mukayyed nassla amel edilir: Sadece Müslüman olan adına vermek vâcibtir.
+### 2. Hükümde ıtlak ve takyid
+| Durum | Hamli | Mutlak | Mukayyed | Açıklama
+| **1. Hüküm ve sebep aynı** | İttifakla hamledilir | «حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ» | «أَوْ دَمًا مَسْفُوحًا» | Hüküm haramlık, sebep zarardır.
+| **2. Hüküm ve sebep farklı** | İttifakla hamledilmez | «وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا» | «فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ» | Mutlakın hükmü el kesmek, sebebi hırsızlık; mukayyedin hükmü yıkamak, sebebi namaz.
+| **3. Sebep aynı, hüküm farklı** | İttifakla hamledilmez | «فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِنْهُ» (teyemmüm) | «فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ» | Sebep ikisinde de namaz; hüküm 1.'de mesh, 2.'de yıkama.
+| **4. Hüküm aynı, sebep farklı** | Hanefîlere göre hamledilmez; cumhura göre hamledilir | Zıhar ayetinde «فَتَحْرِيرُ رَقَبَةٍ» | Hataen bir mümini öldürme ayetinde «فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ» | Hüküm aynı (köle azat etmek); sebepler farklı: 1.'de zıhar, 2.'de katl.
+* Sebepte ıtlak-takyid (fitre: "Müslümanlardan" kaydı): Hanefîlere göre hamledilmez (gayrimüslim için de verilir), cumhura göre hamledilir.
+* Hükümde: hüküm ve sebep aynı → ittifakla haml (kan → akıtılmış kan); ikisi farklı → haml yok (hırsızlık-abdest); sebep aynı hüküm farklı → haml yok (teyemmüm-abdest); hüküm aynı sebep farklı → Hanefî hayır, cumhur evet (zıhar-katl keffareti).
+
+## Emir ve nehiy: çeşitleri ve delaleti
+| | Çeşitleri
+| **Emir** | 1. Emir sîgası (emr-i hâzır ve emr-i gâib) · 2. Emir anlamındaki haberî cümle
+| **Nehiy** | 1. Nehiy sîgası (nehy-i hâzır ve nehy-i gâib) · 2. Nehiy anlamındaki haberî cümle
+### Emrin delaleti
+- Nassta vârid olan emrin neye delalet ettiği konusunda bir karine varsa ona delalet eder; bunda ihtilaf yoktur. Ama karinesiz vârid olursa neye delalet ettiği hususunda ihtilaf vardır:
+1. Bir görüşe göre böyle bir emir nedb ve irşada delalet eder.
+2. Diğer bir görüşe göre ibahaya delalet eder.
+3. Bir başka görüşe göre vücub, nedb (irşad) ve ibahaya delaleti eşittir; özel bir karine olmadıkça hiçbirine delaleti belirgin hâle gelmez.
+4. **Çoğunluğa göre** böyle bir emir **vücuba** delalet eder ve özel bir karine olmadıkça başka bir manaya delalet etmez. Buna göre:
+| Karine neye delalet ediyorsa | Örnek
+| **a. İbaha** | «وَكُلُوا وَاشْرَبُوا»
+| **b. Nedb** | Kölelerle mükâtebe ayeti: «فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا»
+| **c. İrşad** | Deyn (borç) ayeti
+| **d. Te'dib** | «سَمِّ اللَّهَ وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ»
+### Nehyin delaleti
+- Aynen emir gibi karine varsa karinenin gösterdiği şeye ihtilafsız delalet eder. Karine yoksa ihtilaflıdır:
+1. Böyle bir nehiy kerahete delalet eder.
+2. Tahrîm ve kerahet arasında müşterektir; karine olmadıkça bunlardan hiçbirine delalet etmez.
+3. **Çoğunluğa göre** böyle bir nehiy **tahrîme** delalet eder ve özel bir karine olmadıkça başka bir manaya delalet etmez. Buna göre:
+| Karine neye delalet ediyorsa | Örnek
+| **a. Kerahet** | «وَذَرُوا الْبَيْعَ…»
+| **b. İrşad** | «لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ»
+| **c. Dua** | «رَبَّنَا لَا تُزِغْ قُلُوبَنَا…»
+* Emir ve nehiy: sîga veya o anlamda haberî cümle. Karinesiz emir çoğunluğa göre vücub; karineyle ibaha, nedb, irşad, te'dib.
+* Karinesiz nehiy çoğunluğa göre tahrîm; karineyle kerahet, irşad, dua.
+
+## Emrin tekrara, fevre ve terâhîye delaleti
+### Emrin tekrara delaleti
+- Bu konuda tercih edilen görüş: Emir, kendi sîgasıyla tekrara delalet etmez; ancak karine varsa delalet eder. Emrin, şâriin me'mûrun bih için illet veya sebep kıldığı bir şarta bağlanmış veya bir vasıfla kayıtlanmış olması gibi.
+@ يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا… | Örnek. Buradaki "yıkayın" emrinin illeti veya sebebi namazdır. Bir şeyin illeti ve sebebi tekrarlandıkça o şey de tekrarlanır.
+### Emrin fevr ve terâhîye delaleti
+- Bu konuda ihtilaf olmakla birlikte en isabetli görüş şudur: Emir, kendi sîgasıyla fevre veya terâhîye delalet etmez. Ancak karine bulunursa fevre veya terâhîye delalet edebilir.
+| Örnek | Delaleti
+| "Bana su ver!" | Fevr
+| "Bir hafta sonra şöyle yap!" | Terâhî
+| Beş vakit namaz gibi muvassa' vâcibler | Terâhî
+| Ramazan orucu gibi mudayyak vâcibler | Fevr
+### Nehiy
+!! Nehiy ise ihtilafsız **fevr ve tekrara** delalet eder. Şâri bir şeyi nehyetmişse mükellefin onu derhâl terk etmesi ve hayatı boyunca hiçbir zaman yapmaması gerekir.
+* Emir kendi sîgasıyla tekrara delalet etmez; illet/sebep olan şarta bağlıysa tekrarlanır (abdest-namaz). Fevr ve terâhîye de sîgasıyla delalet etmez; karine belirler (muvassa' terâhî, mudayyak fevr).
+* Nehiy ihtilafsız fevr ve tekrar ifade eder.

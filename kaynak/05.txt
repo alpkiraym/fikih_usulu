@@ -1,0 +1,127 @@
+# Teşriî Usûlî Kaideler
+> Teşriin genel gayeleri (zarûriyyât, hâciyyât, tahsîniyyât) ve ilgili kaideler; Allah hakları ve kul hakları; içtihadın caiz olduğu alanlar; hükmün neshi.
+
+## Teşriin genel gayesi ve makâsıdın nevileri
+- Teşriin genel gayesi, insanlar için fayda sağlamak ve onlardan zararı savmaktır.
+| Nevi | Tanımı
+| **1. Zarûriyyât** | Toplumun varlığını koruyabilmesi için kaçınılmaz olan değerlerdir. Bunlar yitirildiğinde hayat düzeni bozulur, insanlar arasında kaos ve başıboşluk yayılır.
+| **2. Hâciyyât** | Hayatı kolaylaştırıcı, yokluğu insanlara zorluk ve sıkıntı verebilen, ancak hayat düzenini bozmayan düzenlemelerdir.
+| **3. Tahsîniyyât** | Kâmil insan, üstün ahlak ve güzel davranış niteliklerinin gerektirdiği durumlardır. Yokluğu hayat düzenini bozmaz veya insanları zorluğa ve sıkıntıya sokmaz; ancak selim akıl sahiplerinin nazarında bu özelliklerden mahrum olan kimse nahoş ve çirkin görünür.
+!! Bu değerlerin tertibi: **Zarûriyyât > Hâciyyât > Tahsîniyyât**.
+! Bu taksimin bu üç kısımda hasredilmesinin delili his ve müşahededir.
+* Teşriin gayesi: fayda sağlamak, zarar savmak. Makâsıd: zarûriyyât > hâciyyât > tahsîniyyât (delili his ve müşahede).
+
+## Zarûriyyât: Zarûrât-ı hamse
+| Zaruri değer | Korunması için konan hükümler
+| **1. Din** | Dinin korunması için cihad farz kılınmıştır.
+| **2. Nefis (can)** | Canın korunması için zaruri miktarda yemek-içmek, kısas, diyet gibi hükümler farz kılınmıştır.
+| **3. Akıl** | Aklın korunması için içki gibi sarhoş edici şeyler yasaklanmıştır.
+| **4. Irz (nesil)** | Neslin korunması için zina ve zina iftirası yasaklanmıştır.
+| **5. Mal** | Malın korunması için hırsızlık, faiz, aldatma gibi fiiller yasaklanmıştır.
+* Zarûrât-ı hamse: din (cihad), can (yeme-içme, kısas, diyet), akıl (içki yasağı), nesil (zina ve kazf yasağı), mal (hırsızlık, faiz, aldatma yasağı).
+
+## Hâciyyât ve tahsîniyyât
+| Alan | Hâciyyât | Tahsîniyyât
+| **İbadat** | Su bulamayan için teyemmümün meşru kılınması | Beden ve elbise temizliği, setr-i avret gibi hükümler
+| **Muamelat** | Selem akdinin cevazı | Telakki'l-celeb, neceş gibi fiillerin haram kılınması
+| **Ukubat** | Hataen adam öldürenin diyetini âkilenin ödemesi | Savaş âdâbı (kadın ve çocukların öldürülmemesi)
+* Hâciyyât: teyemmüm, selem, âkilenin diyeti. Tahsîniyyât: temizlik ve setr-i avret, telakki'l-celeb ve neceş yasağı, savaş âdâbı.
+
+## Mükemmilât
+: Mükemmilât = Bu üç değeri tamamlayıcı hükümlerdir.
+| Değer | Örnek
+| **Zarûriyyâta** | Dinin korunması için namaz farz kılındığı gibi ezan ve cemaatle namaz da meşru kılınmıştır.
+| **Hâciyyâta** | Yolculukta kasr-ı salâta cevaz verildiği gibi cem'e de cevaz verilmiştir.
+| **Tahsîniyyâta** | Sadaka vererek sevap kazanmak meşru olduğu gibi, verirken iyisinden vermek tavsiye edilmiştir.
+* Mükemmilât: namaza ezan ve cemaat; kasra cem'; sadakada iyisini vermek.
+
+## Zarûriyyâtla ilgili kaideler (def'-i zarar)
+@ الضَّرَرُ يُزَالُ شَرْعًا | 1. Zarar şer'an giderilir: şuf'a gibi.
+@ الضَّرَرُ لَا يُزَالُ بِالضَّرَرِ | 2. Zarar zararla giderilmez: kişi kendi malını korumak için başkasının malına zarar veremez.
+@ يُتَحَمَّلُ الضَّرَرُ الْخَاصُّ لِدَفْعِ الضَّرَرِ الْعَامِّ | 3. Genel zararı defetmek için özel zarara katlanılır: toplumun can güvenliği için katile kısas uygulamak gibi.
+@ يُرْتَكَبُ أَخَفُّ الضَّرَرَيْنِ لِاتِّقَاءِ أَشَدِّهِمَا | 4. Ağır zarardan korunmak için hafif olanı irtikâp edilir: avret yerini örtecek elbise bulamayanın, namazı terk etmek yerine öyle kılması gibi.
+@ دَفْعُ الْمَضَارِّ مُقَدَّمٌ عَلَى جَلْبِ الْمَنَافِعِ | 5. Zararları defetmek, menfaat celbinden önce gelir: oruçlunun mazmaza ve istinşakta mübalağa yapmasının mekruh olması gibi.
+@ الضَّرُورَاتُ تُبِيحُ الْمَحْظُورَاتِ | 6. Zaruretler yasakları mübah kılar: ızdırar hâlinde domuz eti yemek gibi.
+@ الضَّرُورَاتُ تُقَدَّرُ بِقَدَرِهَا | 7. Zaruretler kendi miktarlarınca takdir olunur: domuz etini ölmeyecek kadar yemek gibi.
+* Def'-i zarar kaideleri: zarar giderilir (şuf'a) · zararla giderilmez · genel zarar için özel zarara katlanılır (kısas) · ehven-i şerreyn (örtüsüz namaz) · def'-i mefsedet celb-i menfaatten önce (oruçluya mübalağa mekruh) · zaruretler yasakları mübah kılar · zaruret kendi miktarınca.
+
+## Hâciyyâtla ilgili kaideler (def'-i haraç)
+@ الْمَشَقَّةُ تَجْلِبُ التَّيْسِيرَ | 1. Meşakkat kolaylık getirir. Sebepleri 7'dir: sefer, hastalık, ikrah, unutmak, cehalet, umûm-i belvâ ve nâkıs olmak.
+@ الْحَرَجُ شَرْعًا مَرْفُوعٌ | 2. Haraç (darlık) şer'an kaldırılmıştır: istikbâl-i kıble konusunda zann-ı gâlip ile hareket edilebilmesi gibi.
+@ الْحَاجَاتُ تُنَزَّلُ مَنْزِلَةَ الضَّرُورَاتِ فِي إِبَاحَةِ الْمَحْظُورَاتِ | 3. İhtiyaçlar yasakları mübah kılmada zaruretler yerine konur: selem akdine cevaz verilmesi gibi.
+* Def'-i haraç kaideleri: meşakkat kolaylık getirir (7 sebep: sefer, hastalık, ikrah, unutma, cehalet, umûm-i belvâ, nâkıslık) · haraç kaldırılmıştır (kıblede zann-ı gâlip) · ihtiyaç zaruret yerine geçer (selem).
+
+## Allah hakları ve kul hakları
+| Mahkûm fîhten maksat | Kimin hakkı | Tenfizinde hıyar
+| Toplumun maslahatı | Sadece Allah hakkı | Yoktur
+| Sadece mükellefin maslahatı | Sadece mükellefin (kulun) hakkı | Vardır
+| Her ikisinin maslahatı | Hangisi baskınsa ona göre 1. ya da 2. gruba girer | —
+### Sadece Allah hakları
+1. Mahza ibadet (namaz gibi).
+2. Malî yükümlülük barındıran ibadet (fitre gibi).
+3. Ziraî arazi hakkında farz kılınan vergiler (öşür).
+4. Ganimetler ve yer altında bulunan hazine ve madenler hakkında farz kılınan vergi (ganimetten 1/5).
+5. Kâmil (tam) ceza çeşitleri (hadler gibi).
+6. Kâsır (eksik) ceza çeşitleri (katilin mirastan mahrum bırakılması gibi).
+7. İbadet anlamındaki keffaretler (yemin keffareti gibi).
+### Sadece kul hakkı
+~ Borçlunun borcunu ödemesi.
+### Müşterek haklar
+| Kısım | Örnek
+| **1. Allah hakkının baskın olduğu** | Kazf haddi
+| **2. Kul hakkının baskın olduğu** | Kısas haddi
+! Zekât Hanefîlere göre mahza ibadettir (1. kısımdan); cumhura göre 2. kısımdandır (malî yükümlülük barındıran ibadet).
+* Toplum maslahatı → Allah hakkı (hıyar yok); mükellef maslahatı → kul hakkı (hıyar var). Müşterek: Allah hakkı baskın (kazf), kul hakkı baskın (kısas).
+* Sadece Allah hakları 7: mahza ibadet, malî ibadet (fitre), öşür, humus, kâmil ceza (had), kâsır ceza (mirastan mahrumiyet), ibadet anlamında keffaret.
+
+## İçtihadın caiz olduğu alanlar
+!! Hakkında sarih ve kat'î nass bulunan bir konuda içtihad yapılamaz. İçtihad, hakkında nass olmayan veya kat'î olmayan nass bulunan konularda yapılabilir.
+: İçtihad = Şer'î amelî hükümleri tafsîlî delillerinden çıkarabilmek için bütün çabayı sarf etmektir.
+### İçtihad yapabilmenin başlıca şartları
+1. Arap diline vâkıf olmak.
+2. Kur'an ilimlerine vâkıf olmak.
+3. Hadis ilimlerine vâkıf olmak.
+4. Kıyasın vecihlerini bilmek (illet, hikmet, illetin şartları vb.).
+### İçtihadla ilgili dikkat çekilmesi gereken 3 husus
+1. **İçtihad bölünmeyi kabul etmez.** Yani bir müçtehidin talakla ilgili hükümleri bilip bey' ile ilgili hükümleri bilmemesi düşünülemez. Her konuda bilgi sahibi olmalıdır.
+2. **Müçtehid ecir kazanır.** İsabet ederse 2, etmezse 1 sevap alır.
+3. **İçtihad misliyle nakzedilmez.** Yani bir müçtehid bir mesele hakkında bir içtihad eder, daha sonra aynı meseleyle ilgili farklı bir içtihad ederse ne kendisi ne de bir başkası 1. içtihadı bozamaz. Çünkü bu anarşi, istikrarsızlık ve güvensizliğe yol açar.
+! Bu konuda tafsilat vardır.
+* Kat'î ve sarih nass olan yerde içtihad yok. Şartlar: Arapça, Kur'an ilimleri, hadis ilimleri, kıyas vecihleri.
+* İçtihad bölünmez · müçtehid isabette 2, hatada 1 ecir alır · içtihad misliyle nakzedilmez.
+
+## Hükmün neshi
+!! Resulullah'ın vefatından sonra nesih yoktur.
+@ رَفْعُ الْحُكْمِ الشَّرْعِيِّ بِدَلِيلٍ شَرْعِيٍّ
+: Nesh = Şer'î bir hükmün şer'î bir delille kaldırılmasıdır.
+### Hikmeti
+1. Maslahatların değişiklik göstermesi.
+2. Tedricilik.
+3. İmtihan.
+! Kitapta iki hikmet sayılır: ilk ikisi.
+### Çeşitleri
+| Çeşit | Tanımı | Örnek
+| **1. Sarih nesih** | Şâriin önceki hükmü ilga ettiğini açıkça ifade etmesidir | Hz. Peygamber'in önce kabir ziyaretini yasaklayıp sonra izin vermesi
+| **2. Zımnî nesih** | Şâriin açıkça nesihten bahsetmeyip önceki hükme, aralarını bulamayacak şekilde muarız bir hüküm koymasıdır | Vasiyet ayetini Hz. Peygamber'in «لَا وَصِيَّةَ لِوَارِثٍ» hadisi neshetmiştir
+! Zımnî nesihteki "aralarını bulamayacak şekilde" kaydı cumhura göredir; Hanefîlere göre bu kayıt yoktur.
+### Küllî ve cüz'î nesih
+| Çeşit | Tanımı | Örnek
+| **1. Küllî** | Önceki hükmü herkes için tamamen ilga etmek | Vefat edenin karısının iddetinin önce 1 yıl, sonra 4 ay 10 gün olması
+| **2. Cüz'î** | Önceki hükmü bazı hâllerde ve bazı kimseler hakkında ilga etmek | Kazifte bulunup 4 şahit getiremeyene 80 sopa vurulur; ama bu kişi kocaysa 80 sopa değil, liân yapılır
+* Nesih: şer'î hükmün şer'î delille kaldırılması; vefattan sonra yok. Hikmeti: maslahatın değişmesi, tedric, imtihan.
+* Sarih (kabir ziyareti) / zımnî (vasiyet ayeti – "lâ vasiyyete li-vâris"). Küllî (iddet 1 yıl → 4 ay 10 gün) / cüz'î (kazifte koca için liân).
+
+## Nesih kabul etmeyen nasslar ve nesih aracı
+### Nesih kabul etmeyen nasslar
+1. Hiçbir durumda değişmeyen temel hükümler: iman esasları gibi.
+2. Sîgası te'bid ifade eden hükümler: kazifler hakkındaki «وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا» ayeti gibi.
+3. Gerçekleşmiş olaylar hakkındaki nasslar. Çünkü böyle bir durumda nesih şâriin yalanlanmasına götürür ki bu muhaldir.
+### Ne ile nesih gerçekleşir?
+@ مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ مِثْلِهَا | Genel kural: Bu ayette de belirtildiği gibi bir nassı ancak onun seviyesinde veya ondan daha üstün, kuvvetli bir nass neshedebilir.
+| Neshedebilir mi? | Cevap | Gerekçe
+| **İcmâ nassı** | Hayır | Nass kat'î ise icmâ söz konusu olamaz. Zannî ise başka bir kat'î nassa dayanıp icmâ yapılır; bu durumda nâsih icmâ değil, dayandığı kat'î nass olur.
+| **İcmâ icmâyı** | Hayır | —
+| **Kıyas Kitap, Sünnet ve icmâyı** | Hayır | Kıyasın Kitap, Sünnet ve icmâya aykırı olmaması şartı vardır.
+| **Kıyas kıyası** | Hayır | —
+* Neshi kabul etmeyenler: iman esasları, te'bidli hükümler ("ebeden"), gerçekleşmiş olaylar.
+* Nassı ancak dengi veya üstü nesheder. İcmâ nassı ve icmâyı, kıyas Kitap, Sünnet, icmâ ve kıyası neshedemez.

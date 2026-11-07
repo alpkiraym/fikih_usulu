@@ -1,0 +1,25 @@
+{
+  "name": "Fıkıh Usulü · Giray Akademi",
+  "short_name": "Fıkıh Usulü",
+  "description": "Deliller, hükümler, lafızlar ve tercih",
+  "start_url": "/fikih_usulu/",
+  "scope": "/fikih_usulu/",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#1f5a45",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/fikih_usulu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fikih_usulu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
