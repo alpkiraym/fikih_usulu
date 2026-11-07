@@ -129,6 +129,7 @@ button.row:hover{border-color:var(--green-2)}
 .meter .progress{height:10px}
 .select{padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:#fff;font-size:.9rem;max-width:100%}
 .rowctl{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:10px}
+.kaynak{margin:28px auto 8px;padding-top:12px;border-top:1px solid var(--line);color:var(--muted);font-size:.78rem;text-align:center}
 .foot{margin-top:40px;color:var(--muted);font-size:.8rem;text-align:center}
 .sig{position:fixed;left:0;right:0;bottom:0;z-index:50;display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;padding:5px 12px calc(5px + env(safe-area-inset-bottom));background:var(--card);border-top:1px solid var(--line);font-family:var(--sans);font-size:.7rem;letter-spacing:.02em;color:var(--muted)}
 .sig b{color:var(--green);font-weight:600}
@@ -285,6 +286,7 @@ details.ht li:before{content:"✓";position:absolute;left:2px;top:7px;color:var(
 </div></header>
 
 <main class="wrap" id="app"></main>
+<p class="wrap kaynak">Kaynak: Abdullah Baltalı Ders Notları</p>
 <div class="sov" id="sov" role="dialog" aria-label="Arama"><div class="sbox"><div class="sbar"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg><input id="sq" type="search" placeholder="Kavram, eser ya da konu ara…" autocomplete="off" oninput="doGlobalSearch()"><button class="ghost" onclick="closeSearch()">Kapat</button></div><div class="sres" id="sres"></div></div></div>
 <div class="sig"><span>© 2026 Her hakkı saklıdır</span><i>·</i><span>Designed by: <b>M.ALPKİRAY</b></span></div>
 <script>window.BLD_APP = 'Fıkıh Usulü'; window.BLD_PREFIX = 'fu_'; window.BLD_SLOT = '#bldSlot';</script>
